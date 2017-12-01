@@ -34,6 +34,10 @@ header{
   background: $brand-terciary;
 }
 
+#menu-lang ul li input[type=submit]{
+  color: $brand-secondary;
+}
+
 .home-content .options .option>div .btn{
   background: $brand-secondary;
   border-color: $brand-secondary;
