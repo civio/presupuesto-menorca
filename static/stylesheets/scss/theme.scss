@@ -1,1 +1,68 @@
 @import "theme-variables";
+
+header{
+  background: $brand-primary;
+}
+
+.navbar-brand a{
+  color: $brand-secondary;
+  font-weight: 400;
+
+  &:hover{
+    color: darken( $brand-secondary, 15%);
+  }
+}
+
+.navbar-default{
+  border-top: 1px solid $brand-terciary;
+}
+.navbar-default .navbar-nav>li>a{
+  border-color: $brand-terciary;
+  font-weight: 600;
+  &:hover{
+    color: $dvmi-navbar-color;
+  }
+}
+.navbar-default .navbar-nav>li.active>a,
+.navbar-default .navbar-nav>li.active>a:hover{
+  font-weight: 400;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus{
+  color: white;
+  background: $brand-terciary;
+}
+
+.home-content .options .option>div .btn{
+  background: $brand-secondary;
+  border-color: $brand-secondary;
+
+  &:hover{
+    background: darken($brand-secondary,10%);
+    border-color: darken($brand-secondary,10%);
+  }
+}
+
+.home-content .expense-examples li a{
+  color: $brand-terciary;
+}
+
+.form-search label{
+  color: white;
+  font-weight: 400;
+}
+.form-search .btn{
+  color: $brand-secondary;
+}
+
+.glossary-terms h3:before, 
+.glossary-terms h4:before{
+  color: $brand-terciary;
+}
+
+.chart-container .popover .popover-title,
+.sankey .popover-content .executed, 
+.sankey .popover-content .budgeted{
+  color: darken($brand-terciary,10%);
+}

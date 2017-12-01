@@ -12,9 +12,9 @@ $gray-lightest:         lighten($gray-base, 96%) !default;
 
 $text-color:            #414141;
 
-$brand-primary:         #d32e12;
-$brand-secondary:       #49647A;
-$brand-terciary:        #DDCFC1;
+$brand-primary:         #ffab03;
+$brand-secondary:       #3a2542;
+$brand-terciary:        #ca6d26;
 
 $link-color:            $brand-primary;
 $link-hover-color:      $link-color;
@@ -64,12 +64,12 @@ $dvmi-menu-length: 3;  // Number of items in main menu
 
 // Navbar background color
 $navbar-default-bg:       $brand-primary;
-$navbar-default-bg-hover: mix( $navbar-default-bg, white, 75% );
+$navbar-default-bg-hover: mix( $brand-terciary, $brand-primary, 25% );
 
 // Navbar options text color
-$dvmi-navbar-color: mix( $brand-primary, white, 10% );
+$dvmi-navbar-color: $brand-secondary;
 
-$navbar-default-link-active-color:    $brand-primary;
+$navbar-default-link-active-color:    white;
 $navbar-default-link-active-bg:       $brand-terciary;
 
 
@@ -77,14 +77,14 @@ $navbar-default-link-active-bg:       $brand-terciary;
 // --------------
 
 $footer-color: white;
-$footer-bg: $brand-primary;
+$footer-bg: $brand-terciary;
 
 
 // Page Header
 // --------------
 
-$page-header-bg:            mix( $brand-secondary, white, 8% );
-$page-header-border-color:  mix( $brand-secondary, white, 70% );
+$page-header-bg:            mix( $brand-primary, white, 8% );
+$page-header-border-color:  mix( $brand-primary, white, 70% );
 
 
 // Panels
@@ -171,7 +171,7 @@ $search-form-bg: $brand-terciary;
 // Budget Stream
 // --------------
 
-$budget-stream-color: $brand-secondary;
+$budget-stream-color: lighten($brand-secondary,10%);
 
 
 // Year Slider
@@ -190,5 +190,5 @@ $data-sources-color: $brand-terciary;
 // Sankey Viz
 // --------------
 
-$sankey-income-color:   $brand-primary;
-$sankey-expense-color:  complement($sankey-income-color);
+$sankey-income-color:   mix($brand-primary, $brand-terciary, 40%);
+$sankey-expense-color:  lighten($brand-secondary,10%); //complement($sankey-income-color);
