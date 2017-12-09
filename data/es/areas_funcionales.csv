@@ -33,132 +33,65 @@
 9,3,,,Administración financiera y tributaria
 9,4,,,Transferencias a otras administraciónes públicas
 #
-# Programas específicos de Arona
-0,1,1,0,Deuda Pública
-1,3,0,0,Administración General de Seguridad y Protección Civil
-1,3,2,0,Seguridad y Orden Público
-1,3,3,0,Ordenación del tráfico y del estacionamiento
-1,3,4,0,Movilidad urbana
-1,3,5,0,Protección civil
-1,3,6,0,Servicio de prevención y extinción de incendios
-1,5,0,0,Administración General de Vivienda y urbanismo
-1,5,1,0,Urbanismo: plamen. gest. ejec. y discip. urban.
-1,5,2,0,Vivienda 
-1,5,2,1,Promoción-gestión vivienda de protección pública
-1,5,2,2,Conservación y rehabilitación de la edificación
-1,5,3,1,Acceso a los núcleos de población
-1,5,3,2,Pavimentación de vías públicas
-1,5,3,3,Vías públicas
-1,5,4,0,Fomento de la edificación protegida
-1,5,5,0,Vías públicas
-1,6,0,0,Alcantarillado
-1,6,1,0,Abastecimiento domiciliario de agua potable
-1,6,2,0,"Recogida, eliminación y tratamiento de residuos"
-1,6,2,1,Recogida de residuos
-1,6,2,2,Gestión de residuos sólidos urbanos
-1,6,2,3,Tratamiento de residuos
-1,6,3,0,Limpieza viaria
-1,6,4,0,Cementerio y servicios funerarios
-1,6,5,0,Alumbrado público
-1,6,9,0,Otros servicios de bienestar comunitario
-1,7,0,0,Administración general del medio ambiente
-1,7,1,0,Parques y jardines
-1,7,2,0,Protección y mejora del medio ambiente
-1,7,2,1,Protección-contam. acústica lumínica y atmosférica
-1,7,2,2,Mantenimiento y mejora de playas
-1,7,2,3,EDUSI
-1,7,3,0,Actuaciones en Playas
-1,7,9,0,Otras actuaciones relacionadas con el medio ambiente
-2,1,1,0,Pensiones
-2,2,1,0,Otras prestaciones económicas a favor de empleados
-2,3,0,0,Administración General de servicios sociales
-2,3,1,0,Asistencia social primaria
-2,3,2,0,Promoción social
-2,3,3,0,Asistencia a personas dependientes
-2,4,1,0,Fomento del Empleo
-2,4,1,1,Agencia Municipal de Colocación
-3,1,1,0,Protección de la salubridad pública
-3,1,2,0,"Hospitales, servicios asistenciales y centros de salud"
-3,1,3,0,Acciones públicas relativas a la salud
-3,2,0,0,Administración general de educación
-3,2,1,0,Creac. centros enseñanza preescolar y primaria
-3,2,1,9,Educación preescolar y primaria
-3,2,2,0,Creac. centros enseñanza secundaria
-3,2,2,9,Enseñanza secundaria
-3,2,3,0,"Func. centros enseñanza preescolar, primaria y especializada"
-3,2,3,9,Promoción educativa
-3,2,4,0,Func.centros enseñanza secundaria
-3,2,5,0,Vigilancia del cumplimiento escolaridad obligatoria
-3,2,6,0,Servicios complementarios de educación
-3,2,7,0,Fomento de la convivencia ciudadana
-3,2,7,1,Fomento Convivencia Jóvenes
-3,2,7,2,Fomento de convivencia ciudadana
-3,3,0,0,Administración General de Cultura
-3,3,1,0,Música
-3,3,2,0,Bibliotecas y Archivos
-3,3,2,1,Bibliotecas públicas
-3,3,2,2,Archivos
-3,3,3,0,Equipamientos culturales y museos
-3,3,4,1,Promoción cultural
-3,3,4,2,Música
-3,3,5,0,Artes escénicas
-3,3,6,0,Protección y gestión del Patrimonio Histórico-Artístico
-3,3,7,0,Instalaciones de ocupación del tiempo libre
-3,3,8,0,Fiestas populares y festejos
-3,3,9,0,Juventud
-3,4,0,0,Administración General de Deportes
-3,4,1,0,Promoción y fomento del deporte
-3,4,2,0,Instalaciones Deportivas
-3,4,3,0,Precio público por servicios deportivos
-4,1,0,0,"Administración Gral. Agricultura, Ganadería y Pesca"
-4,1,2,0,Mejora estructuras agropecuarias y sist. product.
-4,1,4,0,Desarrollo rural
-4,1,5,0,Protección y desarrollo de los recursos pesqueros
-4,1,9,0,"Otras actuaciones en agricultura, ganadería y pesca"
-4,2,0,0,Administración General de Industria y energía
-4,2,2,0,Industria
-4,2,3,0,Minería
-4,2,5,0,Energía
-4,3,0,0,"Adm. General Comercio, Turismo y PYMES"
-4,3,1,0,Comercio
-4,3,1,1,Ferias
-4,3,1,2,"Mercados, abastos y lonjas"
-4,3,1,3,Comercio ambulante
-4,3,2,0,Información y promoción turística
-4,3,3,0,Desarrollo empresarial
-4,3,9,0,Otras actuaciones sectoriales
-4,4,0,0,Administración general del transporte
-4,4,1,0,Transporte de viajeros
-4,4,1,1,Transporte colectivo urbano de viajeros
-4,4,1,2,Otro transporte de viajeros
-4,4,1,9,"Promoción, mantenimiento y desarrollo del transporte"
-4,4,2,0,Infraestructuras del transporte
-4,4,3,0,Transporte de mercancías
-4,5,0,0,Administración General de Infraestructuras
-4,5,2,0,Recursos Hidráulicos
-4,5,3,0,Carreteras 
-4,5,4,0,Caminos vecinales
-4,5,9,0,Otras infraestructuras
-4,6,2,0,Investigación y estudios relacionados servicios públicos
-4,6,3,0,"Investigación científica, técnica y aplicada"
-4,9,1,0,Sociedad de la información
-4,9,1,1,URBAN-ARONA 2007-2013
-4,9,2,0,Gestión del conocimiento
-4,9,3,0,Protección de consumidores y usuarios
-9,1,2,0,Órganos de gobierno
-9,2,0,0,Administración General 
-9,2,2,0,Coordinación-organización institucional entidades locales
-9,2,3,0,Información básica y estadística
-9,2,3,1,Gestión del Padrón Municipal de Habitantes
-9,2,4,0,Participación ciudadana
-9,2,5,0,Atención a los ciudadanos
-9,2,6,0,Comunicaciones internas
-9,2,9,0,"Imprevistos, sit. transitorias y contingencias ejecución"
-9,3,1,0,Política económica y fiscal
-9,3,2,0,Gestión del sistema tributario
-9,3,3,0,Gestión del patrimonio
-9,3,4,0,Gestión de la deuda y de la tesorería
-9,4,1,0,Transferencias a Comunidades Autónomas
-9,4,2,0,Transferencias a Entidades Locales territoriales
-9,4,3,0,Transferencias a otras Entidades Locales
-9,4,4,0,Transferencias a la Administración General del Estado
+# Programas específicos de Menorca
+0,1,1,00,"Amortització i interessos"
+1,3,6,00,"Servei prevenció i extincio incendis i salvament"
+1,5,1,00,"Ordenacio territorial"
+1,7,2,00,"Agencia menorca reserva biosfera"
+2,3,1,00,"Aga departament benestar social i família"
+2,3,1,01,"Aga atencio dona infancia joventut"
+2,3,1,10,"Coordinació i suport a xarxa d'habitatge social de menorca"
+2,3,1,11,"Suport xarxa emif i mediacio"
+2,3,1,21,"Política de gènere i igualtat"
+2,3,1,22,"Atenció a les drogodependencies"
+2,3,1,23,"Servei insular famíliia"
+2,3,1,24,"Pla insular de família i promoció de la salut"
+2,3,1,25,"Xarxa d'atencio a l'immigrant i al nouvingut"
+2,3,1,31,"Suport social i comunitari"
+2,3,1,32,"Centres de dia discapacitat psiquiatrica"
+2,3,1,33,"Residencia centres de dia gent gran"
+2,3,1,34,"Atencio gent gran depenent i envelliment actiu"
+2,3,1,35,"Residencies centres dia discapacitats"
+2,4,1,00,"Ocupació"
+3,1,1,00,"Promocio de la salut"
+3,2,6,00,"Educació"
+3,3,0,00,"Aga cultura  i educacio"
+3,3,2,00,"Patrimoni documental i biblioteques"
+3,3,2,10,"Biblioteca i arxiu mao"
+3,3,3,00,"Museu de menorca"
+3,3,4,00,"Creacio i promocio cultural"
+3,3,4,10,"Politica linguistica"
+3,3,4,50,"Joventut"
+3,3,6,00,"Patrimoni historic"
+3,4,1,00,"Esports"
+4,1,0,00,"Aga direcció insular medi ambient"
+4,1,2,00,"Agricultura"
+4,1,2,30,"Formacio capacitacio i assessorament"
+4,1,2,40,"Ramaderia"
+4,1,5,00,"Medi marí, litoral i pesca"
+4,1,9,00,"Promocio i qualitat prod.agroalimentaris"
+4,1,9,10,"Caça, regulacio, vigilancia, recursos cinegètics"
+4,3,0,00,"Ordenació turistica"
+4,3,2,00,"Promoció turística"
+4,3,9,00,"Comerç i industria"
+4,3,9,01,"Llatzaret"
+4,3,9,10,"Artesania"
+4,4,1,00,"Transports"
+4,5,3,00,"Carreteres"
+4,6,2,00,"Innovacio"
+9,1,2,00,"Organs de govern"
+9,2,0,00,"Aga serveis generals"
+9,2,0,10,"Informatica"
+9,2,0,20,"Servei gestio de les persones"
+9,2,0,50,"Aga d'ocupació, projecció econòmica, joventut i esports"
+9,2,0,60,"Secretaria, serveis juridics i contractació"
+9,2,0,80,"Servei de contractació"
+9,2,2,01,"Servei insular cooperacio i ass.municipis"
+9,2,2,02,"Servei insular acollida animals"
+9,2,2,30,"Servei insular seguretat i salut laboral"
+9,2,5,00,"Ciutadania i qualitat"
+9,2,9,00,"Fons de contingencia"
+9,2,9,10,"Cooperació internacional"
+9,3,1,00,"Serveis economics"
+9,3,3,00,"Serveis tecnics manteniment i edificacio"
+9,4,3,00,"Plans de concertacio economica local"

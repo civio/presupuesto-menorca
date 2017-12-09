@@ -12,7 +12,7 @@ MAIN_ENTITY_NAME = 'Menorca'
 BUDGET_LOADER = 'MenorcaBudgetLoader'
 
 # Theme Payments Loader class name. Default: 'PaymentsLoader'
-PAYMENTS_LOADER = 'MenorcaPaymentsLoader'
+# PAYMENTS_LOADER = 'MenorcaPaymentsLoader'
 
 
 # Show / hide Settings
@@ -72,7 +72,7 @@ PAYMENTS_LOADER = 'MenorcaPaymentsLoader'
 # BREAKDOWN_BY_UID = False
 
 # Include financial income/expenditures in overview and global policy breakdowns. Default: False
-# INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = True
+INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = True
 
 # Does the data includes a fifth functional classification level, subprogrammes?. Default: False
 # USE_SUBPROGRAMMES = True

@@ -1,0 +1,1585 @@
+,,,,,,,,,,
+1.0,9120.0,1000000.0,Retribucions alts càrrecs,,9.0,1.0,600447.68,0.00,600447.68,566041.05
+1.0,9120.0,1000100.0,Assistència a sessions,,9.0,1.0,21371.88,0.00,21371.88,0.00
+1.0,9120.0,1010000.0,Retribucions personal gabinet,,9.0,1.0,99621.48,0.00,99621.48,106737.32
+1.0,9120.0,1100000.0,Retribucions administratius personal eventual,,9.0,1.0,222888.48,0.00,222888.48,0.00
+1.0,9120.0,1200000.0,Retrib. Bàsiques funcionaris,,9.0,1.0,31971.18,0.00,31971.18,24093.98
+1.0,9120.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,166982.37
+1.0,9120.0,1210000.0,Retrib. Complementàries funcionaris,,9.0,1.0,40089.01,0.00,40089.01,28498.33
+1.0,9120.0,1310000.0,Retrib.Personal laboral eventual,,9.0,1.0,0.00,0.00,0.00,737.73
+1.0,9120.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,9.0,1.0,0.00,0.00,0.00,12873.97
+1.0,9120.0,1311020.0,Indemnitzacions per fi de contracte,,9.0,1.0,0.00,0.00,0.00,1188.76
+1.0,9120.0,1500000.0,Altres retribucions - incentiu productivitat,,9.0,1.0,0.00,0.00,0.00,3513.60
+1.0,9120.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,9.0,1.0,0.00,0.00,0.00,1693.20
+1.0,9120.0,1510000.0,Gratificacions Funcionaris,,9.0,1.0,0.00,0.00,0.00,2158.29
+1.0,9120.0,1620005.0,Assegurances de vida i accidents,,9.0,1.0,0.00,0.00,0.00,0.00
+1.0,9120.0,1620509.0,Assegurances de vida i accidents anys anteriors,,9.0,1.0,0.00,0.00,0.00,18809.49
+1.0,9120.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,,9.0,2.0,4432.83,0.00,4432.83,0.00
+1.0,9120.0,2140000.0,Manteniment elements de transport,,9.0,2.0,1298.92,0.00,1298.92,0.00
+1.0,9120.0,2200000.0,Material d'oficina ordinari,,9.0,2.0,650.55,0.00,650.55,0.00
+1.0,9120.0,2200100.0,Subscripcions i publicacions,,9.0,2.0,18000.00,370.14,18370.14,4495.25
+1.0,9120.0,2200109.0,Subscripcions i publicacions anys anteriors,,9.0,2.0,0.00,0.00,0.00,370.14
+1.0,9120.0,2210300.0,Subministrament combustible,,9.0,2.0,1500.00,0.00,1500.00,127.74
+1.0,9120.0,2220000.0,Comunicacions ,,9.0,2.0,3788.52,0.00,3788.52,1847.75
+1.0,9120.0,2220009.0,Comunicacions telefòniques anys anteriors.,,9.0,2.0,0.00,0.00,0.00,197.92
+1.0,9120.0,2230000.0,Transports,,9.0,2.0,20000.00,0.00,20000.00,2896.67
+1.0,9120.0,2230009.0,Transports anys anteriors,,9.0,2.0,0.00,0.00,0.00,121.11
+1.0,9120.0,2240000.0,Assegurances,,9.0,2.0,1110.88,0.00,1110.88,461.92
+1.0,9120.0,2250200.0,Tributs entitats locals,,9.0,2.0,0.00,0.00,0.00,2192.69
+1.0,9120.0,2260100.0,Despeses diverses en atencions,,9.0,2.0,20000.00,0.00,20000.00,3457.83
+1.0,9120.0,2260109.0,Despeses de protocol anys anteriors,,9.0,2.0,0.00,7500.00,7500.00,7500.00
+1.0,9120.0,2260200.0,Difusió i Campanyes de divulgació,,9.0,2.0,112500.00,50000.00,62500.00,10584.91
+1.0,9120.0,2260209.0,Publicitat i propaganda anys anteriors,,9.0,2.0,0.00,6609.14,6609.14,11182.95
+1.0,9120.0,2260901.0,Diada del Poble de Menorca,,9.0,2.0,7140.00,0.00,7140.00,0.00
+1.0,9120.0,2269902.0,Despeses diverses,,9.0,2.0,0.00,0.00,0.00,153.49
+1.0,9120.0,2269903.0,Participació Ciutadana,,9.0,2.0,7803.00,0.00,7803.00,0.00
+1.0,9120.0,2269909.0,Despeses diverses d'anys anteriors,,9.0,2.0,0.00,0.00,0.00,600.00
+1.0,9120.0,2270600.0,Estudis i treballs tècnisc,,9.0,2.0,14000.00,0.00,14000.00,0.00
+1.0,9120.0,2300000.0,Dietes de càrrecs electes,,9.0,2.0,3395.87,0.00,3395.87,2207.26
+1.0,9120.0,2300200.0,Dietes ,,9.0,2.0,5199.00,0.00,5199.00,0.00
+1.0,9120.0,2303000.0,Dietes oposició,,9.0,2.0,7959.06,0.00,7959.06,0.00
+1.0,9120.0,2310000.0,Quilometratges,,9.0,2.0,0.00,0.00,0.00,4108.75
+1.0,9120.0,4110001.0,CESM,,9.0,4.0,20450.00,0.00,20450.00,5248.75
+1.0,9120.0,4110003.0,IME,,9.0,4.0,288075.00,109053.15,397128.15,397128.15
+1.0,9120.0,4810002.0,Beques i Premis,,9.0,4.0,11000.00,0.00,11000.00,0.00
+1.0,9120.0,4890000.0,Subvencions a entitats ciutadanes,,9.0,4.0,4725.00,0.00,4725.00,200.00
+1.0,9120.0,4890027.0,Aportació a entitats associatives institucionals,,9.0,4.0,19250.00,0.00,19250.00,27426.62
+1.0,9120.0,4890042.0,Servei d'Assessorament Entitats Ciutadanes,,9.0,4.0,10125.00,0.00,10125.00,0.00
+1.0,9120.0,4890056.0,Grups polítics,,9.0,4.0,104050.00,0.00,104050.00,104048.16
+1.0,9120.0,4890069.0,Conveni Assoc. Premsa Locals Menorca,,9.0,4.0,4000.00,0.00,4000.00,0.00
+1.0,9120.0,4890070.0,Conveni Assoc. Revistes Locals Menorca,,9.0,4.0,4662.00,0.00,4662.00,0.00
+1.0,9120.0,6220009.0,IR Inversions estatutàries ,,9.0,6.0,0.00,11687216.70,11687216.70,788269.64
+1.0,9120.0,6271000.0,Inversions Estatutàries Fibra Optica,,9.0,6.0,6800386.84,0.00,6800386.84,44552.21
+1.0,9120.0,6400000.0,Inversions immaterials: Illes Balears,,9.0,6.0,0.00,28500.00,28500.00,21182.70
+1.0,9120.0,7620009.0,IR Inversions estatutàries,,9.0,7.0,0.00,125772.48,125772.48,0.00
+2.0,110.0,3100000.0,Interessos,2.0,0.0,3.0,1206776.82,153719.24,1053057.58,772.90
+2.0,110.0,3100100.0,Interessos prestec BBVA - Inversions 03 - 02100286,2.0,0.0,3.0,0.00,0.00,0.00,16267.13
+2.0,110.0,3100200.0,Interessos prestec Bankia ICO 1 2012 - RDL 4/2012,2.0,0.0,3.0,0.00,0.00,0.00,113227.46
+2.0,110.0,3100300.0,Interessos prestec BBVA Inversions 2007,2.0,0.0,3.0,0.00,0.00,0.00,57307.18
+2.0,110.0,3100400.0,Interessos Prestec Bankia 2012 ICO2,2.0,0.0,3.0,0.00,0.00,0.00,7357.06
+2.0,110.0,3100500.0,Interessos Prestec La Caixa - Fomit Inverions 2006,2.0,0.0,3.0,0.00,0.00,0.00,26821.24
+2.0,110.0,3100600.0,Interessos Prestec Caja Madrid - Inversions 2004,2.0,0.0,3.0,0.00,0.00,0.00,20497.23
+2.0,110.0,3100700.0,Interessos La Caixa - Inversions 2008 - 681959-09,2.0,0.0,3.0,0.00,0.00,0.00,61319.09
+2.0,110.0,3100800.0,Interessos Preste CAM - inveriosn 2001,2.0,0.0,3.0,0.00,0.00,0.00,8360.94
+2.0,110.0,3100900.0,Interessos Prestes Deixa - Inversions 2002,2.0,0.0,3.0,0.00,0.00,0.00,11260.04
+2.0,110.0,3101000.0,Interessos prestec BBVA - Inversions 2005,2.0,0.0,3.0,0.00,0.00,0.00,24187.93
+2.0,110.0,3101100.0,Interresos prescte Inversions 2009-1 Caja Madrid,2.0,0.0,3.0,0.00,0.00,0.00,52031.43
+2.0,110.0,3101200.0,Interessos prestec Inversions 2009-2 Dexia,2.0,0.0,3.0,0.00,0.00,0.00,60215.31
+2.0,110.0,3101300.0,Interessos prestec Deixa Inversions 2010,2.0,0.0,3.0,0.00,0.00,0.00,100880.77
+2.0,110.0,3520000.0,Interessos de demora,2.0,0.0,3.0,0.00,0.00,0.00,383210.66
+2.0,110.0,3590000.0,Altres despeses financeres,2.0,0.0,3.0,0.00,0.00,0.00,61693.81
+2.0,110.0,9110000.0,Amortitzacions,2.0,0.0,9.0,5605957.56,0.00,5605957.56,0.00
+2.0,110.0,9110100.0,Amortització prestec BBVA - Inverions 03 - 0201000286,2.0,0.0,9.0,0.00,0.00,0.00,341156.32
+2.0,110.0,9110200.0,Amortització prestec Bankia (ICO 1) 2012,2.0,0.0,9.0,0.00,0.00,0.00,0.00
+2.0,110.0,9110300.0,Amortització prestec BBVA - Inverions 2007,2.0,0.0,9.0,0.00,0.00,0.00,855368.80
+2.0,110.0,9110400.0,Amortització prèstec Bankia 2012 ICO2 ,2.0,0.0,9.0,0.00,0.00,0.00,0.00
+2.0,110.0,9110500.0,Amortització preste La Caixa Fomit 2006,2.0,0.0,9.0,0.00,0.00,0.00,600000.00
+2.0,110.0,9110600.0,Amortització prestec Caja Madrid - Inverions 2004,2.0,0.0,9.0,0.00,0.00,0.00,492418.08
+2.0,110.0,9110700.0,Amortització - La Caixa - Inversions 2008 - 681959-09,2.0,0.0,9.0,0.00,0.00,0.00,504709.94
+2.0,110.0,9110800.0,Amortització prestec CAM - Inversions 2001,2.0,0.0,9.0,0.00,0.00,0.00,561875.10
+2.0,110.0,9110900.0,AMORTITZ. Prestec Dexia - inversions 2002,2.0,0.0,9.0,0.00,0.00,0.00,449657.56
+2.0,110.0,9111000.0,Amortització prestec BBVA - Inverions 2005,2.0,0.0,9.0,0.00,0.00,0.00,501020.32
+2.0,110.0,9111100.0,Amortització prestec Inversions 2009-1 Caja Madrid,2.0,0.0,9.0,0.00,0.00,0.00,280000.08
+2.0,110.0,9111200.0,Amortització prestec Inversions 2009-2 Dexia,2.0,0.0,9.0,0.00,0.00,0.00,296610.72
+2.0,110.0,9111300.0,Amortització prèstec - Dexia Inversions 2010,2.0,0.0,9.0,0.00,0.00,0.00,546640.72
+2.0,2350.0,1600000.0,Seguretat Social,,2.0,1.0,3982896.32,20321.71,4003218.03,3770615.39
+2.0,2350.0,1600002.0,Malaltia,,2.0,1.0,0.00,0.00,0.00,0.00
+2.0,2350.0,1600003.0,Accidents,,2.0,1.0,0.00,0.00,0.00,0.00
+2.0,2410.0,1200000.0,Retrib. Bàsiques funcionaris,,2.0,1.0,35504.10,0.00,35504.10,11507.75
+2.0,2410.0,1210000.0,Retrib. Complementàries funcionaris,,2.0,1.0,36267.19,0.00,36267.19,7717.02
+2.0,2410.0,1310000.0,Retrib. Personal laboral eventual Foració Profesional i Ocup,,2.0,1.0,53242.70,0.00,53242.70,0.00
+2.0,2410.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,2.0,1.0,0.00,27045.54,27045.54,155353.91
+2.0,2410.0,1310029.0,IR Retrib.pers.lab.event.executen prog.caràcter temporal,,2.0,1.0,0.00,64165.22,64165.22,0.00
+2.0,2410.0,1310060.0,Personal laboral temporal - Convenis amb SOIB,,2.0,1.0,0.00,39184.85,39184.85,0.00
+2.0,2410.0,1310070.0,Personal laboral temporal per aprenentatge,,2.0,1.0,0.00,109910.08,109910.08,30723.06
+2.0,2410.0,1311020.0,Indemnitzacions per fi de contracte,,2.0,1.0,0.00,0.00,0.00,2933.80
+2.0,2410.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,14000.00,14000.00,1557.90
+2.0,2410.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,12335.46
+2.0,2410.0,2020000.0,Lloguers d'edificis i altres construccions,,2.0,2.0,0.00,0.00,0.00,12540.00
+2.0,2410.0,2030000.0,"LLOGUERS MAQUINARIA, INSTAL. I ESTRIS",,2.0,2.0,0.00,0.00,0.00,599.99
+2.0,2410.0,2210009.0,Subministrament electricitat anys anteriors,,2.0,2.0,0.00,0.00,0.00,11.39
+2.0,2410.0,2220000.0,COMUNICACIONS TELEFÓNIQUES,,2.0,2.0,0.00,0.00,0.00,9.24
+2.0,2410.0,2220009.0,Comunicacions telefòniques anys anteriors,,2.0,2.0,0.00,0.00,0.00,13.96
+2.0,2410.0,2260600.0,"Reunions, conferències i cursos",,2.0,2.0,0.00,14284.80,14284.80,65869.53
+2.0,2410.0,2260610.0,Formació Professional i Ocupacional,,2.0,2.0,230000.00,36000.00,194000.00,0.00
+2.0,2410.0,2269934.0,Orientació laboral reforçada i serveis d'acompanyament,,2.0,2.0,172457.00,0.00,172457.00,0.00
+2.0,2410.0,2300200.0,Indemnització per raó del servei: Dietes ,,2.0,2.0,500.00,0.00,500.00,0.00
+2.0,2410.0,2310000.0,Indemnització per raó del servei: Quilometratge,,2.0,2.0,1000.00,0.00,1000.00,485.30
+2.0,2410.0,4890006.0,Programes orientació i formació ocupacional amb altres entit,,2.0,4.0,315000.00,0.00,315000.00,232907.31
+2.0,2410.0,4890009.0,IR Programes orientació i formació ocupaciona amb altres ens,,2.0,4.0,0.00,25000.00,25000.00,0.00
+2.0,4620.0,1310000.0,Retrib. Personal laboral eventual,,4.0,1.0,47114.48,0.00,47114.48,0.00
+2.0,4620.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,4.0,1.0,0.00,0.00,0.00,22212.87
+2.0,4620.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,2000.00,2000.00,0.00
+2.0,4620.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,4.0,1.0,0.00,0.00,0.00,1959.12
+2.0,4620.0,2030000.0,"LLOGUERS MAQUINARIA, INSTAL. I ESTRIS",2.0,4.0,2.0,0.00,0.00,0.00,656.34
+2.0,4620.0,2120000.0,MANTENIMENT EDIFICIS,2.0,4.0,2.0,0.00,0.00,0.00,1986.71
+2.0,4620.0,2210000.0,SUBMINISTRAMENTS ENERGIA ELECTRICA,2.0,4.0,2.0,0.00,0.00,0.00,3539.04
+2.0,4620.0,2220000.0,COMUNICACIONS TELEFÓNIQUES,2.0,4.0,2.0,0.00,0.00,0.00,400.36
+2.0,4620.0,2220009.0,Comunicacions telefòniques anys anteriors,2.0,4.0,2.0,0.00,0.00,0.00,30.85
+2.0,4620.0,2240000.0,Assegurances,2.0,4.0,2.0,0.00,0.00,0.00,5217.97
+2.0,4620.0,2260200.0,DESPESES DIVERSES PUBLICITAT I PROPAGANDA,2.0,4.0,2.0,0.00,0.00,0.00,161.56
+2.0,4620.0,2260613.0,Foment de la innovació empresarial,2.0,4.0,2.0,60000.00,0.00,60000.00,0.00
+2.0,4620.0,2269902.0,Despeses diverses,2.0,4.0,2.0,15000.00,4000.00,11000.00,0.00
+2.0,4620.0,2310000.0,Quilometratges,2.0,4.0,2.0,0.00,0.00,0.00,140.55
+2.0,4620.0,6290000.0,Altres Inversions noves,2.0,4.0,6.0,0.00,0.00,0.00,0.00
+2.0,4620.0,6290009.0,IR Altres inversions d'innovació,2.0,4.0,6.0,0.00,269852.67,269852.67,228688.56
+2.0,4620.0,6291000.0,Projecte Pla Innova: Menorca accessible,2.0,4.0,6.0,24000.00,4000.00,28000.00,23446.89
+2.0,9200.0,1010000.0,Retribucions personal gabinet,,9.0,1.0,49810.74,0.00,49810.74,46252.84
+2.0,9200.0,1200000.0,Retrib. Bàsiques funcionaris,,9.0,1.0,30967.55,0.00,30967.55,22340.88
+2.0,9200.0,1210000.0,Retrib. Complementàries funcionaris,,9.0,1.0,32534.16,0.00,32534.16,23548.19
+2.0,9200.0,1500000.0,Altres retribucions - incentiu productivitat,,9.0,1.0,0.00,0.00,0.00,3008.89
+2.0,9200.0,1600002.0,Malaltia,,9.0,1.0,0.00,0.00,0.00,7316.65
+2.0,9200.0,2030000.0,"Arrendament maquinària, instal·lacions i estris",,9.0,2.0,0.00,0.00,0.00,0.00
+2.0,9200.0,2120000.0,MANTENIMENT EDIFICIS,,9.0,2.0,0.00,0.00,0.00,976.43
+2.0,9200.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,,9.0,2.0,75000.00,3380.80,78380.80,62954.41
+2.0,9200.0,2130009.0,Manteniment i rep.instal.i màquinaria anys anteriors,,9.0,2.0,0.00,0.00,0.00,925.81
+2.0,9200.0,2140000.0,MANTENIMENT VEHICLES,,9.0,2.0,0.00,0.00,0.00,230.16
+2.0,9200.0,2200000.0,Material d'oficina ordinari,,9.0,2.0,50000.00,59.25,50059.25,25770.05
+2.0,9200.0,2200100.0,SUBSCRIPCIONS I PUBLICACIONS,,9.0,2.0,0.00,330.00,330.00,2192.00
+2.0,9200.0,2210000.0,Subministraments energia elèctrica,,9.0,2.0,117917.92,0.00,117917.92,115590.05
+2.0,9200.0,2210100.0,Subministraments aigua,,9.0,2.0,9154.39,0.00,9154.39,8926.43
+2.0,9200.0,2210300.0,SUBMINISTRAMENTS COMBUSTIBLES,,9.0,2.0,0.00,0.00,0.00,535.50
+2.0,9200.0,2210309.0,Subministrament combustible anys anteriors,,9.0,2.0,0.00,0.00,0.00,51.02
+2.0,9200.0,2210600.0,Subministrament farmaciola,,9.0,2.0,0.00,0.00,0.00,264.02
+2.0,9200.0,2219900.0,Subministraments diversos,,9.0,2.0,8500.00,66.19,8566.19,4304.89
+2.0,9200.0,2220000.0,Comunicacions,,9.0,2.0,130000.00,0.00,130000.00,143407.23
+2.0,9200.0,2220009.0,Comunicacions telefòniques anys anteriors,,9.0,2.0,0.00,0.00,0.00,1413.81
+2.0,9200.0,2229900.0,Servei de Valisa i Missatgeria,,9.0,2.0,104000.00,0.00,104000.00,96763.01
+2.0,9200.0,2230000.0,Transports,,9.0,2.0,1500.00,67.13,1567.13,3224.65
+2.0,9200.0,2240000.0,Assegurances,,9.0,2.0,39200.00,0.00,39200.00,29456.51
+2.0,9200.0,2250000.0,Tributs,,9.0,2.0,52000.00,0.00,52000.00,0.00
+2.0,9200.0,2250200.0,Tributs entitats locals,,9.0,2.0,0.00,0.00,0.00,55964.08
+2.0,9200.0,2260100.0,Despeses de protocol,,9.0,2.0,0.00,0.00,0.00,324.67
+2.0,9200.0,2269902.0,Despeses diverses,,9.0,2.0,0.00,0.00,0.00,2765.04
+2.0,9200.0,2270000.0,Prestació de serveis: Neteja,,9.0,2.0,160480.00,0.00,160480.00,189794.49
+2.0,9200.0,2270001.0,Prestació de serveis: Seguretat,,9.0,2.0,143890.32,0.00,143890.32,148381.62
+2.0,9200.0,2279900.0,TREBALLS REALITZATS PER ALTRES EMPRESES,,9.0,2.0,0.00,0.00,0.00,3402.00
+2.0,9200.0,2300000.0,Dietes,,9.0,2.0,0.00,0.00,0.00,50.80
+2.0,9200.0,2310000.0,Quilometratge,,9.0,2.0,500.00,0.00,500.00,123.85
+2.0,9200.0,6230000.0,"MAQUINARIA, INSTAL.LACIONS I ESTRIS",,9.0,6.0,0.00,0.00,0.00,259.98
+2.0,9200.0,6320000.0,Inversió de reposició en edificis i altres construccions,,9.0,6.0,0.00,0.00,0.00,2959.01
+2.0,9201.0,1200000.0,Retrib. Bàsiques funcionaris,,9.0,1.0,10607.20,0.00,10607.20,6938.29
+2.0,9201.0,1210000.0,Retrib. Complementàries funcionaris,,9.0,1.0,11169.18,0.00,11169.18,7060.78
+2.0,9201.0,1500000.0,Altres retribucions - incentiu productivitat,,9.0,1.0,0.00,0.00,0.00,923.83
+2.0,9201.0,2160000.0,Reparació i mant. Equips informàtics,,9.0,2.0,23000.00,0.00,23000.00,10144.80
+2.0,9201.0,2200100.0,SUBSCRIPCIONS I PUBLICACIONS,,9.0,2.0,0.00,0.00,0.00,60.00
+2.0,9201.0,2279902.0,"Contracte serveis, materials i aplicacions informàtiques",,9.0,2.0,328884.05,0.00,328884.05,316922.55
+2.0,9201.0,6260800.0,Equips informàtics,,9.0,6.0,32460.20,0.00,32460.20,3161.79
+2.0,9201.0,6410400.0,Programes informàtics,,9.0,6.0,191430.81,0.00,191430.81,184468.41
+2.0,9202.0,1200000.0,Retrib. Bàsiques funcionaris,,9.0,1.0,68679.14,0.00,68679.14,54093.17
+2.0,9202.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,8149.00
+2.0,9202.0,1210000.0,Retrib. Complementàries funcionaris,,9.0,1.0,167763.31,0.00,167763.31,56787.82
+2.0,9202.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,6564.97
+2.0,9202.0,1270000.0,Pla de pensions pesonal funcionari,,9.0,1.0,51157.09,0.00,51157.09,0.00
+2.0,9202.0,1370000.0,Pla de pensions personal laboral,,9.0,1.0,11999.81,0.00,11999.81,0.00
+2.0,9202.0,1430000.0,Personal alliberat,,9.0,1.0,19476.46,0.00,19476.46,0.00
+2.0,9202.0,1500000.0,Altres retribucions - incentiu productivitat,,9.0,1.0,1088079.12,600000.00,488079.12,7979.10
+2.0,9202.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,1500.20
+2.0,9202.0,1600002.0,Malaltia,,9.0,1.0,0.00,0.00,0.00,1269.22
+2.0,9202.0,1610000.0,Prestacions Socials segons conveni,,9.0,1.0,75000.00,0.00,75000.00,139917.49
+2.0,9202.0,1620000.0,Matriculació a cursos per a formació,,9.0,1.0,5000.00,0.00,5000.00,1058.00
+2.0,9202.0,1620200.0,Transport per a Formació,,9.0,1.0,2000.00,0.00,2000.00,552.96
+2.0,9202.0,1620400.0,Ajuts Socials segons conveni,,9.0,1.0,250000.00,0.00,250000.00,394932.35
+2.0,9202.0,1620900.0,Dietes per a formació,,9.0,1.0,1000.00,0.00,1000.00,0.00
+2.0,9202.0,2200100.0,Subscripcions i publicacions,,9.0,2.0,1500.00,0.00,1500.00,1362.00
+2.0,9202.0,2210400.0,Subministrament vestuari,,9.0,2.0,9000.00,0.00,9000.00,3293.62
+2.0,9202.0,2230000.0,Transports,,9.0,2.0,950.00,0.00,950.00,344.32
+2.0,9202.0,2230607.0,Transport Pla Insular de Formació Continuada,,9.0,2.0,0.00,0.00,0.00,1753.62
+2.0,9202.0,2260200.0,Publicitat i propaganda ,,9.0,2.0,0.00,0.00,0.00,232.18
+2.0,9202.0,2260300.0,Publicitat de Contractació,,9.0,2.0,1000.00,0.00,1000.00,0.00
+2.0,9202.0,2260400.0,DESPESES JURÍDIQUES,,9.0,2.0,0.00,0.00,0.00,472.00
+2.0,9202.0,2260602.0,Altres cursos,,9.0,2.0,0.00,0.00,0.00,236.00
+2.0,9202.0,2260607.0,Pla Insular de Formació Continuada,,9.0,2.0,40000.00,0.00,40000.00,19161.32
+2.0,9202.0,2260700.0,Assistència a tribunals oposicions i proves selectives,,9.0,2.0,8000.00,0.00,8000.00,5043.74
+2.0,9202.0,2269902.0,Despeses diverses,,9.0,2.0,0.00,0.00,0.00,0.00
+2.0,9202.0,2270200.0,Valoracions i peritatges,,9.0,2.0,3000.00,0.00,3000.00,1597.57
+2.0,9202.0,2270600.0,ESTUDIS I TREBALLS TÈCNICS,,9.0,2.0,20000.00,0.00,20000.00,0.00
+2.0,9202.0,2310000.0,Quilometratge,,9.0,2.0,500.00,0.00,500.00,0.00
+2.0,9206.0,1200000.0,Retrib. Bàsiques funcionaris,,9.0,1.0,175743.72,0.00,175743.72,85252.17
+2.0,9206.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,53946.31
+2.0,9206.0,1200040.0,Retrib.bàsiq.func.int.subst.transitòria incapacitat transitò,,9.0,1.0,0.00,0.00,0.00,3330.05
+2.0,9206.0,1210000.0,Retrib. Complementàries funcionaris,,9.0,1.0,221921.16,0.00,221921.16,108578.92
+2.0,9206.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,73959.91
+2.0,9206.0,1210040.0,Retrib.Comp.func.int.subst.transitòria incapacitat transit.,,9.0,1.0,0.00,0.00,0.00,3807.61
+2.0,9206.0,1310000.0,Retribucions personal laboral eventual,,9.0,1.0,49220.64,0.00,49220.64,0.00
+2.0,9206.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,32773.25
+2.0,9206.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,9.0,1.0,0.00,0.00,0.00,46354.54
+2.0,9206.0,1500000.0,Altres retribucions - incentiu productivitat,,9.0,1.0,0.00,0.00,0.00,13637.05
+2.0,9206.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,9155.23
+2.0,9206.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,9.0,1.0,0.00,0.00,0.00,2647.34
+2.0,9206.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,9.0,1.0,0.00,0.00,0.00,4598.69
+2.0,9206.0,2200100.0,Subscripcions i publicacions,,9.0,2.0,3826.82,0.00,3826.82,11891.45
+2.0,9206.0,2260300.0,Publicitat de Contractació,2.0,9206.0,2260300.0,20000.00,0.00,20000.00,2361.82
+2.0,9206.0,2260400.0,Despeses jurídiques,,9.0,2.0,63761.62,0.00,63761.62,3131.79
+2.0,9206.0,2269902.0,Despeses diverses,,9.0,2.0,2000.00,0.00,2000.00,753.68
+2.0,9206.0,2300200.0,Dietes,,9.0,2.0,500.00,0.00,500.00,0.00
+2.0,9206.0,2310000.0,Quilometratges,,9.0,2.0,500.00,0.00,500.00,0.00
+2.0,9250.0,1200000.0,Retrib. Bàsiques funcionaris,,9.0,1.0,158315.45,0.00,158315.45,109135.39
+2.0,9250.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,26608.11
+2.0,9250.0,1210000.0,Retrib. Complementàries funcionaris,,9.0,1.0,194362.12,0.00,194362.12,137138.82
+2.0,9250.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,27264.31
+2.0,9250.0,1300000.0,Retrib. Personal laboral,,9.0,1.0,25722.12,0.00,25722.12,24292.28
+2.0,9250.0,1310000.0,Retrib.Personal Laboral Eventual - Ciutadania i Qualitat,,9.0,1.0,33452.16,0.00,33452.16,0.00
+2.0,9250.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,9.0,1.0,0.00,0.00,0.00,17502.11
+2.0,9250.0,1310040.0,Retrib.pers.lab.event.subt.transitòria incapac.transitòria,,9.0,1.0,0.00,0.00,0.00,1054.37
+2.0,9250.0,1311020.0,Indemnitzacions per fi de contracte,,9.0,1.0,0.00,0.00,0.00,17050.55
+2.0,9250.0,1500000.0,Altres retribucions - incentiu productivitat,,9.0,1.0,0.00,0.00,0.00,17590.34
+2.0,9250.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,4768.75
+2.0,9250.0,1501000.0,Productivitat Personal Laboral,,9.0,1.0,0.00,0.00,0.00,1386.72
+2.0,9250.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,9.0,1.0,0.00,0.00,0.00,1546.36
+2.0,9250.0,1600002.0,Malaltia,,9.0,1.0,0.00,0.00,0.00,6619.28
+2.0,9250.0,2269902.0,Despeses diverses,,9.0,2.0,1000.00,0.00,1000.00,60.50
+2.0,9250.0,2270600.0,Estudis i treballs tècnics,,9.0,2.0,6000.00,0.00,6000.00,0.00
+2.0,9250.0,2310000.0,Quilometratges,,9.0,2.0,2900.00,0.00,2900.00,4642.05
+2.0,9293.0,1310000.0,Retribucions personal laboral,,9.0,1.0,82328.82,0.00,82328.82,0.00
+2.0,9293.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,9.0,1.0,0.00,0.00,0.00,75526.70
+2.0,9293.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,9.0,1.0,0.00,0.00,0.00,5402.59
+2.0,9293.0,2220000.0,COMUNICACIONS TELEFÓNIQUES,,9.0,2.0,0.00,0.00,0.00,503.47
+2.0,9293.0,2220009.0,Comunicacions telefòniques anys anteriors,,9.0,2.0,0.00,0.00,0.00,57.15
+2.0,9293.0,2269902.0,Despeses diverses,,9.0,2.0,2000.00,0.00,2000.00,7.00
+2.0,9293.0,2270600.0,Estudis i treballs tècnics,,9.0,2.0,100326.34,0.00,100326.34,83334.72
+2.0,9293.0,2310000.0,Quilometratge,,9.0,2.0,1500.00,0.00,1500.00,1891.23
+2.0,9293.0,6250000.0,MOBILIARI I ESTRIS,,9.0,6.0,0.00,0.00,0.00,99.50
+2.0,9310.0,1200000.0,Retrib. Bàsiques funcionaris,,9.0,1.0,108866.26,0.00,108866.26,76912.93
+2.0,9310.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,22991.68
+2.0,9310.0,1210000.0,Retrib. Complementàries funcionaris,,9.0,1.0,132188.11,0.00,132188.11,100682.47
+2.0,9310.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,26126.58
+2.0,9310.0,1310000.0,Retrib. Personal Laboral Eventual,,9.0,1.0,16406.88,0.00,16406.88,0.00
+2.0,9310.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,9.0,1.0,0.00,0.00,0.00,15288.66
+2.0,9310.0,1500000.0,Altres retribucions - incentiu productivitat,,9.0,1.0,0.00,0.00,0.00,11407.03
+2.0,9310.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,4224.78
+2.0,9310.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,9.0,1.0,0.00,0.00,0.00,1557.90
+2.0,9310.0,2230000.0,TRANSPORTS,,9.0,2.0,500.00,0.00,500.00,0.00
+2.0,9310.0,2260200.0,DESPESES DIVERSES PUBLICITAT I PROPAGANDA,,9.0,2.0,0.00,0.00,0.00,344.75
+2.0,9310.0,2269902.0,Despeses diverses,,9.0,2.0,1000.00,0.00,1000.00,544.01
+2.0,9310.0,2300000.0,Dietes,,9.0,2.0,0.00,0.00,0.00,342.39
+2.0,9310.0,2300200.0,Dietes,,9.0,2.0,500.00,0.00,500.00,0.00
+2.0,9310.0,2310000.0,Quilometratge,,9.0,2.0,500.00,0.00,500.00,18.00
+2.0,9310.0,8210006.0,IR Actuacions amb ajuntaments FOMIT,2.0,9.0,8.0,0.00,1661688.03,1661688.03,0.00
+2.0,9310.0,8300000.0,Bestretes i Préstecs,2.0,9310.0,8300000.0,275000.00,0.00,275000.00,182445.45
+2.0,9310.0,8411000.0,Fiances a llarg termini,,9.0,8.0,0.00,0.00,0.00,0.00
+2.0,9330.0,1200000.0,Retrib. Bàsiques funcionaris,,9.0,1.0,90621.38,0.00,90621.38,52084.57
+2.0,9330.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,7868.73
+2.0,9330.0,1210000.0,Retribucions complementàries,,9.0,1.0,118419.36,0.00,118419.36,66212.49
+2.0,9330.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,7622.75
+2.0,9330.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,22366.39
+2.0,9330.0,1500000.0,Altres retribucions - incentiu productivitat,,9.0,1.0,0.00,0.00,0.00,7814.16
+2.0,9330.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,9.0,1.0,0.00,0.00,0.00,1557.90
+2.0,9330.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,9.0,1.0,0.00,0.00,0.00,1386.72
+2.0,9330.0,1600002.0,Malaltia,,9.0,1.0,0.00,0.00,0.00,2371.62
+2.0,9330.0,2030010.0,LLOGUER MAQUINÀRIA,,9.0,2.0,300.00,0.00,300.00,0.00
+2.0,9330.0,2120000.0,Manteniment Edificis,,9.0,2.0,20000.00,0.00,20000.00,4769.06
+2.0,9330.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,,9.0,2.0,29431.93,0.00,29431.93,21322.64
+2.0,9330.0,2130200.0,Manteniment aparells elevadors,,9.0,2.0,12000.00,0.00,12000.00,0.00
+2.0,9330.0,2140000.0,Manteniment elements de transport,,9.0,2.0,3000.00,0.00,3000.00,1313.25
+2.0,9330.0,2210300.0,Subministrament combustible,,9.0,2.0,6000.00,0.00,6000.00,1749.73
+2.0,9330.0,2210309.0,Subministrament combustible anys anteriors,,9.0,2.0,0.00,0.00,0.00,104.35
+2.0,9330.0,2210400.0,Subministrament vestuari,,9.0,2.0,0.00,0.00,0.00,62.53
+2.0,9330.0,2220000.0,Comunicacions telefòniques ,,9.0,2.0,800.00,0.00,800.00,406.88
+2.0,9330.0,2220009.0,Comunicacions telefòniques anys anteriors,,9.0,2.0,0.00,0.00,0.00,41.19
+2.0,9330.0,2230000.0,Transports,,9.0,2.0,0.00,0.00,0.00,32.00
+2.0,9330.0,2240000.0,Assegurances,,9.0,2.0,31000.00,0.00,31000.00,64615.42
+2.0,9330.0,2250000.0,Tributs,,9.0,2.0,500.00,0.00,500.00,0.00
+2.0,9330.0,2250200.0,Tributs entitats locals,,9.0,2.0,0.00,0.00,0.00,312.22
+2.0,9330.0,2269902.0,Despeses diverses,,9.0,2.0,3000.00,0.00,3000.00,899.73
+2.0,9330.0,2279906.0,Prestació de Serveis: Manteniment,,9.0,2.0,99682.68,0.00,99682.68,100949.46
+2.0,9330.0,2279918.0,Prestació de Serveis: Manteniment jardins,,9.0,2.0,22089.72,0.00,22089.72,22797.00
+2.0,9330.0,2279930.0,Prestació de Serveis: Desinsectació,,9.0,2.0,7397.16,0.00,7397.16,7477.61
+2.0,9330.0,6230000.0,"MAQUINARIA, INSTAL.LACIONS I ESTRIS",,9.0,6.0,0.00,0.00,0.00,35.40
+2.0,9330.0,6270000.0,Projectes complexos,,9.0,6.0,0.00,0.00,0.00,3009.00
+2.0,9330.0,6321000.0,Millores i grans reparacions a centres pluridepartamentals,,9.0,6.0,58000.00,0.00,58000.00,653.16
+2.0,9330.0,6330000.0,"Reposició maquinària, installacions tècniques i estris",,9.0,6.0,0.00,0.00,0.00,1662.03
+3.0,2300.0,1010000.0,Retribucions personal gabinet,,2.0,1.0,49810.74,0.00,49810.74,56926.57
+3.0,2300.0,1200000.0,Retrib. Bàsiques funcionaris,,2.0,1.0,53951.85,0.00,53951.85,20698.50
+3.0,2300.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,17415.76
+3.0,2300.0,1200040.0,Retrib.bàsiq.func.int.subst.transitòria incapacitat transitò,,2.0,1.0,0.00,0.00,0.00,2212.51
+3.0,2300.0,1210000.0,Retrib. Complementàries funcionaris,,2.0,1.0,58280.80,0.00,58280.80,20877.42
+3.0,2300.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,14074.70
+3.0,2300.0,1210040.0,Retrib.Comp.func.int.subst.transitòria incapacitat transit.,,2.0,1.0,0.00,0.00,0.00,2411.31
+3.0,2300.0,1310000.0,Retrib. Personal laboral eventual,,2.0,1.0,3080.09,0.00,3080.09,0.00
+3.0,2300.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,6000.00,6000.00,3049.28
+3.0,2300.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,2687.18
+3.0,2300.0,1600002.0,Malaltia,,2.0,1.0,0.00,0.00,0.00,7417.33
+3.0,2300.0,2120000.0,Manteniment Edificis i altres,3.0,2.0,2.0,6793.42,0.00,6793.42,543.80
+3.0,2300.0,2120009.0,Manteniment edificis anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,0.00
+3.0,2300.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,3.0,2.0,2.0,5917.77,0.00,5917.77,660.39
+3.0,2300.0,2200100.0,SUBSCRIPCIONS I PUBLICACIONS,3.0,2.0,2.0,0.00,0.00,0.00,401.50
+3.0,2300.0,2210000.0,Subministraments energia elèctrica,3.0,2.0,2.0,3800.00,0.00,3800.00,5196.59
+3.0,2300.0,2210100.0,Subministrament aigua,3.0,2.0,2.0,17000.00,0.00,17000.00,15906.79
+3.0,2300.0,2210200.0,SUBMINISTRAMENTS GAS,3.0,2.0,2.0,3000.00,0.00,3000.00,0.00
+3.0,2300.0,2210300.0,SUBMINISTRAMENTS COMBUSTIBLES,3.0,2.0,2.0,0.00,0.00,0.00,70.39
+3.0,2300.0,2219900.0,Subministraments diversos,3.0,2.0,2.0,418.20,0.00,418.20,0.00
+3.0,2300.0,2220000.0,Comunicacions,3.0,2.0,2.0,2526.00,0.00,2526.00,2174.22
+3.0,2300.0,2220009.0,Comunicacions telefòniques anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,231.69
+3.0,2300.0,2230000.0,TRANSPORTS,3.0,2.0,2.0,0.00,0.00,0.00,4372.32
+3.0,2300.0,2230009.0,Transports anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,1074.01
+3.0,2300.0,2250200.0,Tributs entitats locals,3.0,2.0,2.0,0.00,21000.00,21000.00,54172.12
+3.0,2300.0,2260100.0,Despeses de protocol,3.0,2.0,2.0,2500.00,0.00,2500.00,155.00
+3.0,2300.0,2260200.0,Difusió i campanyes de divulgació,3.0,2.0,2.0,2500.00,0.00,2500.00,217.80
+3.0,2300.0,2269902.0,Despeses diverses,3.0,2.0,2.0,2652.00,0.00,2652.00,26.54
+3.0,2300.0,2270000.0,Prestació de serveis: neteja,3.0,2.0,2.0,6000.00,0.00,6000.00,0.00
+3.0,2300.0,2300000.0,Dietes,3.0,2.0,2.0,0.00,0.00,0.00,386.40
+3.0,2300.0,2300200.0,Indemnitzacions per raó del servei: Dietes,3.0,2.0,2.0,500.00,0.00,500.00,0.00
+3.0,2300.0,2310000.0,Quilometratges,3.0,2.0,2.0,1190.00,0.00,1190.00,297.15
+3.0,2300.0,4890018.0,Programa Transport Assistit,3.0,2.0,4.0,32500.00,0.00,32500.00,29023.99
+3.0,2300.0,4890037.0,Programa IATAME,3.0,2.0,4.0,89941.56,0.00,89941.56,89941.56
+3.0,2300.0,6220009.0,IR Santa Rita,3.0,2.0,6.0,0.00,108381.68,108381.68,0.00
+3.0,2300.0,7891700.0,Equipaments entitats socials,3.0,2.0,7.0,10000.00,0.00,10000.00,0.00
+3.0,2300.0,7891709.0,IR Equipaments entitats socials,3.0,2.0,7.0,0.00,3297.85,3297.85,1489.36
+3.0,2301.0,1010000.0,Retribucions bàsiques personal de gabinet,,2.0,1.0,49810.74,0.00,49810.74,35579.11
+3.0,2301.0,1200000.0,Retribucions bàsiques i altres ret. personal funcionari AGA ,,2.0,1.0,24847.68,0.00,24847.68,23163.82
+3.0,2301.0,1210000.0,Retribucions complementaries,,2.0,1.0,25550.28,0.00,25550.28,29939.33
+3.0,2301.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,14334.65
+3.0,2301.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,5000.00,5000.00,3502.50
+3.0,2301.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,1506.95
+3.0,2301.0,2120000.0,Manteniment edificis AGA Ciutadania,3.0,2.0,2.0,0.00,0.00,0.00,935.54
+3.0,2301.0,2130000.0,Manteniment elevadors Sa Platja Gran,3.0,2.0,2.0,0.00,0.00,0.00,3599.71
+3.0,2301.0,2200100.0,SUBSCRIPCIONS I PUBLICACIONS,3.0,2.0,2.0,0.00,0.00,0.00,401.50
+3.0,2301.0,2210000.0,Subministrament d'energia elèctrica,3.0,2.0,2.0,3000.00,0.00,3000.00,6250.84
+3.0,2301.0,2210300.0,Subministraments combustibles,3.0,2.0,2.0,0.00,0.00,0.00,5541.30
+3.0,2301.0,2219900.0,Subministraments divers,3.0,2.0,2.0,0.00,0.00,0.00,424.27
+3.0,2301.0,2220000.0,Comunicacions,3.0,2.0,2.0,1000.00,0.00,1000.00,367.55
+3.0,2301.0,2220009.0,Comunicacions telefòniques anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,43.13
+3.0,2301.0,2230000.0,Transports,3.0,2.0,2.0,0.00,0.00,0.00,2512.39
+3.0,2301.0,2250200.0,Tributs entitats locals,3.0,2.0,2.0,0.00,0.00,0.00,2680.49
+3.0,2301.0,2260100.0,DESPESES DIVERSES DE PROTOCOL,3.0,2.0,2.0,0.00,0.00,0.00,233.49
+3.0,2301.0,2260200.0,Difusió i campanyes de divulgació,3.0,2.0,2.0,0.00,0.00,0.00,526.75
+3.0,2301.0,2269902.0,Despeses diverses,3.0,2.0,2.0,1245.00,0.00,1245.00,488.59
+3.0,2301.0,2270000.0,Prestació serveis neteja ,3.0,2.0,2.0,0.00,0.00,0.00,11663.15
+3.0,2301.0,2279910.0,PRESTACIÓ DE SERVEIS,3.0,2.0,2.0,46000.00,0.00,46000.00,18636.34
+3.0,2301.0,2300000.0,Indemnitzacions per raó del servei. Dietes,3.0,2.0,2.0,200.00,0.00,200.00,18.70
+3.0,2301.0,2310000.0,Indemnització per raó del servei. Quilometratge,3.0,2.0,2.0,300.00,0.00,300.00,141.25
+3.0,2301.0,4620005.0,Ajut finançament EMIF Ajuntaments Menorca,3.0,2.0,4.0,312000.00,0.00,312000.00,248521.05
+3.0,2301.0,4890035.0,Programa d'atenció als jutjats,3.0,2.0,4.0,40800.00,0.00,40800.00,15400.00
+3.0,2301.0,6330000.0,"Reposició maquinària, installacions tècniques i estris",3.0,2.0,6.0,0.00,0.00,0.00,3512.07
+3.0,2311.0,2260209.0,Publicitat i propaganda anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,0.00
+3.0,2321.0,1200000.0,Retribucions bàsiques funcionari,,2.0,1.0,18628.26,0.00,18628.26,17712.80
+3.0,2321.0,1210000.0,Retribucions complementàries,,2.0,1.0,25771.43,0.00,25771.43,24127.87
+3.0,2321.0,1310000.0,Retribucions personal laboral eventual,,2.0,1.0,55693.26,0.00,55693.26,0.00
+3.0,2321.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,52196.91
+3.0,2321.0,1310030.0,Retrib.pers.lab.event.subtitució transitòria (vacances),,2.0,1.0,0.00,0.00,0.00,3870.69
+3.0,2321.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,8000.00,8000.00,2666.88
+3.0,2321.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,4673.70
+3.0,2321.0,1501030.0,Productivitat Pers-Lab.Event.substitució transitòria vacanc.,,2.0,1.0,0.00,0.00,0.00,462.24
+3.0,2321.0,1511020.0,Gratificacions Pers.Lab.Event.executen prog.caràcter tempora,,2.0,1.0,0.00,0.00,0.00,403.10
+3.0,2321.0,2020000.0,Lloguer d'edificis,3.0,2.0,2.0,0.00,0.00,0.00,7860.00
+3.0,2321.0,2120000.0,Manteniment edificis Dona,3.0,2.0,2.0,0.00,0.00,0.00,198.40
+3.0,2321.0,2130000.0,MANTENIMENT MAQUINARIA I INSTAL.LACIONS,3.0,2.0,2.0,0.00,0.00,0.00,1054.58
+3.0,2321.0,2200000.0,Material d'oficina ordinari,3.0,2.0,2.0,1500.00,0.00,1500.00,0.00
+3.0,2321.0,2210000.0,SUBMINISTRAMENTS ENERGIA ELECTRICA,3.0,2.0,2.0,0.00,0.00,0.00,2541.31
+3.0,2321.0,2210100.0,Subministrament aigua,3.0,2.0,2.0,0.00,0.00,0.00,175.12
+3.0,2321.0,2210500.0,Subministraments alimentaris,3.0,2.0,2.0,0.00,0.00,0.00,4145.32
+3.0,2321.0,2220000.0,Comunicacions,3.0,2.0,2.0,1000.00,0.00,1000.00,946.81
+3.0,2321.0,2220009.0,Comunicacions telefòniques anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,96.55
+3.0,2321.0,2230000.0,Transports,3.0,2.0,2.0,918.00,0.00,918.00,2341.39
+3.0,2321.0,2260200.0,Difusió i campanyes de divulgació,3.0,2.0,2.0,5000.00,0.00,5000.00,1150.25
+3.0,2321.0,2269902.0,Despeses diverses,3.0,2.0,2.0,2000.00,0.00,2000.00,210.38
+3.0,2321.0,2270000.0,SERVEIS DE NETEJA,3.0,2.0,2.0,0.00,0.00,0.00,1353.12
+3.0,2321.0,2270600.0,ESTUDIS I TREBALLS TÈCNICS,3.0,2.0,2.0,9000.00,0.00,9000.00,12894.32
+3.0,2321.0,2279919.0,Prestació serveis ,3.0,2.0,2.0,0.00,0.00,0.00,1686.28
+3.0,2321.0,2300200.0,Dietes de personal - Politica de genere i igualtat,3.0,2.0,2.0,300.00,0.00,300.00,0.00
+3.0,2321.0,2310000.0,Indemnitzacions per raó del servei. Quilometratge,3.0,2.0,2.0,1200.00,0.00,1200.00,990.00
+3.0,2321.0,6370020.0,Equipament pis de la dona,3.0,2.0,6.0,10000.00,0.00,10000.00,0.00
+3.0,2322.0,1200000.0,Retribucions bàsiques i altres funcionaris,,2.0,1.0,83362.17,0.00,83362.17,62088.10
+3.0,2322.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,15607.29
+3.0,2322.0,1210000.0,Retribucions complementàries,,2.0,1.0,95035.32,0.00,95035.32,67145.57
+3.0,2322.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,17450.14
+3.0,2322.0,1300000.0,Retribucions personal laboral fix,,2.0,1.0,31583.13,0.00,31583.13,0.00
+3.0,2322.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,29067.54
+3.0,2322.0,1310030.0,Retrib.pers.lab.event.subtitució transitòria (vacances),,2.0,1.0,0.00,0.00,0.00,1708.57
+3.0,2322.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,14000.00,14000.00,9214.81
+3.0,2322.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,2666.88
+3.0,2322.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,2.0,1.0,0.00,0.00,0.00,1889.64
+3.0,2322.0,1501030.0,Productivitat Pers-Lab.Event.substitució transitòria vacanc.,,2.0,1.0,0.00,0.00,0.00,220.14
+3.0,2322.0,1600002.0,Malaltia,,2.0,1.0,0.00,0.00,0.00,683.50
+3.0,2322.0,2120000.0,Manteniment d'edificis i altres,3.0,2.0,2.0,612.00,0.00,612.00,396.18
+3.0,2322.0,2130000.0,MANTENIMENT MAQUINARIA I INSTAL.LACIONS,3.0,2.0,2.0,0.00,0.00,0.00,691.70
+3.0,2322.0,2210400.0,SUBMINISTRAMENTS VESTUARI,3.0,2.0,2.0,0.00,0.00,0.00,114.16
+3.0,2322.0,2219900.0,SUBMINISTRAMENTS DIVERS,3.0,2.0,2.0,0.00,0.00,0.00,171.41
+3.0,2322.0,2219901.0,Subministraments atenció drogodependències,3.0,2.0,2.0,12034.10,0.00,12034.10,11149.56
+3.0,2322.0,2219902.0,Subministrament prevenció drogodependències,3.0,2.0,2.0,4775.44,0.00,4775.44,1822.22
+3.0,2322.0,2269902.0,Despeses diverses,3.0,2.0,2.0,700.00,0.00,700.00,139.88
+3.0,2322.0,2270000.0,SERVEIS DE NETEJA,3.0,2.0,2.0,0.00,0.00,0.00,688.46
+3.0,2322.0,2270001.0,Prestació de serveis: seguretat,3.0,2.0,2.0,19844.59,0.00,19844.59,17390.79
+3.0,2322.0,2279910.0,Prestació de serveis,3.0,2.0,2.0,61019.46,90000.00,151019.46,59434.80
+3.0,2322.0,2310000.0,Indemnitzacins per raó del servei. Quilometratge,3.0,2.0,2.0,750.00,0.00,750.00,4954.16
+3.0,2322.0,2310009.0,Quilometratge anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,23.40
+3.0,2322.0,4890014.0,Fundació Home Lliure,3.0,2.0,4.0,39343.96,0.00,39343.96,39343.96
+3.0,2322.0,4890028.0,Fundació Home lliure: Programa intervenció a presó,3.0,2.0,4.0,17447.04,0.00,17447.04,0.00
+3.0,2322.0,4890058.0,Creu Roja,3.0,2.0,4.0,6418.43,0.00,6418.43,6418.43
+3.0,2323.0,1200000.0,Retribucions bàsiques i altres funcionaris,,2.0,1.0,274199.57,0.00,274199.57,184244.60
+3.0,2323.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,36607.56
+3.0,2323.0,1210000.0,Retribucions complementaries,,2.0,1.0,311396.06,0.00,311396.06,206586.20
+3.0,2323.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,46071.93
+3.0,2323.0,1300000.0,Retribucions persona laobral fix,,2.0,1.0,73681.28,0.00,73681.28,58454.77
+3.0,2323.0,1310000.0,Retribucions persona laboral eventual,,2.0,1.0,369166.04,0.00,369166.04,0.00
+3.0,2323.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,63778.63
+3.0,2323.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,285730.33
+3.0,2323.0,1310030.0,Retrib.pers.lab.event.subtitució transitòria (vacances),,2.0,1.0,0.00,0.00,0.00,53748.49
+3.0,2323.0,1310040.0,Retrib.pers.lab.event.subt.transitòria incapac.transitòria,,2.0,1.0,0.00,0.00,0.00,37318.05
+3.0,2323.0,1310050.0,Retrib.pers.lab.event.excés o acumulació tasques,,2.0,1.0,0.00,0.00,0.00,510.11
+3.0,2323.0,1311020.0,Indemnitzacions per fi de contracte,,2.0,1.0,0.00,0.00,0.00,950.08
+3.0,2323.0,1311050.0,Indemnitz.fi contrac.pers.lab.event.per acumulació tasques,,2.0,1.0,0.00,0.00,0.00,2.53
+3.0,2323.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,71000.00,71000.00,26102.78
+3.0,2323.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,6174.02
+3.0,2323.0,1501000.0,Productivitat Personal Laboral,,2.0,1.0,0.00,0.00,0.00,3910.98
+3.0,2323.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,2.0,1.0,0.00,0.00,0.00,4903.74
+3.0,2323.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,21148.11
+3.0,2323.0,1501030.0,Productivitat Pers-Lab.Event.substitució transitòria vacanc.,,2.0,1.0,0.00,0.00,0.00,4976.13
+3.0,2323.0,1501040.0,Productivitat Pers.Lab.Event.subst.transitòria incapacitat t,,2.0,1.0,0.00,0.00,0.00,3358.33
+3.0,2323.0,1501050.0,Productivitat Pers.Lab.Event.excés o acumulació tasques,,2.0,1.0,0.00,0.00,0.00,62.34
+3.0,2323.0,1510000.0,Gratificacions Funcionaris,,2.0,1.0,0.00,0.00,0.00,3960.27
+3.0,2323.0,1510010.0,Gratificacions Func.Int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,981.69
+3.0,2323.0,1511000.0,Gratificacions Personal Laboral,,2.0,1.0,0.00,0.00,0.00,85.95
+3.0,2323.0,1511010.0,Gratificacions Pers.Lab.Event.ocupen plaça vacant plantilla,,2.0,1.0,0.00,0.00,0.00,2403.32
+3.0,2323.0,1511020.0,Gratificacions Pers.Lab.Event.executen prog.caràcter tempora,,2.0,1.0,0.00,0.00,0.00,6835.75
+3.0,2323.0,1511030.0,Gratificacions Pers.Lab.Event.subst.transitòria vacances,,2.0,1.0,0.00,0.00,0.00,1644.78
+3.0,2323.0,1511040.0,Gratificacions Pers.Lab.Event.subst.trans.incapacitat trans.,,2.0,1.0,0.00,0.00,0.00,1499.84
+3.0,2323.0,1511050.0,Gratificacions Pers.Lab.Event.excés o acumulació tasques,,2.0,1.0,0.00,0.00,0.00,78.57
+3.0,2323.0,1600002.0,Malaltia,,2.0,1.0,0.00,0.00,0.00,14676.07
+3.0,2323.0,1600003.0,Accidents,,2.0,1.0,0.00,0.00,0.00,10004.19
+3.0,2323.0,2040000.0,Arrendament vehicles,3.0,2.0,2.0,500.00,0.00,500.00,0.00
+3.0,2323.0,2120000.0,Manteniment d'edificis i altres,3.0,2.0,2.0,13000.00,5000.00,18000.00,31276.18
+3.0,2323.0,2130000.0,Manteniment installacions i maquinària Servei de familia,3.0,2.0,2.0,0.00,6954.38,6954.38,8685.78
+3.0,2323.0,2140000.0,Manteniment elements de transports,3.0,2.0,2.0,1000.00,0.00,1000.00,1454.46
+3.0,2323.0,2200000.0,Material d'oficina ordinari,3.0,2.0,2.0,1500.00,0.00,1500.00,283.14
+3.0,2323.0,2200100.0,Subscripcions i publicacions,3.0,2.0,2.0,973.45,0.00,973.45,401.50
+3.0,2323.0,2210000.0,Subministrament d'energia elèctrica,3.0,2.0,2.0,10763.11,0.00,10763.11,7761.76
+3.0,2323.0,2210033.0,Subministrament electricitat CR E,3.0,2.0,2.0,0.00,8000.00,8000.00,7562.63
+3.0,2323.0,2210100.0,SUBMINISTRAMENTS AIGUA,3.0,2.0,2.0,0.00,0.00,0.00,2429.42
+3.0,2323.0,2210133.0,Subministrament aigua Casa Infància,3.0,2.0,2.0,0.00,0.00,0.00,3722.91
+3.0,2323.0,2210300.0,Subministrament de combustible,3.0,2.0,2.0,15645.98,0.00,15645.98,19864.71
+3.0,2323.0,2210309.0,Subministrament combustible anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,0.00
+3.0,2323.0,2210400.0,SUBMINISTRAMENTS VESTUARI,3.0,2.0,2.0,4313.08,0.00,4313.08,0.00
+3.0,2323.0,2210500.0,Subministrament alimentari,3.0,2.0,2.0,11667.89,0.00,11667.89,11329.23
+3.0,2323.0,2210600.0,Subministrament productes farmacèutics,3.0,2.0,2.0,1008.17,0.00,1008.17,2075.90
+3.0,2323.0,2210609.0,Subministrament productes farmacèutics anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,215.39
+3.0,2323.0,2211000.0,Subministrament productes de desinfecció i neteja,3.0,2.0,2.0,10350.59,0.00,10350.59,3259.88
+3.0,2323.0,2219900.0,Subministraments diversos,3.0,2.0,2.0,3000.00,0.00,3000.00,1177.19
+3.0,2323.0,2220000.0,Comunicacions,3.0,2.0,2.0,1000.00,0.00,1000.00,355.00
+3.0,2323.0,2220009.0,Comunicacions telefòniques anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,33.25
+3.0,2323.0,2230000.0,Transports,3.0,2.0,2.0,3714.23,0.00,3714.23,4316.69
+3.0,2323.0,2230005.0,Viatges formació,3.0,2.0,2.0,4032.00,0.00,4032.00,0.00
+3.0,2323.0,2240000.0,Assegurances,3.0,2.0,2.0,1028.05,0.00,1028.05,543.87
+3.0,2323.0,2250000.0,Tributs,3.0,2.0,2.0,530.60,0.00,530.60,0.00
+3.0,2323.0,2250200.0,Tributs entitats locals,3.0,2.0,2.0,0.00,0.00,0.00,78.64
+3.0,2323.0,2260608.0,Formació centre residencial i adoptants,3.0,2.0,2.0,15000.00,0.00,15000.00,1700.00
+3.0,2323.0,2269902.0,Despeses diverses,3.0,2.0,2.0,10000.00,0.00,10000.00,40137.72
+3.0,2323.0,2269909.0,Despeses diverses d'anys anteriors,3.0,2.0,2.0,0.00,6300.00,6300.00,6367.00
+3.0,2323.0,2270000.0,Prestació Serveis Neteja Menors,3.0,2.0,2.0,0.00,25000.00,25000.00,10898.48
+3.0,2323.0,2270100.0,Prestació de serveis: Vigilància,3.0,2.0,2.0,0.00,11019.24,11019.24,36912.81
+3.0,2323.0,2279910.0,PRESTACIÓ DE SERVEIS,3.0,2.0,2.0,18000.00,0.00,18000.00,8354.28
+3.0,2323.0,2279912.0,Prestació pis de menors,3.0,2.0,2.0,25024.46,0.00,25024.46,0.00
+3.0,2323.0,2300000.0,Indemnitzacions per raó del servei. Dietes,3.0,2.0,2.0,967.33,0.00,967.33,149.60
+3.0,2323.0,2310000.0,Indemnitzacions per raó del servei. Quilometratge,3.0,2.0,2.0,8205.27,0.00,8205.27,11720.16
+3.0,2323.0,2522799.0,Prestació de serveis realitzada per entitats públiques,3.0,2.0,2.0,0.00,0.00,0.00,14866.62
+3.0,2323.0,4620067.0,Aules externes ajuntaments,3.0,2.0,4.0,0.00,0.00,0.00,5179.89
+3.0,2323.0,4800001.0,Ajuts tutela i acolliment familiar,3.0,2.0,4.0,138145.71,0.00,138145.71,108528.50
+3.0,2323.0,4890067.0,Aules externes,3.0,2.0,4.0,12000.00,0.00,12000.00,0.00
+3.0,2323.0,4890083.0,Altres Transferències famílies,3.0,2.0,4.0,10048.03,0.00,10048.03,0.00
+3.0,2323.0,6220000.0,EDIFICIS I ALTRES CONSTRUCCIONS,3.0,2.0,6.0,0.00,0.00,0.00,1281.80
+3.0,2323.0,6260800.0,EQUIPS PER PROCESSOS D'INFORMACIO,3.0,2.0,6.0,0.00,0.00,0.00,389.45
+3.0,2323.0,6320009.0,Inversions de reposició en edificis anys anteriors,3.0,2.0,6.0,0.00,0.00,0.00,756.83
+3.0,2323.0,6322000.0,Reformes Centre Vassallo,3.0,2.0,6.0,150000.00,0.00,150000.00,0.00
+3.0,2323.0,7890000.0,A FAMILIES I INSTIT. SENSE LUCRE,3.0,2.0,7.0,0.00,0.00,0.00,824.12
+3.0,2325.0,1310000.0,Retribucions persona laboral eventual,,2.0,1.0,87795.40,0.00,87795.40,0.00
+3.0,2325.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,73998.41
+3.0,2325.0,1310040.0,Retrib.pers.lab.event.subt.transitòria incapac.transitòria,,2.0,1.0,0.00,0.00,0.00,6786.77
+3.0,2325.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,8000.00,8000.00,0.00
+3.0,2325.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,6820.84
+3.0,2325.0,1501040.0,Productivitat Pers.Lab.Event.subst.transitòria incapacitat t,,2.0,1.0,0.00,0.00,0.00,227.15
+3.0,2325.0,1600002.0,Malaltia,,2.0,1.0,0.00,0.00,0.00,3741.79
+3.0,2325.0,2020000.0,Lloguer oficina OFIM i CAD,3.0,2.0,2.0,0.00,10200.00,10200.00,10118.50
+3.0,2325.0,2200000.0,Material d'oficina ordinari,3.0,2.0,2.0,1050.00,0.00,1050.00,0.00
+3.0,2325.0,2210000.0,Subministrament d'energia elèctrica,3.0,2.0,2.0,765.00,0.00,765.00,470.09
+3.0,2325.0,2210100.0,Subministrament d'aigua,3.0,2.0,2.0,204.00,0.00,204.00,0.00
+3.0,2325.0,2219900.0,Subministraments diversos,3.0,2.0,2.0,1358.00,0.00,1358.00,14.82
+3.0,2325.0,2230000.0,Transports,3.0,2.0,2.0,1000.00,0.00,1000.00,142.11
+3.0,2325.0,2260200.0,Difusió i campanyes de divulgació,3.0,2.0,2.0,3300.00,0.00,3300.00,1121.00
+3.0,2325.0,2269902.0,Despeses diverses,3.0,2.0,2.0,1050.00,0.00,1050.00,177.00
+3.0,2325.0,2279920.0,Prestació AJI,3.0,2.0,2.0,29313.56,125000.00,154313.56,3363.00
+3.0,2325.0,2310000.0,Indemnitzacions per raó del servei. Quilometratge,3.0,2.0,2.0,500.00,0.00,500.00,979.40
+3.0,2325.0,4890009.0,Transferències anys anteriors,3.0,2.0,4.0,0.00,0.00,0.00,17500.00
+3.0,2331.0,1200000.0,Retrib. Bàsiques funcionaris,,2.0,1.0,16182.10,0.00,16182.10,15220.28
+3.0,2331.0,1210000.0,Retrib. Complementàries funcionaris,,2.0,1.0,16566.50,0.00,16566.50,15647.27
+3.0,2331.0,1310030.0,Retrib.pers.lab.event.subtitució transitòria (vacances),,2.0,1.0,0.00,0.00,0.00,0.00
+3.0,2331.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,2000.00,2000.00,1951.86
+3.0,2331.0,2300000.0,Dietes,3.0,2.0,2.0,0.00,0.00,0.00,93.50
+3.0,2331.0,2310000.0,Quilometratges,3.0,2.0,2.0,0.00,0.00,0.00,16.10
+3.0,2331.0,4620003.0,Pla concertat de prestacions socials bàsiques,3.0,2.0,4.0,580000.00,0.00,580000.00,580750.70
+3.0,2331.0,4620005.0,Ajudes d'emergència social als Ajuntaments,3.0,2.0,4.0,0.00,0.00,0.00,215656.06
+3.0,2331.0,4620009.0,IR Ajuts econòmics d'urgència social,3.0,2.0,4.0,0.00,32551.50,32551.50,32551.50
+3.0,2331.0,4800000.0,Renda Mínima de Inserció,3.0,2.0,4.0,500000.00,36000.00,536000.00,472282.84
+3.0,2331.0,4800004.0,Gestió RMI i actuacions d'inserció,3.0,2.0,4.0,51275.07,0.00,51275.07,51275.07
+3.0,2331.0,4800005.0,Ajudes d'emergència social,3.0,2.0,4.0,214000.00,0.00,214000.00,0.00
+3.0,2331.0,4800006.0,Ajudes per estades terpèutiques fora l'illa,3.0,2.0,4.0,55000.00,0.00,55000.00,48957.30
+3.0,2332.0,1010000.0,RET. BÀSIQUES PERSONAL EVENT. GAVINET.,,2.0,1.0,0.00,0.00,0.00,252.79
+3.0,2332.0,1200000.0,Retrib. Bàsiques funcionaris,,2.0,1.0,72530.71,0.00,72530.71,53810.56
+3.0,2332.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,26348.15
+3.0,2332.0,1200030.0,Retrib.bàsiq.func.int.substitució transitòria (vacances),,2.0,1.0,0.00,0.00,0.00,295.75
+3.0,2332.0,1200040.0,Retrib.bàsiq.func.int.subst.transitòria incapacitat transitò,,2.0,1.0,0.00,0.00,0.00,1091.37
+3.0,2332.0,1210000.0,Retrib. Complementàries funcionaris,,2.0,1.0,82020.02,0.00,82020.02,54912.94
+3.0,2332.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,28790.36
+3.0,2332.0,1210030.0,Complement de destinació,,2.0,1.0,0.00,0.00,0.00,428.34
+3.0,2332.0,1210040.0,Retrib.Comp.func.int.subst.transitòria incapacitat transit.,,2.0,1.0,0.00,0.00,0.00,1341.34
+3.0,2332.0,1310000.0,Retrib.Personal Laboral Eventual - Centres dia pers.discap.,,2.0,1.0,23740.58,0.00,23740.58,0.00
+3.0,2332.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,11889.73
+3.0,2332.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,40.30
+3.0,2332.0,1310030.0,Retrib.pers.lab.event.subtitució transitòria (vacances),,2.0,1.0,0.00,0.00,0.00,5439.95
+3.0,2332.0,1310040.0,Retrib.pers.lab.event.subt.transitòria incapac.transitòria,,2.0,1.0,0.00,0.00,0.00,2072.59
+3.0,2332.0,1311020.0,Indemnitzacions per fi de contracte,,2.0,1.0,0.00,0.00,0.00,3471.54
+3.0,2332.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,15000.00,15000.00,8272.38
+3.0,2332.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,4075.49
+3.0,2332.0,1500030.0,Productivitat Func.subst.trans.vacanc.,,2.0,1.0,0.00,0.00,0.00,79.02
+3.0,2332.0,1500040.0,Productivitat func.int.subst.transitòria incapacitat transit,,2.0,1.0,0.00,0.00,0.00,237.06
+3.0,2332.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,2.0,1.0,0.00,0.00,0.00,1386.72
+3.0,2332.0,1501030.0,Productivitat Pers-Lab.Event.substitució transitòria vacanc.,,2.0,1.0,0.00,0.00,0.00,670.12
+3.0,2332.0,1501040.0,Productivitat Pers.Lab.Event.subst.transitòria incapacitat t,,2.0,1.0,0.00,0.00,0.00,225.98
+3.0,2332.0,1511010.0,Gratificacions Pers.Lab.Event.ocupen plaça vacant plantilla,,2.0,1.0,0.00,0.00,0.00,139.56
+3.0,2332.0,1600002.0,Malaltia,,2.0,1.0,0.00,0.00,0.00,1183.08
+3.0,2332.0,2120000.0,Manteniment Edificis,3.0,2.0,2.0,325.66,0.00,325.66,5096.67
+3.0,2332.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,3.0,2.0,2.0,975.94,0.00,975.94,1717.80
+3.0,2332.0,2210000.0,Subministraments energia elèctrica,3.0,2.0,2.0,6093.00,0.00,6093.00,1793.73
+3.0,2332.0,2210100.0,Subministrament aigua - 3132,3.0,2.0,2.0,200.00,0.00,200.00,252.86
+3.0,2332.0,2210300.0,Subministrament combustible,3.0,2.0,2.0,2100.00,0.00,2100.00,1872.01
+3.0,2332.0,2210500.0,SUBMINISTRAMENTS ALIMENTS,3.0,2.0,2.0,9262.50,0.00,9262.50,0.00
+3.0,2332.0,2211000.0,Subministraments productes de desinfecció i neteja,3.0,2.0,2.0,1000.00,0.00,1000.00,0.00
+3.0,2332.0,2219900.0,Subministraments diversos,3.0,2.0,2.0,3000.00,0.00,3000.00,613.31
+3.0,2332.0,2220000.0,COMUNICACIONS TELEFÓNIQUES,3.0,2.0,2.0,1000.00,0.00,1000.00,0.00
+3.0,2332.0,2230000.0,Transports,3.0,2.0,2.0,0.00,0.00,0.00,284.20
+3.0,2332.0,2269902.0,Despeses diverses,3.0,2.0,2.0,0.00,0.00,0.00,2346.80
+3.0,2332.0,2270000.0,Prestació de serveis: Neteja,3.0,2.0,2.0,1755.00,20867.82,22622.82,20706.79
+3.0,2332.0,2279903.0,Restauració Patronat de l'Hospital Municipal,3.0,2.0,2.0,13431.55,0.00,13431.55,0.00
+3.0,2332.0,2310000.0,Indemnitzacions per ra´´o del servei. Quilometratge,3.0,2.0,2.0,800.00,0.00,800.00,2412.15
+3.0,2332.0,2622105.0,Subministrament d'aliments per entitats sense ànim de lucre,3.0,2.0,2.0,0.00,0.00,0.00,23803.89
+3.0,2332.0,2622790.0,Treballs realitzats per instit.sense ànim lucre -transports-,3.0,2.0,2.0,0.00,0.00,0.00,161.00
+3.0,2332.0,6230000.0,"MAQUINARIA, INSTAL.LACIONS I ESTRIS",3.0,2.0,6.0,0.00,0.00,0.00,765.00
+3.0,2333.0,1200000.0,Retrib. Bàsiques funcionaris,,2.0,1.0,379313.89,0.00,379313.89,219206.58
+3.0,2333.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,64027.92
+3.0,2333.0,1210000.0,Retrib. Complementàries funcionaris,,2.0,1.0,461199.95,0.00,461199.95,258783.90
+3.0,2333.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,74733.41
+3.0,2333.0,1300000.0,Retrib. Personal laboral,,2.0,1.0,173048.71,0.00,173048.71,69281.94
+3.0,2333.0,1310000.0,Retribucions personal laboral eventual,,2.0,1.0,395928.52,0.00,395928.52,0.00
+3.0,2333.0,1310009.0,Laboral temporal anys anteriors,,2.0,1.0,0.00,0.00,0.00,698.05
+3.0,2333.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,193471.42
+3.0,2333.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,343011.92
+3.0,2333.0,1310030.0,Retrib.pers.lab.event.subtitució transitòria (vacances),,2.0,1.0,0.00,0.00,0.00,122961.55
+3.0,2333.0,1310040.0,Retrib.pers.lab.event.subt.transitòria incapac.transitòria,,2.0,1.0,0.00,0.00,0.00,86964.44
+3.0,2333.0,1310050.0,Retrib.pers.lab.event.excés o acumulació tasques,,2.0,1.0,0.00,0.00,0.00,6954.74
+3.0,2333.0,1311050.0,Indemnitz.fi contrac.pers.lab.event.per acumulació tasques,,2.0,1.0,0.00,0.00,0.00,247.12
+3.0,2333.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,112000.00,112000.00,34739.41
+3.0,2333.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,11017.58
+3.0,2333.0,1501000.0,Productivitat Personal Laboral,,2.0,1.0,0.00,0.00,0.00,5049.98
+3.0,2333.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,2.0,1.0,0.00,0.00,0.00,16179.30
+3.0,2333.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,26201.39
+3.0,2333.0,1501030.0,Productivitat Pers-Lab.Event.substitució transitòria vacanc.,,2.0,1.0,0.00,0.00,0.00,10418.37
+3.0,2333.0,1501040.0,Productivitat Pers.Lab.Event.subst.transitòria incapacitat t,,2.0,1.0,0.00,0.00,0.00,8882.43
+3.0,2333.0,1501050.0,Productivitat Pers.Lab.Event.excés o acumulació tasques,,2.0,1.0,0.00,0.00,0.00,616.76
+3.0,2333.0,1510000.0,Gratificacions Funcionaris,,2.0,1.0,0.00,0.00,0.00,7074.09
+3.0,2333.0,1510010.0,Gratificacions Func.Int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,3102.89
+3.0,2333.0,1511000.0,Gratificacions Personal Laboral,,2.0,1.0,0.00,0.00,0.00,1378.55
+3.0,2333.0,1511010.0,Gratificacions Pers.Lab.Event.ocupen plaça vacant plantilla,,2.0,1.0,0.00,0.00,0.00,6708.07
+3.0,2333.0,1511020.0,Gratificacions Pers.Lab.Event.executen prog.caràcter tempora,,2.0,1.0,0.00,0.00,0.00,5772.59
+3.0,2333.0,1511030.0,Gratificacions Pers.Lab.Event.subst.transitòria vacances,,2.0,1.0,0.00,0.00,0.00,8162.52
+3.0,2333.0,1511040.0,Gratificacions Pers.Lab.Event.subst.trans.incapacitat trans.,,2.0,1.0,0.00,0.00,0.00,4073.15
+3.0,2333.0,1511050.0,Gratificacions Pers.Lab.Event.excés o acumulació tasques,,2.0,1.0,0.00,0.00,0.00,161.64
+3.0,2333.0,1600002.0,Malaltia,,2.0,1.0,0.00,0.00,0.00,17065.77
+3.0,2333.0,1600003.0,Accidents,,2.0,1.0,0.00,0.00,0.00,12790.06
+3.0,2333.0,2120000.0,Manteniment Edificis,3.0,2.0,2.0,17999.00,0.00,17999.00,11468.32
+3.0,2333.0,2120009.0,Manteniment edificis anys anteriors,3.0,2.0,2.0,0.00,2984.52,2984.52,0.00
+3.0,2333.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,3.0,2.0,2.0,18824.13,0.00,18824.13,19676.04
+3.0,2333.0,2130009.0,Manteniment i rep.instal.i màquinaria anys anteriors,3.0,2.0,2.0,0.00,366.57,366.57,3351.09
+3.0,2333.0,2130033.0,"Manteniment maquinària, installacions CD Alzheimer",3.0,2.0,2.0,0.00,0.00,0.00,1884.80
+3.0,2333.0,2140000.0,Manteniment elements de transport,3.0,2.0,2.0,5305.20,53.41,5358.61,2351.54
+3.0,2333.0,2140009.0,Manteniment vehicles anys anteriors,3.0,2.0,2.0,0.00,2330.76,2330.76,53.41
+3.0,2333.0,2160000.0,Manteniment programes informàtics,3.0,2.0,2.0,0.00,0.00,0.00,0.00
+3.0,2333.0,2200100.0,SUBSCRIPCIONS I PUBLICACIONS,3.0,2.0,2.0,0.00,0.00,0.00,1204.50
+3.0,2333.0,2210000.0,Subministraments energia elèctrica,3.0,2.0,2.0,30000.00,0.00,30000.00,28149.52
+3.0,2333.0,2210033.0,Subministrament electricitat CD Alzheimer,3.0,2.0,2.0,0.00,0.00,0.00,4595.26
+3.0,2333.0,2210100.0,Subministraments aigua,3.0,2.0,2.0,17340.00,0.00,17340.00,15665.99
+3.0,2333.0,2210133.0,Subministrament aigua CD Alzheimer,3.0,2.0,2.0,0.00,0.00,0.00,110.37
+3.0,2333.0,2210200.0,Subministrament gas,3.0,2.0,2.0,7000.00,0.00,7000.00,8300.75
+3.0,2333.0,2210209.0,Subministrament gas anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,0.00
+3.0,2333.0,2210300.0,Subministrament combustible,3.0,2.0,2.0,35000.00,0.00,35000.00,55575.44
+3.0,2333.0,2210309.0,Subministrament combustible anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,2330.76
+3.0,2333.0,2210400.0,Subministrament vestuari,3.0,2.0,2.0,3000.00,0.00,3000.00,34.56
+3.0,2333.0,2210409.0,Subministrament vestuari anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,1556.01
+3.0,2333.0,2210500.0,Subministraments alimentaris,3.0,2.0,2.0,95115.00,0.00,95115.00,140718.33
+3.0,2333.0,2210509.0,Subministrament alimentació anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,597.94
+3.0,2333.0,2211000.0,Subministraments productes de desinfecció i neteja,3.0,2.0,2.0,15000.00,9000.00,24000.00,53233.99
+3.0,2333.0,2219900.0,Subministraments diversos,3.0,2.0,2.0,3776.45,0.00,3776.45,3342.93
+3.0,2333.0,2220000.0,Comunicacions telefòniques,3.0,2.0,2.0,2600.00,0.00,2600.00,415.49
+3.0,2333.0,2220009.0,Comunicacions telefòniques anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,29.00
+3.0,2333.0,2230000.0,Transports,3.0,2.0,2.0,318.24,0.00,318.24,15.15
+3.0,2333.0,2240000.0,Assegurances,3.0,2.0,2.0,2333.76,0.00,2333.76,379.14
+3.0,2333.0,2250000.0,Tributs,3.0,2.0,2.0,10608.00,0.00,10608.00,0.00
+3.0,2333.0,2250200.0,Tributs entitats locals,3.0,2.0,2.0,0.00,13800.00,13800.00,13755.56
+3.0,2333.0,2269902.0,Despeses diverses,3.0,2.0,2.0,4000.00,0.00,4000.00,5740.66
+3.0,2333.0,2269904.0,Programes intergeracionals,3.0,2.0,2.0,3000.00,0.00,3000.00,0.00
+3.0,2333.0,2269909.0,Despeses diverses d'anys anteriors,3.0,2.0,2.0,0.00,1745.64,1745.64,1888.14
+3.0,2333.0,2269914.0,Prestacions individuals per necessitats residents,3.0,2.0,2.0,2000.00,0.00,2000.00,0.00
+3.0,2333.0,2270000.0,Prestació de serveis: Neteja,3.0,2.0,2.0,4485.00,85000.00,89485.00,77647.04
+3.0,2333.0,2279902.0,Prestació de serveis en mant.aplicacions informàtiques,3.0,2.0,2.0,0.00,0.00,0.00,2384.00
+3.0,2333.0,2279906.0,PRESTACIÓ DE SERVEIS MANTENIMENT,3.0,2.0,2.0,18000.00,0.00,18000.00,17607.68
+3.0,2333.0,2279914.0,Prestació serveis: Perruqueria,3.0,2.0,2.0,7000.00,0.00,7000.00,2025.00
+3.0,2333.0,2279925.0,Prestació serveis centre de dia d'Alzheimer,3.0,2.0,2.0,197600.00,98400.00,296000.00,11979.10
+3.0,2333.0,2310000.0,Indemnitzacions per raó del servei: Quilometratge,3.0,2.0,2.0,1739.50,0.00,1739.50,0.00
+3.0,2333.0,2622700.0,Serveis de neteja realitzades per inst.sense ànim de lucre,3.0,2.0,2.0,0.00,0.00,0.00,4540.64
+3.0,2333.0,6250000.0,MOBILIARI I ESTRIS,3.0,2.0,6.0,0.00,0.00,0.00,507.90
+3.0,2333.0,6321300.0,Equipament i reformes Residència Gent Gran,3.0,2.0,6.0,10000.00,0.00,10000.00,829.53
+3.0,2333.0,6410400.0,Aplicacions informàtiques,3.0,2.0,6.0,0.00,0.00,0.00,4602.00
+3.0,2334.0,1200000.0,Retribucions bàsiques i altrs personal funcionari,,2.0,1.0,33327.83,0.00,33327.83,0.00
+3.0,2334.0,1210000.0,Retribucions complementàries,,2.0,1.0,40772.14,0.00,40772.14,0.00
+3.0,2334.0,1300000.0,Retrib.Personal Laboral,,2.0,1.0,0.00,0.00,0.00,58931.48
+3.0,2334.0,1310000.0,Retrib.Personal Laboral Eventual - Prom.i atenció Gent Gran,,2.0,1.0,2637.48,0.00,2637.48,0.00
+3.0,2334.0,1310030.0,Retrib.pers.lab.event.subtitució transitòria (vacances),,2.0,1.0,0.00,0.00,0.00,3373.21
+3.0,2334.0,1310040.0,Retrib.pers.lab.event.subt.transitòria incapac.transitòria,,2.0,1.0,0.00,0.00,0.00,452.30
+3.0,2334.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,5000.00,5000.00,0.00
+3.0,2334.0,1501000.0,Productivitat Personal Laboral,,2.0,1.0,0.00,0.00,0.00,3803.65
+3.0,2334.0,1501030.0,Productivitat Pers-Lab.Event.substitució transitòria vacanc.,,2.0,1.0,0.00,0.00,0.00,425.94
+3.0,2334.0,1501040.0,Productivitat Pers.Lab.Event.subst.transitòria incapacitat t,,2.0,1.0,0.00,0.00,0.00,56.05
+3.0,2334.0,1600003.0,Accidents,,2.0,1.0,0.00,0.00,0.00,332.36
+3.0,2334.0,2120000.0,Manteniment Edificis,3.0,2.0,2.0,1530.00,0.00,1530.00,2538.34
+3.0,2334.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,3.0,2.0,2.0,5010.24,0.00,5010.24,6428.07
+3.0,2334.0,2200000.0,Material d'oficina ordinari -,3.0,2.0,2.0,1082.80,0.00,1082.80,1210.49
+3.0,2334.0,2200100.0,Subscripcions i publicacions,3.0,2.0,2.0,1060.80,0.00,1060.80,1532.00
+3.0,2334.0,2200109.0,Subscripcions i publicacions anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,143.30
+3.0,2334.0,2210000.0,Subministraments energia elèctrica,3.0,2.0,2.0,14524.80,0.00,14524.80,12481.65
+3.0,2334.0,2210100.0,Subministraments aigua,3.0,2.0,2.0,1956.36,0.00,1956.36,664.91
+3.0,2334.0,2219900.0,SUBMINISTRAMENTS DIVERS,3.0,2.0,2.0,0.00,0.00,0.00,295.57
+3.0,2334.0,2250200.0,Tributs entitats locals,3.0,2.0,2.0,0.00,0.00,0.00,2012.42
+3.0,2334.0,2260100.0,DESPESES DIVERSES DE PROTOCOL,3.0,2.0,2.0,0.00,0.00,0.00,63.75
+3.0,2334.0,2260400.0,DESPESES JURÍDIQUES,3.0,2.0,2.0,0.00,0.00,0.00,4422.21
+3.0,2334.0,2269902.0,Despeses diverses,3.0,2.0,2.0,2000.00,0.00,2000.00,6277.30
+3.0,2334.0,2269904.0,Programes intergeneracionals,3.0,2.0,2.0,2000.00,0.00,2000.00,0.00
+3.0,2334.0,2269910.0,Programes prevenció dependència,3.0,2.0,2.0,13000.00,0.00,13000.00,0.00
+3.0,2334.0,2270000.0,Prestació de serveis: Neteja,3.0,2.0,2.0,2978.00,30000.00,32978.00,31562.46
+3.0,2334.0,2279900.0,Monitors Centre Persones Majors,3.0,2.0,2.0,12000.00,0.00,12000.00,8995.22
+3.0,2334.0,2279915.0,Prestació de servei: Teleassistència,3.0,2.0,2.0,310000.00,0.00,310000.00,224616.12
+3.0,2334.0,4539001.0,Universitat Oberta Majors,3.0,2.0,4.0,15000.00,0.00,15000.00,10273.66
+3.0,2334.0,4620004.0,Places unitat de respir,3.0,2.0,4.0,3863.01,0.00,3863.01,1301.23
+3.0,2334.0,4620015.0,Places Geriàtriques concertades,3.0,2.0,4.0,1294929.00,0.00,1294929.00,1144383.48
+3.0,2334.0,4620021.0,Places dependència convenis,3.0,2.0,4.0,115199.48,0.00,115199.48,0.00
+3.0,2334.0,4670002.0,Aportació Consorci Sociosanitari de Santa Rita,3.0,2.0,4.0,2157080.00,0.00,2157080.00,1468684.23
+3.0,2334.0,4890002.0,Federació de Gent Gran,3.0,2.0,4.0,80000.00,0.00,80000.00,80000.00
+3.0,2334.0,7670000.0,Equipament Centre Sociosanitari Santa Rita,3.0,2.0,7.0,10000.00,0.00,10000.00,0.00
+3.0,2335.0,1200000.0,Retrib. Bàsiques funcionaris,,2.0,1.0,243488.89,0.00,243488.89,131977.02
+3.0,2335.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,19764.91
+3.0,2335.0,1210000.0,Retrib. Complementàries funcionaris,,2.0,1.0,294774.05,0.00,294774.05,158670.19
+3.0,2335.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,21767.29
+3.0,2335.0,1300000.0,Retrib. Personal laboral,,2.0,1.0,19158.38,0.00,19158.38,0.00
+3.0,2335.0,1310000.0,Retribucions personal laboral eventual,,2.0,1.0,273666.69,0.00,273666.69,0.00
+3.0,2335.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,78127.42
+3.0,2335.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,206779.67
+3.0,2335.0,1310030.0,Retrib.pers.lab.event.subtitució transitòria (vacances),,2.0,1.0,0.00,0.00,0.00,89412.27
+3.0,2335.0,1310040.0,Retrib.pers.lab.event.subt.transitòria incapac.transitòria,,2.0,1.0,0.00,0.00,0.00,62102.71
+3.0,2335.0,1500000.0,Altres retribucions - incentiu productivitat,,2.0,1.0,0.00,64000.00,64000.00,23026.53
+3.0,2335.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,2.0,1.0,0.00,0.00,0.00,2728.58
+3.0,2335.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,2.0,1.0,0.00,0.00,0.00,6614.09
+3.0,2335.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,2.0,1.0,0.00,0.00,0.00,17671.73
+3.0,2335.0,1501030.0,Productivitat Pers-Lab.Event.substitució transitòria vacanc.,,2.0,1.0,0.00,0.00,0.00,8957.37
+3.0,2335.0,1501040.0,Productivitat Pers.Lab.Event.subst.transitòria incapacitat t,,2.0,1.0,0.00,0.00,0.00,6110.08
+3.0,2335.0,1510000.0,Gratificacions Funcionaris,,2.0,1.0,0.00,0.00,0.00,7045.37
+3.0,2335.0,1511010.0,Gratificacions Pers.Lab.Event.ocupen plaça vacant plantilla,,2.0,1.0,0.00,0.00,0.00,3660.41
+3.0,2335.0,1511020.0,Gratificacions Pers.Lab.Event.executen prog.caràcter tempora,,2.0,1.0,0.00,0.00,0.00,4641.21
+3.0,2335.0,1511030.0,Gratificacions Pers.Lab.Event.subst.transitòria vacances,,2.0,1.0,0.00,0.00,0.00,3162.81
+3.0,2335.0,1511040.0,Gratificacions Pers.Lab.Event.subst.trans.incapacitat trans.,,2.0,1.0,0.00,0.00,0.00,686.25
+3.0,2335.0,1600002.0,Malaltia,,2.0,1.0,0.00,0.00,0.00,20646.59
+3.0,2335.0,1600003.0,Accidents,,2.0,1.0,0.00,0.00,0.00,2130.98
+3.0,2335.0,2120000.0,Manteniment Edificis,3.0,2.0,2.0,6000.00,0.00,6000.00,4226.97
+3.0,2335.0,2130000.0,Manteniment i Rep. d'Instal. i Maquinària,3.0,2.0,2.0,5000.00,0.00,5000.00,5903.76
+3.0,2335.0,2140000.0,Manteniment Vehicles,3.0,2.0,2.0,3904.00,0.00,3904.00,3818.27
+3.0,2335.0,2200100.0,SUBSCRIPCIONS I PUBLICACIONS,3.0,2.0,2.0,0.00,0.00,0.00,401.50
+3.0,2335.0,2210000.0,Subministraments energia elèctrica,3.0,2.0,2.0,8000.00,0.00,8000.00,8651.80
+3.0,2335.0,2210100.0,Subministraments aigua,3.0,2.0,2.0,3744.42,0.00,3744.42,3874.86
+3.0,2335.0,2210300.0,Subministrament combustible,3.0,2.0,2.0,20000.00,0.00,20000.00,22974.79
+3.0,2335.0,2210309.0,Subministrament combustible anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,0.00
+3.0,2335.0,2210500.0,Subministraments alimentaris,3.0,2.0,2.0,45375.00,0.00,45375.00,12003.73
+3.0,2335.0,2210600.0,Productes farmacèutics,3.0,2.0,2.0,3000.00,0.00,3000.00,233.38
+3.0,2335.0,2211000.0,Subministraments productes de desinfecció i neteja,3.0,2.0,2.0,2014.21,0.00,2014.21,5296.49
+3.0,2335.0,2219900.0,Subministraments diversos,3.0,2.0,2.0,5000.00,0.00,5000.00,1625.01
+3.0,2335.0,2220000.0,Comunicacions,3.0,2.0,2.0,477.36,0.00,477.36,320.76
+3.0,2335.0,2220009.0,Comunicacions telefòniques anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,54.74
+3.0,2335.0,2230000.0,Transports,3.0,2.0,2.0,954.72,0.00,954.72,11.30
+3.0,2335.0,2240000.0,Assegurances,3.0,2.0,2.0,1000.00,0.00,1000.00,379.14
+3.0,2335.0,2250000.0,Tributs,3.0,2.0,2.0,954.72,0.00,954.72,0.00
+3.0,2335.0,2250200.0,Tributs entitats locals,3.0,2.0,2.0,0.00,0.00,0.00,233.58
+3.0,2335.0,2269902.0,Despeses diverses,3.0,2.0,2.0,0.00,0.00,0.00,3197.76
+3.0,2335.0,2269909.0,Despeses diverses d'anys anteriors,3.0,2.0,2.0,0.00,0.00,0.00,54.62
+3.0,2335.0,2269914.0,Prestacions individuals per necessitats residents,3.0,2.0,2.0,2000.00,0.00,2000.00,0.00
+3.0,2335.0,2270000.0,Prestació de serveis: Neteja,3.0,2.0,2.0,3500.00,55000.00,58500.00,55136.08
+3.0,2335.0,2270600.0,Estudis i treballs tècnics,3.0,2.0,2.0,3000.00,0.00,3000.00,0.00
+3.0,2335.0,2279906.0,Prestació de serveis: Manteniment,3.0,2.0,2.0,0.00,0.00,0.00,930.26
+3.0,2335.0,2279916.0,Ingressos centres externs,3.0,2.0,2.0,8000.00,0.00,8000.00,0.00
+3.0,2335.0,2300200.0,Indemnitzacions per raó del servei . Dietes,3.0,2.0,2.0,600.00,0.00,600.00,0.00
+3.0,2335.0,2310000.0,Indemnitzacions per raó del servei . Quilometratge,3.0,2.0,2.0,500.00,0.00,500.00,209.14
+3.0,2335.0,2622105.0,Subministrament d'aliments per entitats sense ànim de lucre,3.0,2.0,2.0,0.00,0.00,0.00,8976.35
+3.0,2335.0,2622109.0,Subministrament realitzat per entitats sense ànim de lucre,3.0,2.0,2.0,0.00,0.00,0.00,0.00
+3.0,2335.0,2622700.0,Serveis de neteja realitzades per inst.sense ànim de lucre,3.0,2.0,2.0,0.00,0.00,0.00,6421.53
+3.0,2335.0,2622790.0,Treballs realitzats per institucions sense ànim de lucre,3.0,2.0,2.0,0.00,0.00,0.00,4186.50
+3.0,2335.0,2622799.0,Treballs realitzats per instit.sense ànim lucre anys anter.,3.0,2.0,2.0,0.00,0.00,0.00,0.00
+3.0,2335.0,4539002.0,Aportació econòmica Son Tugores,3.0,2.0,4.0,42020.12,0.00,42020.12,41399.14
+3.0,2335.0,4890000.0,Places concertades de discapacitat 2012,3.0,2.0,4.0,0.00,0.00,0.00,448628.74
+3.0,2335.0,4890019.0,Places concertades tallers ocupacionals,3.0,2.0,4.0,488734.40,0.00,488734.40,324259.20
+3.0,2335.0,4890029.0,Places concertades taller ILSA,3.0,2.0,4.0,174592.00,0.00,174592.00,119737.80
+3.0,2335.0,4890036.0,Transports assistit discapacitats,3.0,2.0,4.0,53500.00,0.00,53500.00,0.00
+3.0,2335.0,4890062.0,Places concertades d'habitatges tutelats,3.0,2.0,4.0,772593.75,0.00,772593.75,508884.84
+3.0,2335.0,4890063.0,Places concertades d'estades diurnes,3.0,2.0,4.0,627020.80,215867.82,411152.98,357637.45
+3.0,2335.0,4890084.0,Aportació programes Fundació discapacitats,3.0,2.0,4.0,376712.05,0.00,376712.05,376712.05
+3.0,2335.0,6230000.0,"MAQUINARIA, INSTAL.LACIONS I ESTRIS",3.0,2.0,6.0,0.00,0.00,0.00,3076.77
+3.0,2335.0,7891600.0,Pla d'equipaments Fundació per a Persones amb Discapacitats,3.0,2.0,7.0,86673.00,0.00,86673.00,86673.00
+3.0,2410.0,2310000.0,Quilometratges,3.0,2.0,2.0,0.00,0.00,0.00,0.00
+3.0,3130.0,1200000.0,Retribucions bàsiques i altres personal funcionari,,3.0,1.0,25885.46,0.00,25885.46,24175.41
+3.0,3130.0,1210000.0,Retribucionx complementàries,,3.0,1.0,26448.38,0.00,26448.38,25255.75
+3.0,3130.0,1500000.0,Altres retribucions - incentiu productivitat,,3.0,1.0,0.00,4000.00,4000.00,3503.99
+3.0,3130.0,2200100.0,Subscripcions i publicacions,3.0,3.0,2.0,247.10,0.00,247.10,0.00
+3.0,3130.0,2230000.0,Transports,3.0,3.0,2.0,1466.10,0.00,1466.10,0.00
+3.0,3130.0,2269902.0,Despeses diverses,3.0,3.0,2.0,1301.37,0.00,1301.37,0.00
+3.0,3130.0,2269906.0,Promoció de la salut en l'àmbit escolar,3.0,3.0,2.0,34108.80,0.00,34108.80,23527.63
+3.0,3130.0,2269950.0,Programes preventius infància i jovent,3.0,3.0,2.0,28519.00,0.00,28519.00,3164.78
+3.0,3130.0,2300000.0,Indemnitzacions per raó del servei. Dietes,3.0,3.0,2.0,500.00,0.00,500.00,0.00
+3.0,3130.0,2310000.0,Indemnitzacions per raó del servei. Quilometratge,3.0,3.0,2.0,500.00,0.00,500.00,101.75
+3.0,3130.0,4800002.0,Escola de Salut Pública,3.0,3.0,4.0,62251.94,0.00,62251.94,41997.48
+3.0,3345.0,1200000.0,Retribucions bàsiques funcionaris,,3.0,1.0,34345.38,0.00,34345.38,32521.21
+3.0,3345.0,1210000.0,RETRIBUCIONS COMPLEMENTARIES FUNCIONARIS,,3.0,1.0,34270.21,0.00,34270.21,34141.04
+3.0,3345.0,1500000.0,Altres retribucions - incentiu productivitat,,3.0,1.0,0.00,0.00,0.00,0.00
+3.0,3345.0,2120000.0,MANTENIMENT EDIFICIS,3.0,3.0,2.0,0.00,0.00,0.00,2693.17
+3.0,3345.0,2210000.0,Subministraments energia elèctrica,3.0,3.0,2.0,1500.00,0.00,1500.00,0.00
+3.0,3345.0,2210100.0,Subministraments aigua,3.0,3.0,2.0,100.00,0.00,100.00,0.00
+3.0,3345.0,2219900.0,SUBMINISTRAMENTS ACTIVITATS PROPIES,3.0,3.0,2.0,0.00,0.00,0.00,815.75
+3.0,3345.0,2220000.0,Comunicacions,3.0,3.0,2.0,550.00,0.00,550.00,0.00
+3.0,3345.0,2230005.0,Viatges formació,3.0,3.0,2.0,300.00,0.00,300.00,251.40
+3.0,3345.0,2240000.0,Assegurances,3.0,3.0,2.0,500.00,0.00,500.00,379.14
+3.0,3345.0,2250000.0,Tributs,3.0,3.0,2.0,1700.00,0.00,1700.00,0.00
+3.0,3345.0,2250200.0,Tributs entitats locals,3.0,3.0,2.0,0.00,0.00,0.00,1890.42
+3.0,3345.0,2260200.0,Difusió i campanyes de divulgació,3.0,3.0,2.0,1300.00,0.00,1300.00,4296.59
+3.0,3345.0,2260209.0,Difusió i campanyes de divulgació anys anteriors,3.0,3.0,2.0,0.00,0.00,0.00,740.08
+3.0,3345.0,2269902.0,Despeses diverses,3.0,3.0,2.0,1000.00,0.00,1000.00,470.34
+3.0,3345.0,2269909.0,IR Despeses diverses,3.0,3.0,2.0,0.00,34075.07,34075.07,0.00
+3.0,3345.0,2269965.0,Programa d'oci juvenil,3.0,3.0,2.0,49750.00,0.00,49750.00,34307.92
+3.0,3345.0,2270600.0,Estudis i treballs tècnics,3.0,3.0,2.0,4000.00,0.00,4000.00,0.00
+3.0,3345.0,2300200.0,Dietes,3.0,3.0,2.0,250.00,0.00,250.00,0.00
+3.0,3345.0,2310000.0,Quilometratge,3.0,3.0,2.0,170.00,0.00,170.00,0.00
+3.0,3345.0,2522600.0,Programa d'oci juvenil realitzat per entitat pública,3.0,3.0,2.0,0.00,0.00,0.00,6620.50
+3.0,3345.0,4490000.0,Transferència a Institut de la Joventut de Menorca,3.0,3.0,4.0,393615.00,0.00,393615.00,393615.00
+3.0,3345.0,4620007.0,"Subvencions a Ajuntaments, dinamització i SIJ -",3.0,3.0,4.0,25000.00,0.00,25000.00,24935.93
+3.0,3345.0,4890054.0,Subvencions a entitats,3.0,3.0,4.0,20000.00,0.00,20000.00,5272.48
+3.0,3345.0,4890072.0,Conveni Consell de la Joventut de Menorca,3.0,3.0,4.0,4000.00,0.00,4000.00,0.00
+3.0,3345.0,4890082.0,Conveni Escoltes de Menorca,3.0,3.0,4.0,18000.00,0.00,18000.00,18000.00
+3.0,3345.0,6191003.0,Casa colònies Santa Cecília,3.0,3.0,6.0,18000.00,0.00,18000.00,0.00
+3.0,3345.0,6191009.0,IR Torre de Son Ganxo ,3.0,3.0,6.0,0.00,0.00,0.00,0.00
+3.0,3345.0,6220009.0,IR Inversions en edificis i altres construccions,3.0,3.0,6.0,0.00,165500.00,165500.00,18991.77
+3.0,3345.0,6220109.0,Altres inversions instal.lacions,3.0,3.0,6.0,30000.00,0.00,30000.00,5488.56
+3.0,3345.0,6228000.0,Campament de Biniparratx -,3.0,3.0,6.0,90000.00,0.00,90000.00,19169.73
+3.0,3345.0,6230100.0,"Maquinària, installacions i utillatges Torre son Ganxo",3.0,3.0,6.0,0.00,0.00,0.00,5663.54
+3.0,3345.0,6231000.0,"Maquinària, installacions i utillatges Torre Son Ganxo",3.0,3.0,6.0,0.00,0.00,0.00,0.00
+3.0,3345.0,6250000.0,MOBILIARI I ESTRIS,3.0,3.0,6.0,0.00,0.00,0.00,3121.93
+3.0,3345.0,6253000.0,Mobiliari i estris,3.0,3.0,6.0,12000.00,0.00,12000.00,4246.25
+3.0,3345.0,6260800.0,Equips per processos d'informació,3.0,3.0,6.0,0.00,0.00,0.00,2479.50
+3.0,3345.0,6260809.0,Equips per processos d'informació anys anteriors,3.0,3.0,6.0,0.00,0.00,0.00,0.00
+3.0,3345.0,7621000.0,Conveni parc de patinatge Ajuntament de Ciutadella,3.0,3.0,7.0,10000.00,0.00,10000.00,0.00
+4.0,3230.0,2200100.0,SUBSCRIPCIONS I PUBLICACIONS,4.0,3.0,2.0,0.00,0.00,0.00,75.50
+4.0,3230.0,2220000.0,Comunicacions,4.0,3.0,2.0,100.00,0.00,100.00,0.00
+4.0,3230.0,2220019.0,Comunicacions telefòniques anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,7.11
+4.0,3230.0,2230000.0,Transports,4.0,3.0,2.0,1000.00,0.00,1000.00,1355.32
+4.0,3230.0,2260200.0,Difusió i Campanyes de divulgació,4.0,3.0,2.0,1000.00,0.00,1000.00,347.01
+4.0,3230.0,2260600.0,Jornades i Exposicions,4.0,3.0,2.0,1500.00,0.00,1500.00,0.00
+4.0,3230.0,2269902.0,Despeses diverses,4.0,3.0,2.0,3500.00,0.00,3500.00,1373.80
+4.0,3230.0,2269912.0,Consell Escolar Insular,4.0,3.0,2.0,2000.00,0.00,2000.00,15.34
+4.0,3230.0,2270600.0,ESTUDIS I TREBALLS TÈCNICS,4.0,3.0,2.0,0.00,0.00,0.00,4246.81
+4.0,3230.0,2279905.0,S EI,4.0,3.0,2.0,202800.00,0.00,202800.00,160568.65
+4.0,3230.0,2279917.0,Fisioteràpia en l'etapa 0 a 3 anys,4.0,3.0,2.0,7000.00,0.00,7000.00,7500.00
+4.0,3230.0,2279922.0,Programa Illa-Escola: Activitats,4.0,3.0,2.0,6000.00,0.00,6000.00,2915.00
+4.0,3230.0,2279929.0,Programa Illa-Escola: Activitats anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,980.00
+4.0,3230.0,2310000.0,QUILOMETRATGES,4.0,3.0,2.0,0.00,0.00,0.00,557.02
+4.0,3230.0,4110006.0,IME - Organització UIMIR,4.0,3.0,4.0,10000.00,0.00,10000.00,5710.57
+4.0,3230.0,4239000.0,UNED,4.0,3.0,4.0,50400.00,0.00,50400.00,50400.00
+4.0,3230.0,4539000.0,Programa Illa-Escola: Transport alumnat,4.0,3.0,4.0,5000.00,0.00,5000.00,722.20
+4.0,3230.0,4539003.0,UIB - Formació a la seu universitària de Menorca,4.0,3.0,4.0,1500.00,0.00,1500.00,0.00
+4.0,3230.0,4620022.0,Educació musical,4.0,3.0,4.0,12000.00,0.00,12000.00,14500.00
+4.0,3230.0,4620024.0,Escoles Infantils,4.0,3.0,4.0,180000.00,0.00,180000.00,195671.35
+4.0,3230.0,4790001.0,Educació persones adultes,4.0,3.0,4.0,365000.00,57400.00,422400.00,380485.65
+4.0,3230.0,4810004.0,Beques per residència,4.0,3.0,4.0,60000.00,0.00,60000.00,60129.50
+4.0,3230.0,4890004.0,Conveni programa escacs a les escoles,4.0,3.0,4.0,1000.00,0.00,1000.00,1000.00
+4.0,3230.0,4890081.0,Conveni Moviment de Renovació Pedagògica de Menorca,4.0,3.0,4.0,4800.00,0.00,4800.00,0.00
+4.0,3230.0,4899000.0,Altres transferències Educació,4.0,3.0,4.0,0.00,0.00,0.00,71.50
+4.0,3230.0,6260800.0,EQUIPS PER PROCESSOS D'INFORMACIO,4.0,3.0,6.0,0.00,0.00,0.00,108.80
+4.0,3230.0,7620009.0,IR Transf. de capital a ajuntaments - Educació,4.0,3.0,7.0,0.00,322150.40,322150.40,309244.28
+4.0,3230.0,7622000.0,Pla d'Adequació d'Escoles Infantils,4.0,3.0,7.0,375928.00,0.00,375928.00,375928.00
+4.0,3230.0,7803000.0,Equipament ampliació seu universitària a Menorca,4.0,3.0,7.0,44160.31,0.00,44160.31,44160.31
+4.0,3300.0,1010000.0,Retribucions personal gabinet,,3.0,1.0,49810.74,0.00,49810.74,46252.84
+4.0,3300.0,1200000.0,Retrib. Bàsiques funcionaris,,3.0,1.0,31340.10,0.00,31340.10,28732.21
+4.0,3300.0,1210000.0,Retrib. Complementàries funcionaris,,3.0,1.0,31967.07,0.00,31967.07,29749.46
+4.0,3300.0,1500000.0,Altres retribucions - incentiu productivitat,,3.0,1.0,0.00,5000.00,5000.00,4486.01
+4.0,3300.0,2200100.0,SUBSCRIPCIONS I PUBLICACIONS,4.0,3.0,2.0,0.00,0.00,0.00,401.50
+4.0,3300.0,2260100.0,Despeses de protocol,4.0,3.0,2.0,500.00,0.00,500.00,46.01
+4.0,3300.0,2260109.0,Despeses de protocol anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,23.50
+4.0,3300.0,2300000.0,Dietes,4.0,3.0,2.0,0.00,0.00,0.00,32.20
+4.0,3300.0,2310000.0,Quilometratges,4.0,3.0,2.0,0.00,0.00,0.00,31.50
+4.0,3300.0,4890068.0,Assiciació Líthica: actacions pedrera de s'Hostal,4.0,3.0,4.0,3000.00,0.00,3000.00,0.00
+4.0,3300.0,7800009.0,IR Transf. de capital de l'AGA del Departament,4.0,3.0,7.0,0.00,5750.00,5750.00,5750.00
+4.0,3300.0,7890000.0,Associació Líthica: actuacions pedrera de s'Hostal,4.0,3.0,7.0,0.00,0.00,0.00,3000.00
+4.0,3320.0,1200000.0,Retrib. Bàsiques funcionaris,,3.0,1.0,50215.16,0.00,50215.16,26945.63
+4.0,3320.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,10875.86
+4.0,3320.0,1210000.0,Retrib. Complementàries funcionaris,,3.0,1.0,57280.89,0.00,57280.89,31481.69
+4.0,3320.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,11296.63
+4.0,3320.0,1500000.0,Altres retribucions - incentiu productivitat,,3.0,1.0,0.00,5000.00,5000.00,3449.01
+4.0,3320.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,1497.15
+4.0,3320.0,2029900.0,Lloguer magatzem Biblioteca de Mahón,4.0,3.0,2.0,0.00,0.00,0.00,8265.10
+4.0,3320.0,2160000.0,REPARACIÓ I MANTENIMENT EQUIPS INFORMÀTICS,4.0,3.0,2.0,0.00,0.00,0.00,38.94
+4.0,3320.0,2200500.0,Fons Bibliogràfic,4.0,3.0,2.0,73000.00,7371.79,80371.79,75562.08
+4.0,3320.0,2200509.0,Fons Bibliogràfic anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,1981.58
+4.0,3320.0,2230000.0,Transports,4.0,3.0,2.0,1000.00,0.00,1000.00,1102.68
+4.0,3320.0,2230009.0,Transports anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,141.00
+4.0,3320.0,2260200.0,Difusió i Campanyes de divulgació,4.0,3.0,2.0,1000.00,0.00,1000.00,522.67
+4.0,3320.0,2260604.0,Fires del Llibre,4.0,3.0,2.0,2000.00,0.00,2000.00,82.28
+4.0,3320.0,2269902.0,Despeses diverses,4.0,3.0,2.0,0.00,0.00,0.00,414.31
+4.0,3320.0,2269917.0,Catalogació,4.0,3.0,2.0,4000.00,0.00,4000.00,0.00
+4.0,3320.0,2269960.0,Promoció de la Lectura,4.0,3.0,2.0,12000.00,0.00,12000.00,8232.39
+4.0,3320.0,2269969.0,Promoció de la lectura anys anteriors,4.0,3.0,2.0,0.00,1111.95,1111.95,1233.48
+4.0,3320.0,2270600.0,Estudis i treballs tècnics,4.0,3.0,2.0,12500.00,0.00,12500.00,40131.33
+4.0,3320.0,2279927.0,Manteniment informàtic,4.0,3.0,2.0,15000.00,0.00,15000.00,14826.00
+4.0,3320.0,2279932.0,Exposició Arxiu Imatge i So,4.0,3.0,2.0,5000.00,0.00,5000.00,5392.78
+4.0,3320.0,2279939.0,Exposició Arxiu Imatge i So anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,389.05
+4.0,3320.0,2310000.0,Quilometratges,4.0,3.0,2.0,0.00,0.00,0.00,154.50
+4.0,3320.0,4800007.0,Conveni Fotoclub Cercle Artístic,4.0,3.0,4.0,4000.00,0.00,4000.00,4000.00
+4.0,3320.0,6260800.0,EQUIPS PER PROCESSOS D'INFORMACIO,4.0,3.0,6.0,0.00,0.00,0.00,1668.64
+4.0,3320.0,6260809.0,Equips per procesos d'informació anys anteriors,4.0,3.0,6.0,0.00,0.00,0.00,0.00
+4.0,3320.0,6277000.0,"Adquisició patrimoni bibliogràfic, documental i digilització",4.0,3.0,6.0,450.00,0.00,450.00,3999.78
+4.0,3320.0,6500000.0,Inversions gestionades per compte d'altres ens públics,4.0,3.0,6.0,0.00,1424.71,1424.71,1424.71
+4.0,3321.0,2020000.0,LLOGUERS D'EDIFICIS I ALTRES CONSTRUC,4.0,3.0,2.0,8102.10,0.00,8102.10,0.00
+4.0,3321.0,2120000.0,MANTENIMENT EDIFICIS,4.0,3.0,2.0,0.00,0.00,0.00,180.60
+4.0,3321.0,2130000.0,MANTENIMENT MAQUINARIA I INSTAL.LACIONS,4.0,3.0,2.0,8985.57,0.00,8985.57,10640.61
+4.0,3321.0,2160000.0,REPARACIÓ I MANT. EQUIPAMENT EQUIPS INFORMÀTICS,4.0,3.0,2.0,13858.26,0.00,13858.26,11190.71
+4.0,3321.0,2200000.0,MATERIAL D'OFICINA ORDINARI,4.0,3.0,2.0,0.00,0.00,0.00,79.15
+4.0,3321.0,2200100.0,Subscripcions i publicacions,4.0,3.0,2.0,3317.21,0.00,3317.21,7348.21
+4.0,3321.0,2210000.0,SUBMINISTRAMENTS ENERGIA ELECTRICA,4.0,3.0,2.0,0.00,0.00,0.00,20521.22
+4.0,3321.0,2210009.0,Subministrament electricitat anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,2240.63
+4.0,3321.0,2210100.0,SUBMINISTRAMENTS AIGUA,4.0,3.0,2.0,0.00,0.00,0.00,650.20
+4.0,3321.0,2210300.0,SUBMINISTRAMENTS COMBUSTIBLES,4.0,3.0,2.0,0.00,0.00,0.00,4011.32
+4.0,3321.0,2220300.0,Comunicacions informàtiques,4.0,3.0,2.0,0.00,0.00,0.00,105.02
+4.0,3321.0,2230000.0,Transports,4.0,3.0,2.0,0.00,0.00,0.00,128.24
+4.0,3321.0,2260200.0,DESPESES DIVERSES PUBLICITAT I PROPAGANDA,4.0,3.0,2.0,2063.84,0.00,2063.84,2177.57
+4.0,3321.0,2269902.0,Despeses diverses,4.0,3.0,2.0,23368.42,0.00,23368.42,235.51
+4.0,3321.0,2269960.0,Promoció de la lectura,4.0,3.0,2.0,0.00,0.00,0.00,120.00
+4.0,3321.0,2270000.0,SERVEIS DE NETEJA,4.0,3.0,2.0,30102.60,0.00,30102.60,30262.85
+4.0,3321.0,6250000.0,MOBILIARI I ESTRIS,4.0,3.0,6.0,0.00,0.00,0.00,9889.45
+4.0,3321.0,6260800.0,EQUIPS PER PROCESSOS D'INFORMACIO,4.0,3.0,6.0,0.00,0.00,0.00,3027.42
+4.0,3321.0,6290000.0,Altre immobillitzat material: publicacions,4.0,3.0,6.0,88771.00,0.00,88771.00,36212.85
+4.0,3321.0,6330000.0,"Reposició maquinària, installacions tècniques i estris",4.0,3.0,6.0,0.00,0.00,0.00,12781.53
+4.0,3321.0,6350000.0,Reposició de mobiliari i estris,4.0,3.0,6.0,0.00,0.00,0.00,540.84
+4.0,3321.0,6390000.0,Altres inver.de reposició asoc.al func.operat.serveis,4.0,3.0,6.0,0.00,0.00,0.00,6844.00
+4.0,3321.0,6410400.0,Programes informàtics,4.0,3.0,6.0,0.00,0.00,0.00,14242.60
+4.0,3330.0,2120000.0,MANTENIMENT EDIFICIS,4.0,3.0,2.0,3600.00,0.00,3600.00,939.35
+4.0,3330.0,2130000.0,Manteniment maquinària i installacions,4.0,3.0,2.0,4000.00,0.00,4000.00,7477.76
+4.0,3330.0,2150000.0,Reparació mobiliari i estris ,4.0,3.0,2.0,3600.00,0.00,3600.00,0.00
+4.0,3330.0,2160000.0,Reparació i manteniment d'equips informàtics,4.0,3.0,2.0,2000.00,0.00,2000.00,2027.79
+4.0,3330.0,2200000.0,Material d'oficina,4.0,3.0,2.0,1200.00,0.00,1200.00,150.34
+4.0,3330.0,2200100.0,Subscripcions i publicacions,4.0,3.0,2.0,2400.00,0.00,2400.00,1129.23
+4.0,3330.0,2200109.0,Subscripcions i publicacions anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,60.66
+4.0,3330.0,2210000.0,SUBMINISTRAMENTS ENERGIA ELECTRICA,4.0,3.0,2.0,15000.00,0.00,15000.00,13781.50
+4.0,3330.0,2210009.0,Subministrament electricitat anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,3.09
+4.0,3330.0,2210100.0,SUBMINISTRAMENTS AIGUA,4.0,3.0,2.0,800.00,0.00,800.00,285.17
+4.0,3330.0,2219900.0,Subministraments diversos,4.0,3.0,2.0,2000.00,0.00,2000.00,1004.92
+4.0,3330.0,2219909.0,Altres subministraments d'anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,188.31
+4.0,3330.0,2220000.0,Comunicacions,4.0,3.0,2.0,200.00,0.00,200.00,0.00
+4.0,3330.0,2229900.0,Servei missatgers i comunicacions postals,4.0,3.0,2.0,0.00,0.00,0.00,0.00
+4.0,3330.0,2260100.0,Despeses de protocol,4.0,3.0,2.0,440.00,0.00,440.00,0.00
+4.0,3330.0,2260200.0,Difusió i campanyes de divulgació,4.0,3.0,2.0,600.00,0.00,600.00,0.00
+4.0,3330.0,2260612.0,"Reunions, conferències i cursos",4.0,3.0,2.0,100.00,0.00,100.00,0.00
+4.0,3330.0,2269902.0,Despeses diverses,4.0,3.0,2.0,100.00,0.00,100.00,3314.32
+4.0,3330.0,2270000.0,Prestació de serveis: neteja,4.0,3.0,2.0,34022.80,0.00,34022.80,33672.68
+4.0,3330.0,2270100.0,Prestació de serveis: vigilància,4.0,3.0,2.0,35673.80,0.00,35673.80,44007.22
+4.0,3330.0,2270600.0,Estudis i treballs tècnics,4.0,3.0,2.0,24952.40,0.00,24952.40,35194.99
+4.0,3330.0,2300200.0,Indemnitzacions per raó del servei. Dietes,4.0,3.0,2.0,1050.00,0.00,1050.00,0.00
+4.0,3330.0,2310000.0,Indemnitzacions per raó del servei. Quilometratge,4.0,3.0,2.0,1050.00,0.00,1050.00,86.40
+4.0,3330.0,6080100.0,"Adquisició de béns mobles d'interès hitòric, artístic i cult",4.0,3.0,6.0,14400.00,0.00,14400.00,0.00
+4.0,3330.0,6180000.0,"Restauració patrimoni històric, artístic i cultural",4.0,3.0,6.0,27600.00,0.00,27600.00,17999.00
+4.0,3330.0,6252000.0,Compra de mobiliaris i estris,4.0,3.0,6.0,1200.00,0.00,1200.00,12171.37
+4.0,3330.0,6260800.0,Equips per processos informació Museu de Menorca,4.0,3.0,6.0,0.00,0.00,0.00,3387.01
+4.0,3330.0,6293000.0,Altre immobilitzat material,4.0,3.0,6.0,2400.00,0.00,2400.00,34505.59
+4.0,3330.0,6406000.0,Inversions de caràcter immaterial,4.0,3.0,6.0,22426.00,0.00,22426.00,0.00
+4.0,3340.0,1200000.0,Retrib. Bàsiques funcionaris,,3.0,1.0,16182.10,0.00,16182.10,16082.93
+4.0,3340.0,1210000.0,Retrib. Complementaries funcionaris,,3.0,1.0,23068.71,0.00,23068.71,21308.14
+4.0,3340.0,1500000.0,Altres retribucions - incentiu productivitat,,3.0,1.0,0.00,2000.00,2000.00,1872.05
+4.0,3340.0,2020000.0,LLOGUERS D'EDIFICIS I ALTRES CONSTRUC,4.0,3.0,2.0,0.00,0.00,0.00,1320.03
+4.0,3340.0,2200100.0,Subscripcions i publicacions,4.0,3.0,2.0,500.00,0.00,500.00,625.00
+4.0,3340.0,2220000.0,Comunicacions,4.0,3.0,2.0,500.00,0.00,500.00,824.68
+4.0,3340.0,2220009.0,Comunicacions telefòniques anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,78.05
+4.0,3340.0,2230000.0,Transports,4.0,3.0,2.0,1000.00,0.00,1000.00,2454.20
+4.0,3340.0,2230009.0,Transports anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,977.52
+4.0,3340.0,2240000.0,ASSEGURANCES,4.0,3.0,2.0,0.00,0.00,0.00,477.68
+4.0,3340.0,2260200.0,Difusió i Campanyes de divulgació,4.0,3.0,2.0,2000.00,0.00,2000.00,5145.73
+4.0,3340.0,2260209.0,Publicitat i propaganda anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,776.82
+4.0,3340.0,2269902.0,Despeses diverses,4.0,3.0,2.0,4000.00,0.00,4000.00,1914.54
+4.0,3340.0,2269905.0,Edicions i publicacions,4.0,3.0,2.0,1000.00,0.00,1000.00,1882.70
+4.0,3340.0,2269909.0,Despeses diverses d'anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,588.00
+4.0,3340.0,2269955.0,Escola d'art dramàtic de Menorca,4.0,3.0,2.0,28500.00,0.00,28500.00,22672.90
+4.0,3340.0,2269959.0,Escola d'art dramàtic de Menorca anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,2705.81
+4.0,3340.0,2279908.0,Promoció Cultural,4.0,3.0,2.0,10000.00,0.00,10000.00,607.45
+4.0,3340.0,2279921.0,Centre Internacional de Gravat,4.0,3.0,2.0,15000.00,0.00,15000.00,15112.76
+4.0,3340.0,2279933.0,Activitats Culturals Diada St. Antoni,4.0,3.0,2.0,12000.00,0.00,12000.00,7181.04
+4.0,3340.0,2300000.0,Dietes,4.0,3.0,2.0,0.00,0.00,0.00,347.51
+4.0,3340.0,2310000.0,Quilometratges,4.0,3.0,2.0,0.00,0.00,0.00,156.91
+4.0,3340.0,4624000.0,"Menorca, Música i Teatre (Ajuntaments)",4.0,3.0,4.0,0.00,0.00,0.00,7525.00
+4.0,3340.0,4890009.0,Transferències anys anteriors,4.0,3.0,4.0,0.00,0.00,0.00,1282.00
+4.0,3340.0,4890021.0,Fundació Teatre Principal de Maó,4.0,3.0,4.0,48000.00,0.00,48000.00,48000.00
+4.0,3340.0,4890053.0,Entitats Culturals,4.0,3.0,4.0,100000.00,0.00,100000.00,88628.00
+4.0,3340.0,4890078.0,Música i Teatre,4.0,3.0,4.0,19000.00,0.00,19000.00,10060.00
+4.0,3340.0,4890085.0,Fundació menorquina de l'Opera,4.0,3.0,4.0,60000.00,0.00,60000.00,60000.00
+4.0,3340.0,4890099.0,Joventuts Musicals,4.0,3.0,4.0,60000.00,0.00,60000.00,60200.00
+4.0,3340.0,4891001.0,Ajuts a la producció amateur d'arts escèniques,4.0,3.0,4.0,5000.00,0.00,5000.00,4829.50
+4.0,3340.0,7620009.0,IR Transf. capital de Creació i promoció cultural,4.0,3.0,7.0,0.00,4944.13,4944.13,4944.13
+4.0,3340.0,7622200.0,Espai cultural polivalent a Ferreries,4.0,3.0,7.0,91291.80,0.00,91291.80,91291.80
+4.0,3341.0,1200000.0,Retrib. Bàsiques funcionaris,,3.0,1.0,34434.42,0.00,34434.42,18835.96
+4.0,3341.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,14450.39
+4.0,3341.0,1210000.0,Retrib. Complementàries funcionaris,,3.0,1.0,39757.55,0.00,39757.55,21955.15
+4.0,3341.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,15493.37
+4.0,3341.0,1500000.0,Altres retribucions - incentiu productivitat,,3.0,1.0,0.00,6000.00,6000.00,2666.88
+4.0,3341.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,2657.00
+4.0,3341.0,2260200.0,Difusió Normalització Ling. I Cultura Popular,4.0,3.0,2.0,7550.00,0.00,7550.00,1925.04
+4.0,3341.0,2269902.0,Despeses diverses,4.0,3.0,2.0,0.00,0.00,0.00,96.51
+4.0,3341.0,2310000.0,Quilometratges,4.0,3.0,2.0,0.00,0.00,0.00,131.20
+4.0,3341.0,4790002.0,Suport genèric,4.0,3.0,4.0,3750.00,0.00,3750.00,3435.00
+4.0,3341.0,4790005.0,Català a l'empresa i Clubs esportius,4.0,3.0,4.0,5500.00,7200.00,12700.00,6748.00
+4.0,3341.0,4810002.0,Beques i Premis,4.0,3.0,4.0,700.00,0.00,700.00,700.00
+4.0,3341.0,4890005.0,Promoció de la llengua catalana a les revistes locals,4.0,3.0,4.0,5250.00,0.00,5250.00,2514.00
+4.0,3341.0,4890052.0,Conveni amb FEMEFOLK per a la promoció dels balls tradiciona,4.0,3.0,4.0,5500.00,0.00,5500.00,5500.00
+4.0,3343.0,2210000.0,SUBMINISTRAMENTS ENERGIA ELECTRICA,4.0,3.0,2.0,0.00,0.00,0.00,2198.05
+4.0,3343.0,2269902.0,Despeses diverses,4.0,3.0,2.0,0.00,0.00,0.00,403.94
+4.0,3343.0,4890064.0,Aportació Fundació Destí,4.0,3.0,4.0,146000.00,0.00,146000.00,146000.00
+4.0,3343.0,7620003.0,IR Rehabilitació i museïtzació Can Saura,4.0,3.0,7.0,0.00,149868.78,149868.78,0.00
+4.0,3343.0,7801200.0,Aportació de capital a la Fundació Destí Menorca,4.0,3.0,7.0,5000.00,0.00,5000.00,5000.00
+4.0,3345.0,1500000.0,Altres retribucions - incentiu productivitat,,3.0,1.0,0.00,5000.00,5000.00,4158.49
+4.0,3345.0,2310000.0,Quilometratges,4.0,3.0,2.0,0.00,0.00,0.00,136.50
+4.0,3360.0,1200000.0,Retrib. Bàsiques funcionaris,,3.0,1.0,59519.18,0.00,59519.18,21662.70
+4.0,3360.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,16055.75
+4.0,3360.0,1210000.0,Retrib. Complementàries funcionaris,,3.0,1.0,66658.48,0.00,66658.48,23611.14
+4.0,3360.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,21949.85
+4.0,3360.0,1500000.0,Altres retribucions - incentiu productivitat,,3.0,1.0,0.00,6000.00,6000.00,2988.29
+4.0,3360.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,2657.00
+4.0,3360.0,1600003.0,Accidents,,3.0,1.0,0.00,0.00,0.00,599.32
+4.0,3360.0,2000000.0,Arrendaments de terrens i bens naturals,4.0,3.0,2.0,2133.75,0.00,2133.75,0.00
+4.0,3360.0,2140000.0,Manteniment elements de transport,4.0,3.0,2.0,1000.00,0.00,1000.00,1065.43
+4.0,3360.0,2140009.0,Manteniment vehicles anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,45.87
+4.0,3360.0,2200000.0,Material d'oficina - Museu de Menorca,4.0,3.0,2.0,0.00,0.00,0.00,300.31
+4.0,3360.0,2210300.0,Subministrament combustible,4.0,3.0,2.0,4000.00,0.00,4000.00,4169.13
+4.0,3360.0,2210309.0,Subministrament combustible anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,304.33
+4.0,3360.0,2210400.0,Subministrament vestuari,4.0,3.0,2.0,500.00,0.00,500.00,54.84
+4.0,3360.0,2220000.0,Comunicacions,4.0,3.0,2.0,500.00,0.00,500.00,367.52
+4.0,3360.0,2220009.0,Comunicacions telefòniques anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,62.67
+4.0,3360.0,2229900.0,Comunicacions - Museu de Menorca,4.0,3.0,2.0,0.00,0.00,0.00,7.15
+4.0,3360.0,2230000.0,Transports,4.0,3.0,2.0,1000.00,0.00,1000.00,829.35
+4.0,3360.0,2230009.0,Transports anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,723.23
+4.0,3360.0,2240000.0,Assegurances,4.0,3.0,2.0,8550.00,0.00,8550.00,539.51
+4.0,3360.0,2250000.0,Tributs,4.0,3.0,2.0,1000.00,0.00,1000.00,0.00
+4.0,3360.0,2250200.0,Tributs entitats locals,4.0,3.0,2.0,0.00,0.00,0.00,757.53
+4.0,3360.0,2260200.0,Difusió i Campanyes de divulgació,4.0,3.0,2.0,3000.00,0.00,3000.00,267.14
+4.0,3360.0,2260400.0,Despeses jurídiques,4.0,3.0,2.0,500.00,0.00,500.00,0.00
+4.0,3360.0,2269902.0,Despeses diverses,4.0,3.0,2.0,5000.00,0.00,5000.00,1214.40
+4.0,3360.0,2269905.0,Edicions i publicacions,4.0,3.0,2.0,6000.00,0.00,6000.00,2928.31
+4.0,3360.0,2269909.0,Despeses diverses d'anys anteriors,4.0,3.0,2.0,0.00,0.00,0.00,105.43
+4.0,3360.0,2270200.0,Valoracions i peritatges,4.0,3.0,2.0,500.00,0.00,500.00,0.00
+4.0,3360.0,2279909.0,Neteja i Senyalització de Monuments,4.0,3.0,2.0,90000.00,0.00,90000.00,83663.30
+4.0,3360.0,4670004.0,Consorci Histórico-Militar,4.0,3.0,4.0,20000.00,0.00,20000.00,20000.00
+4.0,3360.0,4810002.0,Beques i Premis,4.0,3.0,4.0,1000.00,0.00,1000.00,0.00
+4.0,3360.0,4810003.0,Ajuts a la investigació,4.0,3.0,4.0,15000.00,0.00,15000.00,9802.40
+4.0,3360.0,4810009.0,Beques i premis anys anteriors,4.0,3.0,4.0,0.00,0.00,0.00,872.60
+4.0,3360.0,4890007.0,A peu per Menorca,4.0,3.0,4.0,4000.00,0.00,4000.00,4000.00
+4.0,3360.0,4890009.0,Transferències anys anteriors,4.0,3.0,4.0,0.00,0.00,0.00,249.65
+4.0,3360.0,4890023.0,Entitats Patrimoni Històric,4.0,3.0,4.0,5500.00,0.00,5500.00,7953.05
+4.0,3360.0,4892800.0,"Amics de la Mar de Menorca - llaüt ""Besitos""",4.0,3.0,4.0,3000.00,0.00,3000.00,3000.00
+4.0,3360.0,6090000.0,Patrimoni de la Humanitat,4.0,3.0,6.0,10000.00,0.00,10000.00,0.00
+4.0,3360.0,6220000.0,Xarxa Menorca Monumental,4.0,3.0,6.0,100000.00,0.00,100000.00,825.10
+4.0,3360.0,6230000.0,Instal·lacions Xarxa Menorca Monumental,4.0,3.0,6.0,0.00,0.00,0.00,14690.51
+4.0,3360.0,6273000.0,Excavacions arquoelògiques,4.0,3.0,6.0,10000.00,0.00,10000.00,6725.67
+4.0,3360.0,6273100.0,Inversions a càrrec de l'1% cultural,4.0,3.0,6.0,0.00,260611.14,260611.14,0.00
+4.0,3360.0,6400000.0,Digitalització dels fons artístic i patrimoni del CIM,4.0,3.0,6.0,1000.00,0.00,1000.00,0.00
+4.0,3360.0,6406000.0,Inversions immaterials en Protecció Patrimoni,4.0,3.0,6.0,0.00,0.00,0.00,6529.90
+4.0,3360.0,7620009.0,IR Transf. de capital de Patrimoni Històric - Ajuntaments,4.0,3.0,7.0,0.00,51359.67,51359.67,51359.67
+4.0,3360.0,7623100.0,Restauració Patrimoni Etnològic,4.0,3.0,7.0,5000.00,0.00,5000.00,0.00
+4.0,3360.0,7624000.0,Adquisició col.lecció Montobio,4.0,3.0,7.0,51359.67,0.00,51359.67,51359.67
+4.0,3360.0,7800009.0,IR Transf. de capital de Patrimoni Històric,4.0,3.0,7.0,0.00,41322.24,41322.24,41322.24
+4.0,3360.0,7802700.0,Patrimoni Esglèsia Catòlica,4.0,3.0,7.0,40000.00,0.00,40000.00,19208.59
+4.0,3360.0,7803300.0,Ajudes excav. Arqueològiques,4.0,3.0,7.0,22000.00,0.00,22000.00,7816.46
+4.0,3360.0,7810003.0,Ajuts a la investigació,4.0,3.0,7.0,0.00,0.00,0.00,4775.00
+4.0,3360.0,7900000.0,Ajuts intervencions arqueologiques entitats extrangeres,4.0,3.0,7.0,0.00,0.00,0.00,5263.04
+4.0,4100.0,1311020.0,Indemnitzacions per fi de contracte,,4.0,1.0,0.00,0.00,0.00,0.00
+5.0,1350.0,1200000.0,Retrib. Bàsiques funcionaris - Servei Incendis,,1.0,1.0,350048.91,0.00,350048.91,260074.66
+5.0,1350.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,1.0,1.0,0.00,0.00,0.00,64945.70
+5.0,1350.0,1200040.0,Retrib.bàsiq.func.int.subst.transitòria incapacitat transitò,,1.0,1.0,0.00,0.00,0.00,1040.50
+5.0,1350.0,1210000.0,Retrib. Complementàries funcionaris Serveis Incendis,,1.0,1.0,736843.08,0.00,736843.08,550070.44
+5.0,1350.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,1.0,1.0,0.00,0.00,0.00,142943.52
+5.0,1350.0,1210040.0,Retrib.Comp.func.int.subst.transitòria incapacitat transit.,,1.0,1.0,0.00,0.00,0.00,1733.73
+5.0,1350.0,1500000.0,Altres retribucions - incentiu productivitat,,1.0,1.0,0.00,56000.00,56000.00,43124.65
+5.0,1350.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,1.0,1.0,0.00,0.00,0.00,12468.97
+5.0,1350.0,1500040.0,Productivitat func.int.subst.transitòria incapacitat transit,,1.0,1.0,0.00,0.00,0.00,184.64
+5.0,1350.0,1501030.0,Productivitat Pers-Lab.Event.substitució transitòria vacanc.,,1.0,1.0,0.00,0.00,0.00,17.31
+5.0,1350.0,1510000.0,Gratificacions Funcionaris,,1.0,1.0,0.00,0.00,0.00,65801.87
+5.0,1350.0,1510010.0,Gratificacions Func.Int.ocupen plaça vacant a la plantilla,,1.0,1.0,0.00,0.00,0.00,16112.87
+5.0,1350.0,1510040.0,Gratificacions Func.substitució trans.(incapacitat trans.),,1.0,1.0,0.00,0.00,0.00,173.95
+5.0,1350.0,1600002.0,Malaltia,,1.0,1.0,0.00,0.00,0.00,2860.99
+5.0,1350.0,1600003.0,Accidents,,1.0,1.0,0.00,0.00,0.00,7440.74
+5.0,1350.0,2120000.0,Manteniment Edificis i altres Serveis d'incendis,5.0,1.0,2.0,10000.00,0.00,10000.00,4603.10
+5.0,1350.0,2130000.0,Manteniment maquinària i installacions,5.0,1.0,2.0,23500.00,0.00,23500.00,24887.02
+5.0,1350.0,2130009.0,Manteniment i rep.instal.i màquinaria anys anteriors,5.0,1.0,2.0,0.00,0.00,0.00,423.22
+5.0,1350.0,2140000.0,Manteniment elements de transport,5.0,1.0,2.0,47000.00,99.18,47099.18,48344.93
+5.0,1350.0,2140009.0,Manteniment vehicles anys anteriors,5.0,1.0,2.0,0.00,0.00,0.00,156.47
+5.0,1350.0,2210000.0,Subministrament energia elèctrica,5.0,1.0,2.0,22000.00,0.00,22000.00,26806.56
+5.0,1350.0,2210100.0,Subministrament aigua - Servei d'incendis,5.0,1.0,2.0,1500.00,0.00,1500.00,3006.93
+5.0,1350.0,2210109.0,Subministrament aigua anys anteriors,5.0,1.0,2.0,0.00,0.00,0.00,217.74
+5.0,1350.0,2210200.0,Subministrament gas - Serveis d'incendis,5.0,1.0,2.0,1100.00,0.00,1100.00,643.76
+5.0,1350.0,2210300.0,Subministrament combustible - Servei d'incendis,5.0,1.0,2.0,16500.00,0.00,16500.00,17584.48
+5.0,1350.0,2210309.0,Subministrament combustible anys anteriors,5.0,1.0,2.0,0.00,0.00,0.00,19.06
+5.0,1350.0,2210400.0,Subministrament vestuari - Servei d'incendis,5.0,1.0,2.0,15600.00,0.00,15600.00,11535.78
+5.0,1350.0,2210409.0,Subministrament vestuari anys anteriors,5.0,1.0,2.0,0.00,0.00,0.00,1419.75
+5.0,1350.0,2219900.0,Subministraments diversos - Servei d'incendis,5.0,1.0,2.0,25000.00,0.00,25000.00,3436.02
+5.0,1350.0,2219909.0,Altres subministraments d'anys anteriors,5.0,1.0,2.0,0.00,0.00,0.00,0.00
+5.0,1350.0,2220000.0,Comunicacions telefòniques (consum) servei d'incendis,5.0,1.0,2.0,1500.00,0.00,1500.00,593.51
+5.0,1350.0,2220009.0,Comunicacions telefòniques anys anteriors,5.0,1.0,2.0,0.00,0.00,0.00,76.15
+5.0,1350.0,2230000.0,TRANSPORTS,5.0,1.0,2.0,0.00,0.00,0.00,992.15
+5.0,1350.0,2230009.0,Transports anys anteriors,5.0,1.0,2.0,0.00,0.00,0.00,0.00
+5.0,1350.0,2240000.0,Assegurances,5.0,1.0,2.0,0.00,0.00,0.00,8114.08
+5.0,1350.0,2250000.0,Tributs estatals,5.0,1.0,2.0,0.00,0.00,0.00,1496.94
+5.0,1350.0,2250200.0,Tributs entitats locals,5.0,1.0,2.0,0.00,0.00,0.00,207.33
+5.0,1350.0,2260100.0,Despeses diverses de protocol,5.0,1.0,2.0,0.00,0.00,0.00,228.40
+5.0,1350.0,2269902.0,Despeses diverses Servei d'incends,5.0,1.0,2.0,3500.00,0.00,3500.00,768.24
+5.0,1350.0,2270000.0,Serveis Neteja Serveis d'incendis,5.0,1.0,2.0,28800.00,0.00,28800.00,27233.00
+5.0,1350.0,2300000.0,Dietes,5.0,1.0,2.0,0.00,0.00,0.00,70.53
+5.0,1350.0,2310000.0,Quilometratges,5.0,1.0,2.0,0.00,0.00,0.00,92.00
+5.0,1350.0,4620001.0,Bombers Semiprofessionals,5.0,1.0,4.0,350000.00,0.00,350000.00,357295.08
+5.0,1350.0,4890000.0,Altres transferències,5.0,1.0,4.0,0.00,0.00,0.00,90.00
+5.0,1350.0,4890083.0,ALTRES TRANSFERENCIES INCENDIS,5.0,1.0,4.0,14000.00,0.00,14000.00,0.00
+5.0,1350.0,6220009.0,Edificis i altres construccions anys anteriors,5.0,1.0,6.0,0.00,62713.61,62713.61,62713.61
+5.0,1350.0,6230000.0,"Maquinària, installacions i estris",5.0,1.0,6.0,40000.00,0.00,40000.00,13339.47
+5.0,1350.0,6240009.0,IR Elements transport servei prevenció i extinció incendis,5.0,1.0,6.0,0.00,138708.69,138708.69,138708.69
+5.0,1350.0,6370000.0,CASERNA BOMBERS MAÓ,5.0,1.0,6.0,30700.00,0.00,30700.00,5396.58
+5.0,1350.0,6370009.0,IR Inversions servei de prevenció i extinció d'incendis,5.0,1.0,6.0,0.00,62588.13,62588.13,0.00
+5.0,1510.0,6220000.0,Edificis i altres construccions,5.0,1.0,6.0,0.00,0.00,0.00,0.00
+5.0,1690.0,1010000.0,RET. BÀSIQUES PERSONAL EVENT. GAVINET.,,1.0,1.0,49810.74,0.00,49810.74,46252.84
+5.0,1690.0,1200000.0,Retrib. Bàsiques funcionaris,,1.0,1.0,80195.43,0.00,80195.43,59350.65
+5.0,1690.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,1.0,1.0,0.00,0.00,0.00,14055.31
+5.0,1690.0,1210000.0,Retrib. Complementàries funcionaris,,1.0,1.0,94001.25,0.00,94001.25,71602.68
+5.0,1690.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,1.0,1.0,0.00,0.00,0.00,15208.59
+5.0,1690.0,1500000.0,Altres retribucions - incentiu productivitat,,1.0,1.0,0.00,10000.00,10000.00,7213.23
+5.0,1690.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,1.0,1.0,0.00,0.00,0.00,3072.71
+5.0,1690.0,2200100.0,SUBSCRIPCIONS I PUBLICACIONS,5.0,1.0,2.0,0.00,0.00,0.00,328.75
+5.0,1690.0,2210300.0,SUBMINISTRAMENTS COMBUSTIBLES,5.0,1.0,2.0,0.00,0.00,0.00,255.98
+5.0,1690.0,2210309.0,Subministrament combustible anys anteriors,5.0,1.0,2.0,0.00,0.00,0.00,14.62
+5.0,1690.0,2220000.0,COMUNICACIONS TELEFÓNIQUES,5.0,1.0,2.0,0.00,0.00,0.00,1574.63
+5.0,1690.0,2220009.0,Comunicacions telefòniques anys anteriors,5.0,1.0,2.0,0.00,0.00,0.00,152.76
+5.0,1690.0,2230000.0,Transports Servei de Cooperació,5.0,1.0,2.0,950.01,112.49,1062.50,1805.04
+5.0,1690.0,2230009.0,Transports anys anteriors,5.0,1.0,2.0,0.00,121.01,121.01,121.01
+5.0,1690.0,2240000.0,ASSEGURANCES,5.0,1.0,2.0,0.00,0.00,0.00,189.57
+5.0,1690.0,2250200.0,Tributs entitats locals,5.0,1.0,2.0,0.00,0.00,0.00,78.64
+5.0,1690.0,2269902.0,Despeses diverses,5.0,1.0,2.0,6000.00,0.00,6000.00,121.34
+5.0,1690.0,2279923.0,Direcció servei neteja platges,5.0,1.0,2.0,40500.00,0.00,40500.00,40044.06
+5.0,1690.0,2279929.0,Servei insular de neteja de platges,5.0,1.0,2.0,890000.00,0.00,890000.00,895245.52
+5.0,1690.0,2300000.0,Dietes,5.0,1.0,2.0,0.00,0.00,0.00,22.45
+5.0,1690.0,2310000.0,Quilometratges,5.0,1.0,2.0,0.00,0.00,0.00,350.31
+5.0,1690.0,4670001.0,Aportació Consorci penya-segat del Port de Maó,5.0,1.0,4.0,54000.00,0.00,54000.00,25202.12
+5.0,1690.0,4890000.0,Ajuts desenvolupament entitats espanyoles,5.0,1690.0,4.0,0.00,0.00,0.00,3240.00
+5.0,1690.0,4900000.0,Ajuts al desenvolupament,5.0,1690.0,4.0,127084.14,0.00,127084.14,123844.14
+5.0,1690.0,7678000.0,Aportació Consorci penya-segat del Port de Maó,5.0,1.0,7.0,116090.00,0.00,116090.00,116089.96
+5.0,1690.0,7900000.0,Ajuts al desenvolupament,5.0,1.0,7.0,127084.14,0.00,127084.14,0.00
+5.0,1692.0,2250200.0,Tributs entitats locals,5.0,1.0,2.0,0.00,0.00,0.00,809.80
+5.0,1692.0,2269902.0,Despeses diverses,5.0,1.0,2.0,0.00,0.00,0.00,267.21
+5.0,1692.0,2269908.0,Gestió ordinària dels centres: Maó i Ciutadella,5.0,1.0,2.0,177000.00,6000.00,183000.00,191893.98
+5.0,1692.0,4620002.0,Conveni recollida d'animals,5.0,1.0,4.0,6000.00,0.00,6000.00,0.00
+5.0,3410.0,1010000.0,RET. BÀSIQUES PERSONAL EVENT. GAVINET.,,3.0,1.0,0.00,0.00,0.00,190.41
+5.0,3410.0,1200000.0,Retrib. Bàsiques funcionaris,,3.0,1.0,77155.14,0.00,77155.14,48172.68
+5.0,3410.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,7784.79
+5.0,3410.0,1210000.0,Retrib. Complementàries funcionaris,,3.0,1.0,91029.87,0.00,91029.87,55684.03
+5.0,3410.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,7717.02
+5.0,3410.0,1300000.0,Retrib. Personal laboral,,3.0,1.0,36106.67,0.00,36106.67,34269.99
+5.0,3410.0,1500000.0,Altres retribucions - incentiu productivitat,,3.0,1.0,0.00,12000.00,12000.00,7131.55
+5.0,3410.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,3.0,1.0,0.00,0.00,0.00,1557.90
+5.0,3410.0,1501000.0,Productivitat Personal Laboral,,3.0,1.0,0.00,0.00,0.00,2666.88
+5.0,3410.0,2210400.0,Subministrament Vestuari,5.0,3.0,2.0,12600.00,0.00,12600.00,0.00
+5.0,3410.0,2220000.0,COMUNICACIONS TELEFÓNIQUES,5.0,3.0,2.0,0.00,0.00,0.00,473.21
+5.0,3410.0,2220009.0,Comunicacions telefòniques anys anteriors,5.0,3.0,2.0,0.00,0.00,0.00,38.62
+5.0,3410.0,2230000.0,Transports,5.0,3.0,2.0,6600.00,0.00,6600.00,2708.04
+5.0,3410.0,2240000.0,ASSEGURANCES,5.0,3.0,2.0,0.00,0.00,0.00,1900.00
+5.0,3410.0,2260100.0,DESPESES DIVERSES DE PROTOCOL,5.0,3.0,2.0,0.00,0.00,0.00,1511.96
+5.0,3410.0,2260200.0,Difusió i Campanyes de divulgació,5.0,3.0,2.0,1000.00,0.00,1000.00,672.60
+5.0,3410.0,2260605.0,Campament d'Estiu,5.0,3.0,2.0,14518.70,0.00,14518.70,16380.95
+5.0,3410.0,2269902.0,Despeses diverses,5.0,3.0,2.0,0.00,0.00,0.00,40.00
+5.0,3410.0,2269905.0,Edicions i publicacions,5.0,3.0,2.0,1000.00,0.00,1000.00,0.00
+5.0,3410.0,2269921.0,Despeses diverses esport,5.0,3.0,2.0,5000.00,0.00,5000.00,4087.59
+5.0,3410.0,2269929.0,Despeses diverses esport anys anteriors,5.0,3.0,2.0,0.00,0.00,0.00,357.33
+5.0,3410.0,2279910.0,Prestació Serveis,5.0,3.0,2.0,66000.00,15671.00,81671.00,78431.89
+5.0,3410.0,2300000.0,Dietes,5.0,3.0,2.0,0.00,0.00,0.00,717.89
+5.0,3410.0,2310000.0,Quilometratges,5.0,3.0,2.0,0.00,0.00,0.00,822.91
+5.0,3410.0,4620000.0,Subvencions a Ajuntaments - Esports,5.0,3.0,4.0,0.00,0.00,0.00,0.00
+5.0,3410.0,4620006.0,Medicina Esportiva,5.0,3.0,4.0,6500.00,0.00,6500.00,3250.00
+5.0,3410.0,4620017.0,Ajuts Ajuntaments,5.0,3.0,4.0,11690.00,0.00,11690.00,11690.00
+5.0,3410.0,4670003.0,Aportació consorcis esportius,5.0,3.0,4.0,55663.00,0.00,55663.00,46346.38
+5.0,3410.0,4670006.0,Aportació Consorci Pavelló esportiu Multifuncional Maó,5.0,3.0,4.0,107302.50,0.00,107302.50,50284.96
+5.0,3410.0,4670007.0,Aportació Cons Pavelló esportiu Multif. per al Menorca Bàsqu,5.0,3.0,4.0,50000.00,0.00,50000.00,25000.00
+5.0,3410.0,4890022.0,Ajudes Esportives,5.0,3.0,4.0,351900.00,57400.00,294500.00,285945.67
+5.0,3410.0,4890064.0,Aportació Fundació Destí,5.0,3.0,4.0,25000.00,0.00,25000.00,25000.00
+5.0,3410.0,4890086.0,Esports bàsics,5.0,3.0,4.0,30750.00,0.00,30750.00,26550.00
+5.0,3410.0,4890096.0,Fases Insulars L'EE,5.0,3.0,4.0,69381.28,0.00,69381.28,69381.27
+5.0,3410.0,6237000.0,Equipament i material esportiu,5.0,3.0,6.0,1000.00,0.00,1000.00,0.00
+5.0,3410.0,7620009.0,IR Transfèrcines de capital d'esports - Ajuntaments,5.0,3.0,7.0,0.00,51377.55,51377.55,27467.42
+5.0,3410.0,7624700.0,Pla insular establiment i instl. Esportives,5.0,3.0,7.0,20251.06,0.00,20251.06,20251.06
+5.0,3410.0,7677000.0,Aportació capital a Consorcis esportius,5.0,3.0,7.0,73150.14,0.00,73150.14,73100.13
+5.0,3410.0,7677001.0,Aportació Cons Pavelló esportiu Multif. Maó,5.0,3.0,7.0,237500.00,0.00,237500.00,237500.37
+5.0,9455.0,6500000.0,Inversions gestionades per a altres ens públics,5.0,9.0,6.0,0.00,0.00,0.00,0.00
+5.0,9455.0,6500009.0,IR Inversions gestionades per compte d'altres ens públics,5.0,9.0,6.0,0.00,16876.19,16876.19,7877.68
+5.0,9455.0,7620009.0,IR Aportació CIM als PICs - Anys anteriors,5.0,9.0,7.0,0.00,117244.72,117244.72,123652.18
+5.0,9455.0,7620019.0,IR Aportació MPT als PICs - Anys anteriors,5.0,9.0,7.0,0.00,779125.66,779125.66,649520.72
+5.0,9455.0,7620029.0,IR Aportació CAIB als PICs - Anys anteriors,5.0,9.0,7.0,0.00,15427.53,15427.53,16148.06
+5.0,9455.0,7620100.0,Aportació CIM 2012 al PIC 2011,5.0,9.0,7.0,0.00,0.00,0.00,308616.81
+5.0,9455.0,7621009.0,IR Pla de mesures de detecció i reducció de fuites d'aigua,5.0,9.0,7.0,0.00,240830.35,240830.35,78137.84
+5.0,9455.0,7625200.0,Plans Insulars de Cooperació,5.0,9.0,7.0,940000.00,0.00,940000.00,0.00
+6.0,1720.0,1200000.0,Retrib. Bàsiques funcionaris,,1.0,1.0,53106.04,0.00,53106.04,28395.77
+6.0,1720.0,1210000.0,Retrib. Complementàries funcionaris,,1.0,1.0,54662.06,0.00,54662.06,28709.87
+6.0,1720.0,1310000.0,Retrib. Personal laboral eventual,,1.0,1.0,285908.54,0.00,285908.54,0.00
+6.0,1720.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,1.0,1.0,0.00,0.00,0.00,249487.33
+6.0,1720.0,1311020.0,Indemnitzacions per fi de contracte,,1.0,1.0,0.00,0.00,0.00,22036.12
+6.0,1720.0,1500000.0,Altres retribucions - incentiu productivitat,,1.0,1.0,0.00,28000.00,28000.00,4164.03
+6.0,1720.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,1.0,1.0,0.00,0.00,0.00,25625.56
+6.0,1720.0,1600003.0,Accidents,,1.0,1.0,0.00,0.00,0.00,10562.48
+6.0,1720.0,2030000.0,"LLOGUERS MAQUINARIA, INSTAL. I ESTRIS",6.0,1.0,2.0,0.00,0.00,0.00,479.71
+6.0,1720.0,2120000.0,Manteniment edificis,6.0,1.0,2.0,0.00,0.00,0.00,2296.07
+6.0,1720.0,2130000.0,MANTENIMENT MAQUINARIA I INSTAL.LACIONS,6.0,1.0,2.0,0.00,0.00,0.00,505.07
+6.0,1720.0,2140000.0,MANTENIMENT VEHICLES,6.0,1.0,2.0,0.00,0.00,0.00,1391.82
+6.0,1720.0,2140009.0,Manteniment vehicles anys anteriors,6.0,1.0,2.0,0.00,0.00,0.00,30.95
+6.0,1720.0,2200100.0,Subscripcions i publicacions,6.0,1.0,2.0,2000.00,0.00,2000.00,0.00
+6.0,1720.0,2210300.0,Subministrament combustible,6.0,1.0,2.0,6000.00,0.00,6000.00,5598.53
+6.0,1720.0,2210400.0,SUBMINISTRAMENTS VESTUARI,6.0,1.0,2.0,0.00,0.00,0.00,342.00
+6.0,1720.0,2220000.0,Comunicacions,6.0,1.0,2.0,1000.00,0.00,1000.00,133.16
+6.0,1720.0,2220009.0,Comunicacions telefòniques anys anteriors,6.0,1.0,2.0,0.00,0.00,0.00,11.42
+6.0,1720.0,2220018.0,Comunicacions telefòniques Pjte.Life Boscos,6.0,1.0,2.0,0.00,0.00,0.00,51.44
+6.0,1720.0,2220019.0,Comunicacions Telefòniques Life Boscos anys anteriors,6.0,1.0,2.0,0.00,0.00,0.00,7.11
+6.0,1720.0,2220020.0,Comunicacions telefòniques Pjte.Life Reneix,6.0,1.0,2.0,0.00,0.00,0.00,344.74
+6.0,1720.0,2220029.0,Comunicacions Telefòniques Life Reneix anys anteriors,6.0,1.0,2.0,0.00,0.00,0.00,76.97
+6.0,1720.0,2230000.0,Transports,6.0,1.0,2.0,7000.00,0.00,7000.00,20303.94
+6.0,1720.0,2240000.0,Assegurances,6.0,1.0,2.0,325.00,0.00,325.00,729.08
+6.0,1720.0,2250200.0,Tributs entitats locals,6.0,1.0,2.0,0.00,0.00,0.00,437.84
+6.0,1720.0,2260100.0,DESPESES DE PROTOCOL,6.0,1.0,2.0,0.00,0.00,0.00,4317.46
+6.0,1720.0,2260200.0,Despeses de publicitat,6.0,1.0,2.0,1000.00,0.00,1000.00,356.24
+6.0,1720.0,2260209.0,Informadors platges anys anteriors,6.0,1.0,2.0,0.00,133400.00,133400.00,133395.22
+6.0,1720.0,2260400.0,Despeses jurídiques,6.0,1.0,2.0,5000.00,0.00,5000.00,0.00
+6.0,1720.0,2260600.0,Cursos i ponències,6.0,1.0,2.0,0.00,0.00,0.00,4020.00
+6.0,1720.0,2260601.0,Despeses diverses projectes i congressos,6.0,1.0,2.0,12000.00,0.00,12000.00,0.00
+6.0,1720.0,2260611.0,Educació ambiental Viu la Reserva de Biosfera,6.0,1.0,2.0,10000.00,0.00,10000.00,0.00
+6.0,1720.0,2269902.0,Despeses diverses,6.0,1.0,2.0,15000.00,0.00,15000.00,3647.08
+6.0,1720.0,2269907.0,Despeses diverses AL 21,6.0,1.0,2.0,30000.00,0.00,30000.00,0.00
+6.0,1720.0,2269918.0,Despeses diverses LIFE boscos,6.0,1.0,2.0,298363.00,0.00,298363.00,20.60
+6.0,1720.0,2269920.0,Despeses diverses LIFE reneix,6.0,1.0,2.0,100882.25,0.00,100882.25,19427.99
+6.0,1720.0,2269923.0,Agència Menorca Reserva de Biosfera ,6.0,1.0,2.0,90000.00,0.00,90000.00,9256.50
+6.0,1720.0,2269926.0,Actuacions mediambientals reserva de biosfera,6.0,1.0,2.0,30000.00,0.00,30000.00,0.00
+6.0,1720.0,2270600.0,Estudis i treballs tècnics,6.0,1.0,2.0,15000.00,0.00,15000.00,62838.48
+6.0,1720.0,2300000.0,Dietes,6.0,1.0,2.0,0.00,0.00,0.00,37.40
+6.0,1720.0,2300200.0,Dietes,6.0,1.0,2.0,2000.00,0.00,2000.00,0.00
+6.0,1720.0,2310000.0,Quilometratge,6.0,1.0,2.0,2000.00,0.00,2000.00,69.15
+6.0,1720.0,4100009.0,Treballs realitzats per l'IME - Anys anteriors,6.0,1.0,4.0,0.00,0.00,0.00,0.00
+6.0,1720.0,4110003.0,Aportació IME - Económia,6.0,1.0,4.0,0.00,0.00,0.00,15750.00
+6.0,1720.0,4890015.0,Altres transferències,6.0,1.0,4.0,189648.00,169750.00,19898.00,0.00
+6.0,1720.0,6230000.0,"Maquinaria, instal.lacions i estris",6.0,1.0,6.0,0.00,0.00,0.00,0.00
+6.0,1720.0,6230009.0,Adquisició maquinària anys anteriors,6.0,1.0,6.0,0.00,0.00,0.00,1709.16
+6.0,1720.0,6270000.0,Execucions Life Reneix litoral illa,6.0,1.0,6.0,295639.08,0.00,295639.08,11338.62
+6.0,1720.0,6270001.0,Execucions LIFE boscos finques Menorca,6.0,1.0,6.0,2850.00,0.00,2850.00,0.00
+6.0,1720.0,6270004.0,IR Plans especials,6.0,1.0,6.0,0.00,40800.00,40800.00,24650.00
+6.0,1720.0,6270100.0,Projectes complexos inversions en finques particulars,6.0,1.0,6.0,0.00,0.00,0.00,63289.17
+6.0,1720.0,6320000.0,Inversió de reposició en edificis i altres construccions,6.0,1.0,6.0,0.00,0.00,0.00,6639.21
+6.0,1720.0,6320005.0,IR Reste adeq. exterior CI Parc Alburera des Grau,6.0,1.0,6.0,0.00,6200.90,6200.90,0.00
+6.0,1720.0,6370010.0,Equipament i reformes Seu Reserva de la Biosfera,6.0,1.0,6.0,40000.00,0.00,40000.00,0.00
+6.0,1720.0,6500000.0,Inversions gestionades per compte d'altres ens públics,6.0,1.0,6.0,0.00,0.00,0.00,18519.85
+6.0,1720.0,7670009.0,IR Projecte ampliació abocador Milà,6.0,1.0,7.0,0.00,2000000.00,2000000.00,150000.00
+6.0,4100.0,1010000.0,Retribucions personal gabinet,,4.0,1.0,49810.74,0.00,49810.74,46252.84
+6.0,4100.0,1200000.0,Retrib. Bàsiques funcionaris,,4.0,1.0,86132.39,0.00,86132.39,70677.24
+6.0,4100.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,5261.59
+6.0,4100.0,1210000.0,Retrib. Complementàries funcionaris,,4.0,1.0,86198.47,0.00,86198.47,75521.49
+6.0,4100.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,5145.01
+6.0,4100.0,1300000.0,LABORAL FIX,,4.0,1.0,53168.25,0.00,53168.25,1413.84
+6.0,4100.0,1310000.0,Retrib.Personal Laboral Eventual - AGA del Dep. d'Economia,,4.0,1.0,25243.40,0.00,25243.40,0.00
+6.0,4100.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,40065.67
+6.0,4100.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,4.0,1.0,0.00,0.00,0.00,23380.19
+6.0,4100.0,1311020.0,Indemnitzacions per fi de contracte,,4.0,1.0,0.00,0.00,0.00,2618.56
+6.0,4100.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,15000.00,15000.00,10363.83
+6.0,4100.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,1038.67
+6.0,4100.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,4.0,1.0,0.00,0.00,0.00,1177.11
+6.0,4100.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,4.0,1.0,0.00,0.00,0.00,2597.97
+6.0,4100.0,1600003.0,Accidents,,4.0,1.0,0.00,0.00,0.00,283.24
+6.0,4100.0,2120000.0,Manteniment Edificis,6.0,4.0,2.0,5000.00,0.00,5000.00,3415.16
+6.0,4100.0,2120077.0,Manteniment edificis sa Roqueta,6.0,4.0,2.0,0.00,0.00,0.00,98.54
+6.0,4100.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,6.0,4.0,2.0,5000.00,0.00,5000.00,5128.79
+6.0,4100.0,2130009.0,Manteniment i rep.instal.i màquinaria anys anteriors,6.0,4.0,2.0,0.00,0.00,0.00,1542.68
+6.0,4100.0,2130077.0,"Manteniment, maquinària i installacions sa Roqueta",6.0,4.0,2.0,0.00,0.00,0.00,3404.21
+6.0,4100.0,2130100.0,"Manteniment fotocopiadora, fax",6.0,4.0,2.0,1500.00,0.00,1500.00,385.07
+6.0,4100.0,2130177.0,Manteniment fotocopiadora i fax sa Roqueta,6.0,4.0,2.0,0.00,0.00,0.00,316.05
+6.0,4100.0,2140000.0,Manteniment elements de transport,6.0,4.0,2.0,5000.00,0.00,5000.00,4672.84
+6.0,4100.0,2160000.0,REPARACIÓ I MANT. EQUIPAMENT EQUIPS INFORMÀTICS,6.0,4.0,2.0,0.00,0.00,0.00,1409.32
+6.0,4100.0,2200077.0,Material oficina Sa Roqueta,6.0,4.0,2.0,0.00,0.00,0.00,0.00
+6.0,4100.0,2200100.0,Subscripcions i publicacions,6.0,4.0,2.0,1500.00,0.00,1500.00,327.50
+6.0,4100.0,2200109.0,Subscripcions i publicacions anys anteriors,6.0,4.0,2.0,0.00,0.00,0.00,120.01
+6.0,4100.0,2200177.0,Subscripcions sa Roqueta,6.0,4.0,2.0,0.00,0.00,0.00,0.00
+6.0,4100.0,2210000.0,Subministraments energia elèctrica,6.0,4.0,2.0,20000.00,0.00,20000.00,9809.62
+6.0,4100.0,2210077.0,Subministrament electricitat sa Roqueta,6.0,4.0,2.0,0.00,0.00,0.00,13870.34
+6.0,4100.0,2210100.0,Subministraments aigua,6.0,4.0,2.0,5000.00,0.00,5000.00,2777.53
+6.0,4100.0,2210177.0,Subministrament aigua sa Roqueta,6.0,4.0,2.0,0.00,0.00,0.00,190.70
+6.0,4100.0,2210300.0,Subministrament combustibe,6.0,4.0,2.0,9000.00,0.00,9000.00,4997.53
+6.0,4100.0,2211000.0,Subministrament productes desinfecció,6.0,4.0,2.0,1000.00,0.00,1000.00,149.94
+6.0,4100.0,2219900.0,Subministraments diversos,6.0,4.0,2.0,10000.00,0.00,10000.00,1072.37
+6.0,4100.0,2219977.0,Subministraments divers Sa Roqueta,6.0,4.0,2.0,0.00,0.00,0.00,419.06
+6.0,4100.0,2220000.0,Comunicacions,6.0,4.0,2.0,5000.00,0.00,5000.00,1356.77
+6.0,4100.0,2220009.0,Comunicacions telefòniques anys anteriors,6.0,4.0,2.0,0.00,0.00,0.00,131.50
+6.0,4100.0,2230000.0,Transports,6.0,4.0,2.0,4500.00,0.00,4500.00,484.46
+6.0,4100.0,2240000.0,Assegurances,6.0,4.0,2.0,0.00,0.00,0.00,1887.22
+6.0,4100.0,2250000.0,Tributs,6.0,4.0,2.0,22000.00,0.00,22000.00,0.00
+6.0,4100.0,2250200.0,Tributs entitats locals,6.0,4.0,2.0,0.00,0.00,0.00,16326.58
+6.0,4100.0,2250277.0,Tributs entitats locals,6.0,4.0,2.0,0.00,0.00,0.00,6750.21
+6.0,4100.0,2260100.0,Despeses de protocol,6.0,4.0,2.0,1000.00,0.00,1000.00,117.24
+6.0,4100.0,2269902.0,Despeses diverses,6.0,4.0,2.0,3000.00,0.00,3000.00,919.03
+6.0,4100.0,2269977.0,Despeses diverses sa Roqueta,6.0,4.0,2.0,0.00,0.00,0.00,72.60
+6.0,4100.0,2270000.0,Prestació de serveis: Neteja,6.0,4.0,2.0,46000.00,0.00,46000.00,46973.40
+6.0,4100.0,2300000.0,Dietes,6.0,4.0,2.0,0.00,0.00,0.00,727.10
+6.0,4100.0,2300200.0,Dietes,6.0,4.0,2.0,1000.00,0.00,1000.00,0.00
+6.0,4100.0,2310000.0,Quilometratge,6.0,4.0,2.0,1000.00,0.00,1000.00,62.97
+6.0,4100.0,4670005.0,Aportació Consorci de Residus,6.0,4.0,4.0,100000.00,0.00,100000.00,100000.00
+6.0,4100.0,6325700.0,Millora instal.lacions,6.0,4.0,6.0,20000.00,0.00,20000.00,0.00
+6.0,4100.0,7674300.0,Aportació de capital a Consorci Residus,6.0,4.0,7.0,80000.00,0.00,80000.00,80000.00
+6.0,4120.0,1200000.0,Retrib. Bàsiques funcionaris,,4.0,1.0,117158.04,0.00,117158.04,67794.20
+6.0,4120.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,38105.61
+6.0,4120.0,1210000.0,Retrib. Complementàries funcionaris,,4.0,1.0,121301.94,0.00,121301.94,66421.15
+6.0,4120.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,41672.11
+6.0,4120.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,4839.72
+6.0,4120.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,16000.00,16000.00,9619.88
+6.0,4120.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,5862.85
+6.0,4120.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,4.0,1.0,0.00,0.00,0.00,499.05
+6.0,4120.0,1600002.0,Malaltia,,4.0,1.0,0.00,0.00,0.00,4870.08
+6.0,4120.0,2220000.0,Comunicacions,6.0,4.0,2.0,1000.00,0.00,1000.00,0.00
+6.0,4120.0,2230000.0,Transports,6.0,4.0,2.0,2000.00,0.00,2000.00,1366.72
+6.0,4120.0,2250200.0,Tributs entitats locals,6.0,4.0,2.0,0.00,0.00,0.00,0.00
+6.0,4120.0,2260200.0,Difusió i Campanyes de divulgació,6.0,4.0,2.0,2500.00,0.00,2500.00,0.00
+6.0,4120.0,2270600.0,Assistència tècnica i elaboració de projectes - Agricultura,6.0,4.0,2.0,15000.00,0.00,15000.00,1197.91
+6.0,4120.0,2300000.0,Dietes,6.0,4.0,2.0,0.00,0.00,0.00,56.10
+6.0,4120.0,2300200.0,Dietes - Agricultura,6.0,4.0,2.0,1000.00,0.00,1000.00,0.00
+6.0,4120.0,2310000.0,Quilometratges,6.0,4.0,2.0,0.00,0.00,0.00,64.80
+6.0,4120.0,4890000.0,Altres transferèmcies Agricultura,6.0,4.0,4.0,0.00,0.00,0.00,40000.00
+6.0,4120.0,4890031.0,Ajuts a associacions professionals d'agricultura,6.0,4.0,4.0,20000.00,628800.00,648800.00,641579.38
+6.0,4120.0,4890038.0,Reconeixement mesures agroambientals i de qualitat,6.0,4.0,4.0,6000.00,0.00,6000.00,0.00
+6.0,4120.0,4890060.0,Suport a les produccions vegetals,6.0,4.0,4.0,44000.00,0.00,44000.00,40300.80
+6.0,4120.0,4890061.0,Foment de l'integracionisme agrari,6.0,4.0,4.0,40000.00,0.00,40000.00,0.00
+6.0,4120.0,4890092.0,Conveni GOB: gestió programa Xarxa Custòdia Territori,6.0,4.0,4.0,10000.00,0.00,10000.00,9916.25
+6.0,4120.0,7805400.0,Contracte Agrari Reserva de Biosfera,6.0,4.0,7.0,800000.00,200000.00,600000.00,0.00
+6.0,4123.0,1200000.0,Retrib. Bàsiques funcionaris,,4.0,1.0,93884.92,0.00,93884.92,89046.64
+6.0,4123.0,1210000.0,Retrib. Complementàries funcionaris,,4.0,1.0,103284.67,0.00,103284.67,98273.58
+6.0,4123.0,1300000.0,Retrib. Personal laboral,,4.0,1.0,65584.91,0.00,65584.91,49666.96
+6.0,4123.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,9700.72
+6.0,4123.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,17000.00,17000.00,12715.67
+6.0,4123.0,1501000.0,Productivitat Personal Laboral,,4.0,1.0,0.00,0.00,0.00,3406.45
+6.0,4123.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,4.0,1.0,0.00,0.00,0.00,758.84
+6.0,4123.0,2120000.0,Manteniment Edificis,6.0,4.0,2.0,1500.00,0.00,1500.00,1176.93
+6.0,4123.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,6.0,4.0,2.0,8000.00,0.00,8000.00,13754.20
+6.0,4123.0,2210300.0,Subministrament combustible,6.0,4.0,2.0,2000.00,0.00,2000.00,4710.64
+6.0,4123.0,2210400.0,SUBMINISTRAMENTS VESTUARI,6.0,4.0,2.0,0.00,0.00,0.00,163.74
+6.0,4123.0,2210500.0,Subministraments alimentaris,6.0,4.0,2.0,1000.00,0.00,1000.00,126.24
+6.0,4123.0,2210501.0,Productes alimentaris ramaderia,6.0,4.0,2.0,9000.00,0.00,9000.00,10825.07
+6.0,4123.0,2210519.0,Subministrament alimentació ramaderia anys anteriors,6.0,4.0,2.0,0.00,0.00,0.00,869.47
+6.0,4123.0,2210600.0,Productes farmacèutics,6.0,4.0,2.0,500.00,0.00,500.00,448.00
+6.0,4123.0,2219900.0,Subministraments diversos,6.0,4.0,2.0,1000.00,0.00,1000.00,829.32
+6.0,4123.0,2220000.0,Comunicacions,6.0,4.0,2.0,300.00,0.00,300.00,0.00
+6.0,4123.0,2230000.0,Transports,6.0,4.0,2.0,1500.00,0.00,1500.00,0.00
+6.0,4123.0,2230001.0,Transports alumnes escola agrària,6.0,4.0,2.0,5000.00,0.00,5000.00,7420.00
+6.0,4123.0,2240000.0,Assegurances,6.0,4.0,2.0,2000.00,0.00,2000.00,479.05
+6.0,4123.0,2260606.0,Formació específica,6.0,4.0,2.0,0.00,0.00,0.00,243.80
+6.0,4123.0,2269902.0,Despeses diverses,6.0,4.0,2.0,1000.00,0.00,1000.00,306.08
+6.0,4123.0,2270600.0,Estudis i treballs tècnics,6.0,4.0,2.0,1000.00,0.00,1000.00,495.86
+6.0,4123.0,2300200.0,Dietes,6.0,4.0,2.0,500.00,0.00,500.00,0.00
+6.0,4123.0,2622301.0,Transports alumnes realitzat per institució sense ànim lucre,6.0,4.0,2.0,0.00,0.00,0.00,864.00
+6.0,4124.0,1200000.0,Retrib. Bàsiques funcionaris,,4.0,1.0,57733.22,0.00,57733.22,55367.53
+6.0,4124.0,1210000.0,Retrib. Complementàries funcionaris,,4.0,1.0,70092.12,0.00,70092.12,66162.53
+6.0,4124.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,10000.00,10000.00,9356.94
+6.0,4124.0,2220000.0,COMUNICACIONS TELEFÓNIQUES,6.0,4.0,2.0,0.00,0.00,0.00,227.77
+6.0,4124.0,2220009.0,Comunicacions telefòniques anys anteriors,6.0,4.0,2.0,0.00,0.00,0.00,20.09
+6.0,4124.0,2230000.0,TRANSPORTS,6.0,4.0,2.0,0.00,0.00,0.00,125.70
+6.0,4124.0,2260200.0,Difusió i campanyes de divulgació,6.0,4.0,2.0,4000.00,0.00,4000.00,0.00
+6.0,4124.0,2269902.0,Despeses diverses,6.0,4.0,2.0,0.00,0.00,0.00,624.60
+6.0,4124.0,2270600.0,Estudis i treballs tècnics,6.0,4.0,2.0,5000.00,0.00,5000.00,0.00
+6.0,4124.0,2300000.0,Dietes,6.0,4.0,2.0,0.00,0.00,0.00,37.40
+6.0,4124.0,2310000.0,Quilometratges,6.0,4.0,2.0,0.00,0.00,0.00,50.80
+6.0,4124.0,4500200.0,Convenis CAIB : assegurances incineració,6.0,4.0,4.0,75000.00,0.00,75000.00,90817.27
+6.0,4124.0,4890039.0,Foment races autòctones de Menorca,6.0,4.0,4.0,22000.00,0.00,22000.00,13300.00
+6.0,4124.0,4890047.0,Ajuts ADS Ovi i Boví,6.0,4.0,4.0,150000.00,0.00,150000.00,150000.00
+6.0,4124.0,4890050.0,Convocatòria juts finques sentinelles: prefenció Sanitaria,6.0,4.0,4.0,4500.00,0.00,4500.00,0.00
+6.0,4150.0,1200000.0,Retrib. Bàsiques funcionaris,,4.0,1.0,29755.76,0.00,29755.76,24946.50
+6.0,4150.0,1210000.0,Retrib. Complementàries funcionaris,,4.0,1.0,41686.75,0.00,41686.75,35472.75
+6.0,4150.0,1300000.0,LABORAL FIX,,4.0,1.0,80830.41,0.00,80830.41,0.00
+6.0,4150.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,69621.77
+6.0,4150.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,4000.00,4000.00,3429.35
+6.0,4150.0,2140000.0,Manteniment elements de transport,6.0,4.0,2.0,3250.00,0.00,3250.00,4662.81
+6.0,4150.0,2210300.0,Subministrament combustible,6.0,4.0,2.0,2000.00,0.00,2000.00,3320.57
+6.0,4150.0,2210309.0,Subministrament combustible anys anteriors,6.0,4.0,2.0,0.00,0.00,0.00,2063.81
+6.0,4150.0,2220000.0,Comunicacions,6.0,4.0,2.0,250.00,0.00,250.00,567.57
+6.0,4150.0,2220009.0,Comunicacions telefòniques anys anteriors,6.0,4.0,2.0,0.00,0.00,0.00,63.07
+6.0,4150.0,2229900.0,SERVEIS MISSATGERS I COMUNICACIONS POSTALS,6.0,4.0,2.0,0.00,0.00,0.00,53.99
+6.0,4150.0,2240000.0,Assegurances,6.0,4.0,2.0,250.00,0.00,250.00,540.29
+6.0,4150.0,2269902.0,Despeses diverses,6.0,4.0,2.0,3000.00,0.00,3000.00,135.78
+6.0,4150.0,2270600.0,Estudis i treballs tècnics,6.0,4.0,2.0,4000.00,0.00,4000.00,4555.02
+6.0,4150.0,2300000.0,Dietes,6.0,4.0,2.0,0.00,0.00,0.00,18.70
+6.0,4150.0,2310000.0,Quilometratges,6.0,4.0,2.0,0.00,0.00,0.00,806.45
+6.0,4150.0,4890032.0,Ajuts a les Confraries de Pesca,6.0,4.0,4.0,12000.00,0.00,12000.00,39096.67
+6.0,4150.0,7806000.0,Aportacio millora equipaments pesca,6.0,4.0,7.0,15000.00,0.00,15000.00,0.00
+6.0,4160.0,1200000.0,Retribucions personal funcionari,,4.0,1.0,19014.20,0.00,19014.20,5014.80
+6.0,4160.0,1210000.0,RETRIBUCIONS COMPLEMENTARIES FUNCIONARIS,,4.0,1.0,21995.64,0.00,21995.64,5648.92
+6.0,4160.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,1000.00,1000.00,628.93
+6.0,4160.0,1600002.0,Malaltia,,4.0,1.0,0.00,0.00,0.00,2358.43
+6.0,4160.0,2130000.0,MANTENIMENT MAQUINARIA I INSTAL.LACIONS,6.0,4.0,2.0,0.00,0.00,0.00,36.14
+6.0,4160.0,2260200.0,PUBLICITAT I PROPAGANDA,6.0,4.0,2.0,0.00,0.00,0.00,636.26
+6.0,4160.0,2269902.0,Despeses diverses,6.0,4.0,2.0,12000.00,240.38,12240.38,248.71
+6.0,4160.0,2269909.0,Despeses diverses d'anys anteriors,6.0,4.0,2.0,0.00,0.00,0.00,212.61
+6.0,4160.0,4890017.0,Transferències corrents caça,6.0,4.0,4.0,30000.00,0.00,30000.00,12739.58
+6.0,4160.0,4891709.0,Subvencions caça anys anteriors,6.0,4.0,4.0,0.00,0.00,0.00,20221.03
+6.0,4160.0,6292000.0,Inversions traspàs caça,6.0,4.0,6.0,35000.00,0.00,35000.00,0.00
+6.0,4190.0,2120000.0,Manteniment edifici CRDO Queso Mahón,6.0,4.0,2.0,0.00,0.00,0.00,47.18
+6.0,4190.0,2200100.0,Subscripcions i publicacions CRDO Queso Mahón,6.0,4.0,2.0,0.00,0.00,0.00,120.01
+6.0,4190.0,2210000.0,Subministrament electricitat oficines CRDO Queso Mahón,6.0,4.0,2.0,0.00,0.00,0.00,4701.06
+6.0,4190.0,2210100.0,Subministraments aigua oficina CRDO Queso Mahón,6.0,4.0,2.0,0.00,0.00,0.00,37.27
+6.0,4190.0,2269922.0,Campanyes de promoció de productes agroalimentaris,6.0,4.0,2.0,48000.00,0.00,48000.00,2024.40
+6.0,4190.0,4620009.0,Conveni Ajuntament Alaior: XXII Fira del Camp,6.0,4.0,4.0,12000.00,0.00,12000.00,12000.00
+6.0,4190.0,4620019.0,Conveni Ajuntament des Mercadal: Fira Cavall,6.0,4.0,4.0,4500.00,0.00,4500.00,0.00
+6.0,4190.0,4620023.0,Conveni Aj.Ferreries Gestió exposicions Centre Natura,6.0,4.0,4.0,10000.00,0.00,10000.00,3147.62
+6.0,4190.0,4810002.0,Beques i premis,6.0,4.0,4.0,1000.00,0.00,1000.00,0.00
+6.0,4190.0,4890026.0,Ajut promoció de productes agroalimentaris,6.0,4.0,4.0,25000.00,0.00,25000.00,29057.87
+6.0,4190.0,4890043.0,Ajut Assoc. Criadors i propietaris Cavall raça menorquina,6.0,4.0,4.0,15000.00,0.00,15000.00,15000.00
+6.0,4190.0,4890046.0,Ajuts activitats hipòdrom,6.0,4.0,4.0,10000.00,0.00,10000.00,5000.00
+6.0,4190.0,4890090.0,Actuacions foment agricultura ecològica,6.0,4.0,4.0,20000.00,0.00,20000.00,0.00
+6.0,4190.0,4890091.0,Ajuts Entitats i Prom.marques de qualitat,6.0,4.0,4.0,150000.00,109600.00,40400.00,2665.33
+6.0,4190.0,7805500.0,Programa Leader,6.0,4.0,7.0,10000.00,0.00,10000.00,10000.00
+6.0,4390.0,1200000.0,RETRIBUCIONS BASIQUES FUNCIONARIS,,4.0,1.0,9129.36,0.00,9129.36,4768.65
+6.0,4390.0,1210000.0,RETRIBUCIONS COMPLEMENTARIES FUNCIONARIS,,4.0,1.0,20633.71,0.00,20633.71,4514.69
+6.0,4390.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,2000.00,2000.00,900.12
+6.0,4390.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,608.46
+6.0,4390.0,1600002.0,Malaltia,,4.0,1.0,0.00,0.00,0.00,11609.07
+6.0,4390.0,2230000.0,Transports,6.0,4.0,2.0,300.00,0.00,300.00,1155.81
+6.0,4390.0,2269902.0,Despeses diverses,6.0,4.0,2.0,2000.00,0.00,2000.00,656.12
+6.0,4390.0,4620010.0,Fira Artesania Ferreries,6.0,4.0,4.0,7000.00,0.00,7000.00,7000.00
+6.0,4390.0,4890008.0,Cànon SEBIME i POIMA,6.0,4.0,4.0,29000.00,0.00,29000.00,25888.96
+6.0,4390.0,4890025.0,Conveni SEBIME : Promoció i comercialització,6.0,4.0,4.0,60000.00,0.00,60000.00,55080.02
+6.0,4390.0,4890033.0,Conveni Associació fabricants calçat,6.0,4.0,4.0,60000.00,0.00,60000.00,46208.04
+6.0,4390.0,4890045.0,Ajuts artesans professionals assistència Fires,6.0,4.0,4.0,10000.00,0.00,10000.00,9626.52
+6.0,4390.0,4890049.0,"Ajuts dinamització comercial, promoció i formació",6.0,4.0,4.0,140000.00,100000.00,40000.00,0.00
+6.0,4390.0,4890051.0,Ajut APAME: Diada de la Pastisseria de Menorca,6.0,4.0,4.0,1000.00,0.00,1000.00,431.34
+6.0,4390.0,4890064.0,Aportació Fundació Destí,6.0,4.0,4.0,60000.00,0.00,60000.00,45000.00
+6.0,4390.0,4890097.0,Conveni joves empresaris fira Innovem i premi joves empresar,6.0,4.0,4.0,15000.00,0.00,15000.00,15000.00
+6.0,4390.0,4891005.0,Conveni ITEB,6.0,4.0,4.0,12000.00,0.00,12000.00,12000.00
+6.0,4390.0,6330000.0,"Reposició maquinària, instal·lacions tècniques i estris",6.0,4.0,6.0,0.00,0.00,0.00,4826.48
+6.0,4390.0,7620009.0,"IR Trasferències a ajuntaments Artesania, Comerç i Indústria",6.0,4.0,7.0,0.00,78741.06,78741.06,0.00
+6.0,4390.0,7804000.0,Transferències de capital per fires i artesania,6.0,4.0,7.0,20000.00,0.00,20000.00,3391.52
+7.0,4410.0,1010000.0,Retribucions personal gabinet,,4.0,1.0,49810.74,0.00,49810.74,32021.20
+7.0,4410.0,1200000.0,Retrib. Bàsiques funcionaris,,4.0,1.0,70998.64,0.00,70998.64,51002.70
+7.0,4410.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,8435.30
+7.0,4410.0,1210000.0,Retrib. Complementàries funcionaris,,4.0,1.0,80317.79,0.00,80317.79,60039.55
+7.0,4410.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,7674.16
+7.0,4410.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,9000.00,9000.00,6893.15
+7.0,4410.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,1552.13
+7.0,4410.0,1600002.0,Malaltia,,4.0,1.0,0.00,0.00,0.00,273.53
+7.0,4410.0,2030000.0,"LLOGUERS MAQUINARIA, INSTAL. I ESTRIS",7.0,4.0,2.0,0.00,0.00,0.00,1745.60
+7.0,4410.0,2120000.0,Manteniment estació d'autobussos,7.0,4.0,2.0,0.00,0.00,0.00,1494.83
+7.0,4410.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,7.0,4.0,2.0,3800.00,0.00,3800.00,3001.24
+7.0,4410.0,2130009.0,Manteniment i rep.instal.i màquinaria anys anteriors,7.0,4.0,2.0,0.00,0.00,0.00,165.97
+7.0,4410.0,2140000.0,Manteniment elements de transport,7.0,4.0,2.0,2700.00,0.00,2700.00,1647.86
+7.0,4410.0,2140009.0,Manteniment vehicles anys anteriors,7.0,4.0,2.0,0.00,1864.99,1864.99,248.39
+7.0,4410.0,2200100.0,Subscripcions i publicacions,7.0,4.0,2.0,390.00,0.00,390.00,328.75
+7.0,4410.0,2210000.0,Subministraments energia elèctrica Transports,7.0,4.0,2.0,20000.00,0.00,20000.00,16705.16
+7.0,4410.0,2210100.0,Subministraments aigua,7.0,4.0,2.0,3800.00,0.00,3800.00,4746.18
+7.0,4410.0,2210300.0,Subministrament combustible,7.0,4.0,2.0,4000.00,0.00,4000.00,0.00
+7.0,4410.0,2210400.0,Subministrament vestuari,7.0,4.0,2.0,800.00,0.00,800.00,0.00
+7.0,4410.0,2219912.0,Altres subministraments Jaleo Bus,7.0,4.0,2.0,0.00,0.00,0.00,212.40
+7.0,4410.0,2220000.0,COMUNICACIONS TELEFÓNIQUES,7.0,4.0,2.0,0.00,0.00,0.00,2370.55
+7.0,4410.0,2220009.0,Comunicacions telefòniques anys anteriors,7.0,4.0,2.0,0.00,0.00,0.00,134.77
+7.0,4410.0,2230000.0,Transports,7.0,4.0,2.0,2100.00,0.00,2100.00,2375.70
+7.0,4410.0,2240000.0,Assegurances,7.0,4.0,2.0,1600.00,0.00,1600.00,0.00
+7.0,4410.0,2250000.0,Tributs,7.0,4.0,2.0,900.00,0.00,900.00,0.00
+7.0,4410.0,2250200.0,Tributs entitats locals,7.0,4.0,2.0,0.00,0.00,0.00,19.66
+7.0,4410.0,2260100.0,Despeses de protocol,7.0,4.0,2.0,500.00,0.00,500.00,202.60
+7.0,4410.0,2260200.0,Publicitat i propaganda,7.0,4.0,2.0,0.00,0.00,0.00,352.08
+7.0,4410.0,2260209.0,Publicitat i propaganda anys anteriors,7.0,4.0,2.0,0.00,0.00,0.00,450.99
+7.0,4410.0,2260212.0,Publicitat jaleo bus,7.0,4.0,2.0,0.00,0.00,0.00,33.42
+7.0,4410.0,2260213.0,Publicitat Bus Nit,7.0,4.0,2.0,0.00,0.00,0.00,2065.60
+7.0,4410.0,2260214.0,Publicitat Bàsquet Bus,7.0,4.0,2.0,0.00,0.00,0.00,0.00
+7.0,4410.0,2260400.0,DESPESES JURÍDIQUES,7.0,4.0,2.0,0.00,0.00,0.00,16858.90
+7.0,4410.0,2269902.0,Despeses diverses,7.0,4.0,2.0,0.00,0.00,0.00,5337.99
+7.0,4410.0,2269909.0,Despeses diverses d'anys anteriors,7.0,4.0,2.0,0.00,15088.46,15088.46,0.00
+7.0,4410.0,2270000.0,Neteja Estació d'Autobussos,7.0,4.0,2.0,0.00,0.00,0.00,33405.15
+7.0,4410.0,2270009.0,Prestació de serveis anys anteriors,7.0,4.0,2.0,0.00,0.00,0.00,0.00
+7.0,4410.0,2270100.0,Serveis de vigilància Estació d'Autobussos,7.0,4.0,2.0,0.00,0.00,0.00,16150.56
+7.0,4410.0,2270112.0,Serveis de vigilància Jaleo Bus,7.0,4.0,2.0,0.00,0.00,0.00,27016.56
+7.0,4410.0,2270113.0,Serveis de vigilància Bus Nit,7.0,4.0,2.0,0.00,0.00,0.00,16394.46
+7.0,4410.0,2270114.0,Serveis de vigilància Bàsquet Bus,7.0,4.0,2.0,0.00,0.00,0.00,453.12
+7.0,4410.0,2279911.0,Impuls transport públic insular,7.0,4.0,2.0,470000.00,0.00,470000.00,94501.91
+7.0,4410.0,2279912.0,Serveis transports Jaleo Bus,7.0,4.0,2.0,0.00,0.00,0.00,133137.78
+7.0,4410.0,2279913.0,Serveis transports Bus Nit,7.0,4.0,2.0,0.00,0.00,0.00,112078.29
+7.0,4410.0,2279914.0,Serveis transports Bàsquet Bus,7.0,4.0,2.0,0.00,0.00,0.00,14198.76
+7.0,4410.0,2279919.0,Impuls transport públic insular anys anteriors,7.0,4.0,2.0,0.00,379900.43,379900.43,373053.49
+7.0,4410.0,2279994.0,Serveis transports Bàsquet Bus anys anteriors,7.0,4.0,2.0,0.00,0.00,0.00,12274.01
+7.0,4410.0,2300000.0,Dietes,7.0,4.0,2.0,0.00,0.00,0.00,21.10
+7.0,4410.0,2300200.0,Dietes,7.0,4.0,2.0,300.00,0.00,300.00,0.00
+7.0,4410.0,2310000.0,Quilometratge,7.0,4.0,2.0,400.00,0.00,400.00,74.90
+7.0,4410.0,4790006.0,Actuacions en matèria de transport pùblic insular,7.0,4.0,4.0,1500000.00,0.00,1500000.00,1036677.20
+7.0,4410.0,4790009.0,Reconeixements extrajudicials anys anteriors,7.0,4.0,4.0,1800000.00,815638.19,984361.81,1043702.80
+7.0,4410.0,4890000.0,Altres transferències transports,7.0,4.0,4.0,0.00,0.00,0.00,15431.10
+7.0,4410.0,4890009.0,Transferències anys anteriors,7.0,4.0,4.0,0.00,0.00,0.00,4602.00
+7.0,4410.0,4890010.0,Descompte famílies nombroses,7.0,4.0,4.0,500.00,0.00,500.00,0.00
+7.0,4410.0,4890057.0,Descompte transport tercera edat,7.0,4.0,4.0,4000.00,0.00,4000.00,0.00
+7.0,4410.0,6090009.0,IR Pla inversions transport públic,7.0,4.0,6.0,0.00,14917.56,14917.56,14917.56
+7.0,4410.0,6276900.0,Pla inversions transport públic,7.0,4.0,6.0,125000.00,0.00,125000.00,2444.14
+7.0,4410.0,7700009.0,IR Transferències transport públic - anys anteriors,7.0,4.0,7.0,0.00,56000.00,56000.00,21783.60
+7.0,4530.0,1010000.0,Retribucions personal gabinet,,4.0,1.0,49810.74,0.00,49810.74,46252.84
+7.0,4530.0,1200000.0,Retrib. Bàsiques funcionaris,,4.0,1.0,51869.11,0.00,51869.11,24530.43
+7.0,4530.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,12923.37
+7.0,4530.0,1200040.0,Retrib.bàsiq.func.int.subst.transitòria incapacitat transitò,,4.0,1.0,0.00,0.00,0.00,1996.29
+7.0,4530.0,1210000.0,Retrib. Complementàries funcionaris,,4.0,1.0,66138.16,0.00,66138.16,31150.06
+7.0,4530.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,14395.65
+7.0,4530.0,1210040.0,Retrib.Comp.func.int.subst.transitòria incapacitat transit.,,4.0,1.0,0.00,0.00,0.00,2488.06
+7.0,4530.0,1300000.0,Retrib. Personal laboral,,4.0,1.0,161275.09,0.00,161275.09,98069.36
+7.0,4530.0,1310010.0,Retrib.pers.event.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,49665.47
+7.0,4530.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,18000.00,18000.00,3770.86
+7.0,4530.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,2666.88
+7.0,4530.0,1501000.0,Productivitat Personal Laboral,,4.0,1.0,0.00,0.00,0.00,6762.61
+7.0,4530.0,1501010.0,Productivitat Pers.Lab.Event.ocupen plaça vacant a plantilla,,4.0,1.0,0.00,0.00,0.00,3965.87
+7.0,4530.0,1511000.0,Gratificacions Personal Laboral,,4.0,1.0,0.00,0.00,0.00,3230.00
+7.0,4530.0,1511010.0,Gratificacions Pers.Lab.Event.ocupen plaça vacant plantilla,,4.0,1.0,0.00,0.00,0.00,4199.00
+7.0,4530.0,1600002.0,Malaltia,,4.0,1.0,0.00,0.00,0.00,4213.27
+7.0,4530.0,2030000.0,"LLOGUERS MAQUINARIA, INSTAL. I ESTRIS",7.0,4.0,2.0,0.00,0.00,0.00,53185.89
+7.0,4530.0,2100100.0,Conservació Carreteres,7.0,4.0,2.0,1061190.71,0.00,1061190.71,854322.32
+7.0,4530.0,2100200.0,Material brigada per conservació carreteres,7.0,4.0,2.0,18000.00,0.00,18000.00,17831.02
+7.0,4530.0,2100211.0,Conservació camí de cavalls - anys anteriors,7.0,4.0,2.0,0.00,209000.00,209000.00,74794.47
+7.0,4530.0,2120000.0,MANTENIMENT EDIFICIS,7.0,4.0,2.0,0.00,0.00,0.00,317.95
+7.0,4530.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,7.0,4.0,2.0,5600.00,0.00,5600.00,2557.31
+7.0,4530.0,2140000.0,Manteniment elements de transport,7.0,4.0,2.0,6900.00,0.00,6900.00,7687.77
+7.0,4530.0,2200100.0,Subscripcions i publicacions,7.0,4.0,2.0,665.00,0.00,665.00,0.00
+7.0,4530.0,2210000.0,Subministraments energia elèctrica ,7.0,4.0,2.0,100800.00,0.00,100800.00,125426.84
+7.0,4530.0,2210009.0,Subministrament electricitat anys anteriors,7.0,4.0,2.0,0.00,0.00,0.00,1798.32
+7.0,4530.0,2210100.0,Subministraments aigua,7.0,4.0,2.0,7700.00,0.00,7700.00,5861.89
+7.0,4530.0,2210109.0,Subministrament aigua anys anteriors,7.0,4.0,2.0,0.00,0.00,0.00,6369.42
+7.0,4530.0,2210300.0,Subministrament combustible,7.0,4.0,2.0,20500.00,0.00,20500.00,17162.23
+7.0,4530.0,2210309.0,Subministrament combustible anys anteriors,7.0,4.0,2.0,0.00,0.00,0.00,0.00
+7.0,4530.0,2210400.0,Subministrament vestuari,7.0,4.0,2.0,2100.00,0.00,2100.00,0.00
+7.0,4530.0,2219900.0,Subministraments divers,7.0,4.0,2.0,0.00,0.00,0.00,398.00
+7.0,4530.0,2220000.0,Comunicacions,7.0,4.0,2.0,6000.00,0.00,6000.00,1966.46
+7.0,4530.0,2220009.0,Comunicacions telefòniques anys anteriors,7.0,4.0,2.0,0.00,0.00,0.00,184.49
+7.0,4530.0,2230000.0,Transports,7.0,4.0,2.0,5000.00,0.00,5000.00,2483.84
+7.0,4530.0,2240000.0,Assegurances,7.0,4.0,2.0,3400.00,0.00,3400.00,1755.10
+7.0,4530.0,2250000.0,Tributs,7.0,4.0,2.0,1600.00,0.00,1600.00,0.00
+7.0,4530.0,2250200.0,Tributs entitats locals,7.0,4.0,2.0,0.00,0.00,0.00,1446.04
+7.0,4530.0,2260100.0,Despeses de protocol,7.0,4.0,2.0,700.00,0.00,700.00,185.30
+7.0,4530.0,2260200.0,Difusió i Campanyes de divulgació,7.0,4.0,2.0,7000.00,0.00,7000.00,0.00
+7.0,4530.0,2260209.0,Informadors aparcaments i accessos a platges anys anteriors,7.0,4.0,2.0,0.00,0.00,0.00,134126.15
+7.0,4530.0,2260400.0,DESPESES JURÍDIQUES,7.0,4.0,2.0,0.00,0.00,0.00,13775.16
+7.0,4530.0,2260409.0,Despeses jurídiques anys anteriors,7.0,4.0,2.0,0.00,4699.19,4699.19,0.00
+7.0,4530.0,2269902.0,Despeses diverses,7.0,4.0,2.0,1000.00,0.00,1000.00,468.11
+7.0,4530.0,2270100.0,Servei vigilància i informació platges,7.0,4.0,2.0,0.00,0.00,0.00,45862.50
+7.0,4530.0,2270300.0,Servei de neteja mòduls sanitaris,7.0,4.0,2.0,0.00,0.00,0.00,20942.64
+7.0,4530.0,2279910.0,Prestació de serveis,7.0,4.0,2.0,21000.00,0.00,21000.00,0.00
+7.0,4530.0,2300200.0,Dietes,7.0,4.0,2.0,400.00,0.00,400.00,18.10
+7.0,4530.0,2310000.0,Quilometratge,7.0,4.0,2.0,400.00,0.00,400.00,39.45
+7.0,4530.0,2621001.0,Conservació ctra.realitzada per institució sense ànim lucre,7.0,4.0,2.0,0.00,0.00,0.00,759.13
+7.0,4530.0,4890018.0,Indemnització per reclamació de responsabilitat patrimonial,7.0,4.0,4.0,0.00,0.00,0.00,457.44
+7.0,4530.0,6000000.0,Inversions en terrenys,7.0,4.0,6.0,0.00,0.00,0.00,586498.27
+7.0,4530.0,6000009.0,IR Inversió en terrenys,7.0,4.0,6.0,0.00,3798533.56,3798533.56,627844.08
+7.0,4530.0,6090009.0,IR Pla inversions carreteres,7.0,4.0,6.0,0.00,20639878.30,20639878.30,9693892.62
+7.0,4530.0,6096700.0,Pla  Inversions de Carreteres,7.0,4.0,6.0,11350000.00,260611.14,11089388.86,299607.46
+7.0,4530.0,6096709.0,Pla inversions de Carreteres anys anteriors,7.0,4.0,6.0,0.00,0.00,0.00,3038.50
+7.0,4530.0,6196800.0,Pla d'inversions camins rurals,7.0,4.0,6.0,290000.00,0.00,290000.00,944.00
+7.0,4530.0,6196809.0,IR Pla d'inversions en camins rurals - anys anteriors,7.0,4.0,6.0,0.00,31970.79,31970.79,0.00
+7.0,4530.0,6230000.0,"Maquinària, installacions",7.0,4.0,6.0,0.00,0.00,0.00,1944.00
+7.0,4530.0,6400009.0,IR Inversions immaterials de carreteres,7.0,4.0,6.0,0.00,60806.80,60806.80,4699.19
+7.0,4530.0,6500000.0,Inversions gestionades en camins rurals d'altres ens públics,7.0,4.0,6.0,0.00,0.00,0.00,2914.78
+7.0,4530.0,6500009.0,IR Inversions gestionades per compte d'altres ens públics,7.0,4.0,6.0,0.00,119394.72,119394.72,0.00
+7.0,4530.0,8411000.0,Fiances enllumenat de carretres,7.0,4.0,8.0,0.00,600.00,600.00,566.10
+8.0,1510.0,1010000.0,Retribucions personal gabinet,,1.0,1.0,96292.44,0.00,96292.44,31975.58
+8.0,1510.0,1200000.0,Retrib. Bàsiques funcionaris,,1.0,1.0,194438.42,0.00,194438.42,113590.80
+8.0,1510.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,1.0,1.0,0.00,0.00,0.00,80763.83
+8.0,1510.0,1200020.0,Retrib.bàsiq.func.int.executen prog.caràcter temporal,,1.0,1.0,0.00,0.00,0.00,11033.68
+8.0,1510.0,1210000.0,Retrib. Complementàries funcionaris,,1.0,1.0,234606.89,0.00,234606.89,138866.77
+8.0,1510.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,1.0,1.0,0.00,0.00,0.00,45082.23
+8.0,1510.0,1210020.0,Comp.Func.prog.temp.,,1.0,1.0,0.00,0.00,0.00,14370.75
+8.0,1510.0,1310040.0,Retrib.pers.lab.event.subt.transitòria incapac.transitòria,,1.0,1.0,0.00,0.00,0.00,9453.12
+8.0,1510.0,1500000.0,Altres retribucions - incentiu productivitat,,1.0,1.0,0.00,25000.00,25000.00,15510.16
+8.0,1510.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,1.0,1.0,0.00,0.00,0.00,6485.45
+8.0,1510.0,1500020.0,Productivitat func.int.prog.temp.,,1.0,1.0,0.00,0.00,0.00,1777.92
+8.0,1510.0,1501040.0,Productivitat Pers.Lab.Event.subst.transitòria incapacitat t,,1.0,1.0,0.00,0.00,0.00,347.82
+8.0,1510.0,1600002.0,Malaltia,,1.0,1.0,0.00,0.00,0.00,34.28
+8.0,1510.0,2200100.0,Subscripcions i publicacions,8.0,1.0,2.0,950.00,0.00,950.00,280.80
+8.0,1510.0,2210300.0,SUBMINISTRAMENTS COMBUSTIBLES,8.0,1.0,2.0,0.00,0.00,0.00,180.01
+8.0,1510.0,2210309.0,Subministrament combustible anys anteriors,8.0,1.0,2.0,0.00,0.00,0.00,89.05
+8.0,1510.0,2220000.0,COMUNICACIONS TELEFÓNIQUES,8.0,1.0,2.0,0.00,0.00,0.00,1000.56
+8.0,1510.0,2220009.0,Comunicacions telefòniques anys anteriors,8.0,1.0,2.0,0.00,0.00,0.00,57.71
+8.0,1510.0,2230000.0,Transports,8.0,1.0,2.0,5490.00,0.00,5490.00,5410.27
+8.0,1510.0,2260100.0,Despeses de protocol,8.0,1.0,2.0,600.00,0.00,600.00,114.54
+8.0,1510.0,2260200.0,Publicitat i propaganda,8.0,1.0,2.0,0.00,0.00,0.00,2026.33
+8.0,1510.0,2260400.0,Despeses Jurídiques,8.0,1.0,2.0,60000.00,0.00,60000.00,57003.23
+8.0,1510.0,2269902.0,Despeses diverses,8.0,1.0,2.0,0.00,0.00,0.00,1208.48
+8.0,1510.0,2270600.0,Estudis i treballs tècnics,8.0,1.0,2.0,19300.00,0.00,19300.00,10312.35
+8.0,1510.0,2279910.0,Prestació Serveis,8.0,1.0,2.0,40000.00,0.00,40000.00,39755.98
+8.0,1510.0,2300000.0,Dietes,8.0,1.0,2.0,0.00,0.00,0.00,280.50
+8.0,1510.0,2300200.0,Dietes,8.0,1.0,2.0,60.00,0.00,60.00,0.00
+8.0,1510.0,2310000.0,Quilometratge,8.0,1.0,2.0,60.00,0.00,60.00,331.70
+8.0,1510.0,2522799.0,Treballs realitzats per adm. publiques ,8.0,1.0,2.0,0.00,0.00,0.00,0.00
+8.0,1510.0,4110005.0,Conveni IME - Indicadors PTI,8.0,1.0,4.0,9000.00,6000.00,15000.00,15000.00
+8.0,1510.0,4620011.0,Implantació Sistema Informació Georeferenciat,8.0,1.0,4.0,31500.00,0.00,31500.00,27563.00
+8.0,1510.0,6000009.0,IR Adquisició de terrenys - ús general,8.0,1.0,6.0,0.00,7773.00,7773.00,0.00
+8.0,1510.0,6270500.0,Sistema d'informació georeferenciada,8.0,1.0,6.0,174976.34,0.00,174976.34,146563.90
+8.0,1510.0,6277200.0,IDE Menorca / Informació cartogràfica digital,8.0,1.0,6.0,50000.00,0.00,50000.00,0.00
+8.0,1510.0,6400009.0,IR Inversions immaterials d'Ordenació del Territori,8.0,1.0,6.0,0.00,145265.81,145265.81,28163.22
+8.0,1510.0,6401000.0,Projecte inversió Pla Territorial Insular,8.0,1.0,6.0,110000.00,0.00,110000.00,18228.55
+8.0,1510.0,6404000.0,Projecte inversions plans especiasl i sectorials,8.0,1.0,6.0,156900.00,0.00,156900.00,18381.40
+8.0,1510.0,6404009.0,Plans especials i sectorials,8.0,1.0,6.0,0.00,34229.74,34229.74,0.00
+8.0,1510.0,8401000.0,Diposits - Consorci de disciplina urbanística,8.0,1.0,8.0,110000.00,21000.00,131000.00,131000.00
+8.0,1510.0,8401012.0,Altres dipòsits - ordenació del territori,8.0,1.0,8.0,0.00,3350.00,3350.00,3350.00
+9.0,4320.0,1010000.0,Retribucions personal gabinet,,4.0,1.0,49810.74,0.00,49810.74,46252.84
+9.0,4320.0,1200000.0,Retrib. Bàsiques funcionaris,,4.0,1.0,127775.90,0.00,127775.90,72475.83
+9.0,4320.0,1200010.0,Retrib.bàsiq. func.inter.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,33516.18
+9.0,4320.0,1210000.0,Retrib. Complementàries funcionaris,,4.0,1.0,134125.09,0.00,134125.09,76788.28
+9.0,4320.0,1210010.0,Retrib.Compl.func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,33227.49
+9.0,4320.0,1310000.0,Retribucions personal laboral eventual Turisme,,4.0,1.0,23554.02,0.00,23554.02,1682.43
+9.0,4320.0,1310020.0,Retrib.pers.lab.event.executen prog.caràcter temporal,,4.0,1.0,0.00,0.00,0.00,13702.84
+9.0,4320.0,1311020.0,Indemnitzacions per fi de contracte,,4.0,1.0,0.00,0.00,0.00,3817.13
+9.0,4320.0,1500000.0,Altres retribucions - incentiu productivitat,,4.0,1.0,0.00,18000.00,18000.00,10747.74
+9.0,4320.0,1500010.0,Productivitat Func.int.ocupen plaça vacant a la plantilla,,4.0,1.0,0.00,0.00,0.00,4988.64
+9.0,4320.0,1501020.0,Productivitat Pers.Lab.Event.executenprog.caràcter temporal,,4.0,1.0,0.00,0.00,0.00,1741.44
+9.0,4320.0,1600002.0,Malaltia,,4.0,1.0,0.00,0.00,0.00,1442.15
+9.0,4320.0,2020000.0,Lloguer d'edificis,9.0,4.0,2.0,18081.00,0.00,18081.00,9927.77
+9.0,4320.0,2120000.0,Manteniment d'edificis i altres,9.0,4.0,2.0,1000.00,0.00,1000.00,0.00
+9.0,4320.0,2130000.0,Mant.i Rep. d'Instal. i Maquinària,9.0,4.0,2.0,2065.50,0.00,2065.50,0.00
+9.0,4320.0,2140000.0,MANTENIMENT VEHICLES,9.0,4.0,2.0,0.00,0.00,0.00,314.39
+9.0,4320.0,2200000.0,Material d'oficina ordinari,9.0,4.0,2.0,600.00,0.00,600.00,0.00
+9.0,4320.0,2200100.0,Subscripcions i publicacions,9.0,4.0,2.0,1100.00,0.00,1100.00,401.50
+9.0,4320.0,2210300.0,SUBMINISTRAMENTS COMBUSTIBLES,9.0,4.0,2.0,0.00,0.00,0.00,1395.72
+9.0,4320.0,2210309.0,Subministrament combustible anys anteriors,9.0,4.0,2.0,0.00,0.00,0.00,0.00
+9.0,4320.0,2219900.0,Subministraments diversos,9.0,4.0,2.0,4406.00,0.00,4406.00,0.00
+9.0,4320.0,2220000.0,COMUNICACIONS TELEFÓNIQUES,9.0,4.0,2.0,0.00,0.00,0.00,2083.78
+9.0,4320.0,2220009.0,Comunicacions telefòniques anys anteriors,9.0,4.0,2.0,0.00,0.00,0.00,220.22
+9.0,4320.0,2230000.0,Transports,9.0,4.0,2.0,7527.60,0.00,7527.60,7639.98
+9.0,4320.0,2240000.0,Assegurances,9.0,4.0,2.0,500.00,0.00,500.00,539.51
+9.0,4320.0,2250000.0,Tributs estatals,9.0,4.0,2.0,0.00,0.00,0.00,0.00
+9.0,4320.0,2250009.0,Tributs estatals anys anteriors,9.0,4.0,2.0,0.00,0.00,0.00,42.15
+9.0,4320.0,2250200.0,Tributs entitats locals,9.0,4.0,2.0,0.00,0.00,0.00,199.38
+9.0,4320.0,2260100.0,Despeses de protocol,9.0,4.0,2.0,1125.00,0.00,1125.00,886.46
+9.0,4320.0,2260400.0,Despeses jurídiques,9.0,4.0,2.0,2950.00,0.00,2950.00,4249.67
+9.0,4320.0,2269902.0,Despeses diverses,9.0,4.0,2.0,1500.00,0.00,1500.00,1575.69
+9.0,4320.0,2270000.0,Prestació de serveis: Neteja,9.0,4.0,2.0,3900.00,0.00,3900.00,0.00
+9.0,4320.0,2270600.0,Estudis i treballs tècnics,9.0,4.0,2.0,7018.00,5000.00,2018.00,218.00
+9.0,4320.0,2300000.0,Dietes,9.0,4.0,2.0,0.00,0.00,0.00,80.85
+9.0,4320.0,2300200.0,Dietes,9.0,4.0,2.0,600.00,0.00,600.00,0.00
+9.0,4320.0,2310000.0,Quilometratge,9.0,4.0,2.0,600.00,0.00,600.00,206.35
+9.0,4320.0,2700000.0,Despeses imprevistes i inclasificables,9.0,4.0,2.0,0.00,0.00,0.00,0.00
+9.0,4320.0,2700009.0,Despeses imprevistes i no classificables anys anteriors,9.0,4.0,2.0,0.00,0.00,0.00,134.22
+9.0,4320.0,4890064.0,Aportació Fundació destí,9.0,4.0,4.0,1500000.00,362947.32,1862947.32,1362947.32
+9.0,4320.0,6090010.0,Línia modernització urbanitzacions turístiques,9.0,4.0,6.0,2000000.00,2000000.00,0.00,0.00
+9.0,4320.0,6320000.0,Obres consolidació Fort Marlboroug,9.0,4.0,6.0,0.00,0.00,0.00,0.00
+9.0,4320.0,6400009.0,IR Pla Dinamització Producte Turístic de Menorca (PDPT),9.0,4.0,6.0,0.00,1571996.28,1571996.28,110056.82
+9.0,4320.0,7100009.0,IR Congrés Internacional Arqueologia (PDPT),9.0,4.0,7.0,0.00,50000.00,50000.00,35081.00
+9.0,4320.0,7620000.0,Modernització urbanitzacions turístiques,9.0,4.0,7.0,0.00,2000000.00,2000000.00,0.00
+9.0,4320.0,7620009.0,IR - Programa Menorca tot l'any 2011 (PDPT) - Ajuntaments,9.0,4.0,7.0,0.00,0.00,0.00,6080.00
+9.0,4320.0,7620019.0,IR Plans dinamització - Ajuntaments,9.0,4.0,7.0,0.00,310652.00,310652.00,0.00
+9.0,4320.0,7620300.0,Pla dinamització Ciutadella,9.0,4.0,7.0,41197.00,0.00,41197.00,0.00
+9.0,4320.0,7620400.0,Pla dinamització Cala'n Porter - Alaior,9.0,4.0,7.0,44182.00,0.00,44182.00,0.00
+9.0,4320.0,7628000.0,Pla dinamització Mercadal,9.0,4.0,7.0,15000.00,0.00,15000.00,0.00
+9.0,4320.0,7890009.0,IR Menorca Tot l'Any (PDPT),9.0,4.0,7.0,0.00,225000.00,225000.00,157324.00
+9.0,4320.0,7890019.0,IR Transferències de capital - Turisme,9.0,4.0,7.0,0.00,35000.00,35000.00,34998.81
