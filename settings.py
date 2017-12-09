@@ -145,34 +145,19 @@ OVERVIEW_USE_NEW_VIS = True
 
 OVERVIEW_INCOME_NODES = [
                           {
-                            'nodes': [['11', '113']],
-                            'label': 'Impuesto a bienes inmuebles de naturaleza urbana',
-                            'link_id': '11'
+                            'nodes': ['45', '75'],
+                            'label.es': 'De comunidades autónomas',
+                            'label.ca': 'De comunitats autònomes'
                           },
                           {
-                            'nodes': [['30', '300']],
-                            'label': 'Servicio de abastecimiento de agua',
-                            'link_id': '30'
+                            'nodes': ['42', '72'],
+                            'label.es': 'De la Administración del Estado',
+                            'label.ca': "De l'Administració de l'Estat"
                           },
-                          '42', '45',
-                          {
-                            'nodes': [['29', '293']],
-                            'label': 'Impuesto general indirecto canario (IGIC)',
-                            'link_id': '29'
-                          },
-                          {
-                            'nodes': [['11', '115']],
-                            'label': 'Impuesto sobre vehículos de tracción mecánica',
-                            'link_id': '11'
-                          },
-                          {
-                            'nodes': [['30', '302']],
-                            'label': 'Servicio de recogida de basuras',
-                            'link_id': '30'
-                          },
+                          '31', '21', '10'
                         ]
 
-OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '15', '33', '23', '34', '17', '32']
+OVERVIEW_EXPENSE_NODES = ['23', '91', '45', '92', '43', '01', '41', '33', '13', '44']
 
 # How much padding between Sankey nodes. Default: 2 (Optional)
 # OVERVIEW_NODE_PADDING = 2
