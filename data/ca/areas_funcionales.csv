@@ -1,0 +1,99 @@
+#Área,Política,Grupo,Programa,Descripción
+#
+# Áreas de gasto y Políticas, definidas en la Orden HAP/419/2014 y comunes a todas las EELL.
+# Ver http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
+0,,,,Deute públic
+0,1,,,Deute públic
+1,,,,Serveis públics bàsics
+1,3,,,Seguretat i mobilitat ciutadana
+1,5,,,Habitatge i urbanisme
+1,6,,,Benestar comunitari
+1,7,,,Medi ambient
+2,,,,Actuacions de protecció i promoció social
+2,1,,,Pensions
+2,2,,,Altres prestacions econòmiques a favor d'empleats
+2,3,,,Serveis socials i promoció social
+2,4,,,Foment de l'ocupació
+3,,,,Producció de béns públics de caràcter preferent
+3,1,,,Salut
+3,2,,,Educació
+3,3,,,Cultura
+3,4,,,Esport
+4,,,,Actuacions de caràcter econòmic
+4,1,,,"Agricultura, ramaderia i pesca"
+4,2,,,Indústria i energia
+4,3,,,"Comerç, turisme i petites i mitjanes empreses"
+4,4,,,Transport públic
+4,5,,,Infraestructures
+4,6,,,"Investigació, desenvolupament e innovació"
+4,9,,,Altres actuacions de caràcter econòmic
+9,,,,Actuacions de caràcter general
+9,1,,,Òrgans de govern
+9,2,,,Serveis de caràcter general
+9,3,,,Administració financera i tributària
+9,4,,,Transferències a altres administracions
+#
+# Programas específicos de Menorca
+# http://www.cime.es/WebEditor/Pagines/file/Pressupost2017/Volum%20II_Pressupost%20CIM%202017.pdf
+#
+0,1,1,00,"Amortització i interessos"
+1,3,6,00,"Servei prevenció i extinció d'incendis i salvament"
+1,5,1,00,"Ordenació territorial"
+1,7,2,00,"Agència Menorca Reserva de Biosfera"
+2,3,1,00,"Gestió del Departamento de Bienestar Social i Família"
+2,3,1,01,"Gestió de la Direcció Insular d'Atenció a la Dona, Infància, Joventut i Immigració"
+2,3,1,10,"Coordinació i suport a Xarxa d'Habitatge Social de Menorca"
+2,3,1,11,"Suport Xarxa EMIF i programa de mediació"
+2,3,1,21,"Política de gènere i igualtat"
+2,3,1,22,"Atenció a les drogodependències"
+2,3,1,23,"Servei Insular de Família"
+2,3,1,24,"Pla insular de família i promoció de la salut"
+2,3,1,25,"Xarxa d'Atenció a l'Immigrant i al Nouvingut"
+2,3,1,31,"Suport social i comunitari"
+2,3,1,32,"Centres de dia per a persones amb discapacitat psíquica"
+2,3,1,33,"Residència, centres de dia i altres serveis assistencials per a gent gran"
+2,3,1,34,"Promoció y atenció a la gent gran depenent i envelliment actiu"
+2,3,1,35,"Residències i centres de dia per a persones amb discapacitats"
+2,4,1,00,"Ocupació"
+3,1,1,00,"Promoció de la salut"
+3,2,6,00,"Educació"
+3,3,0,00,"Gestió del Departament de Cultura i Educació"
+3,3,2,00,"Patrimoni documental i biblioteques"
+3,3,2,10,"Biblioteca Pública i Arxiu Històric de Maó"
+3,3,3,00,"Museu de Menorca"
+3,3,4,00,"Creació i promoció cultural"
+3,3,4,10,"Política lingüística"
+3,3,4,50,"Joventut"
+3,3,6,00,"Patrimoni històric"
+3,4,1,00,"Esports"
+4,1,0,00,"Gestió de la Direcció Insular de Medi Rural i Marí"
+4,1,2,00,"Agricultura"
+4,1,2,30,"Formació, capacitació i assessorament"
+4,1,2,40,"Ramaderia"
+4,1,5,00,"Medi marí, litoral i pesca"
+4,1,9,00,"Promoció i qualitat dels productes agroalimentaris"
+4,1,9,10,"Gestió i aprofitament de recursos cinegètics"
+4,3,0,00,"Ordenació turística"
+4,3,2,00,"Promoció turística"
+4,3,9,00,"Comerç i indústria"
+4,3,9,01,"Llatzaret"
+4,3,9,10,"Artesania"
+4,4,1,00,"Transports"
+4,5,3,00,"Carreteres"
+4,6,2,00,"Innovació"
+9,1,2,00,"Òrgans de govern"
+9,2,0,00,"Gestió del Departament de Serveis Generals, Participació Ciutadana i Habitatge"
+9,2,0,10,"Informàtica"
+9,2,0,20,"Servei de Gestió de les Persones"
+9,2,0,50,"Gestió del Departament d'Ocupació, Projecció Econòmica, Joventut i Esports"
+9,2,0,60,"Servei de Secretaria i Serveis Jurídics"
+9,2,0,80,"Servei de Contractació"
+9,2,2,01,"Servei Insular de Cooperació i Assistència als Municipis"
+9,2,2,02,"Servei Insular d'Acollida d'Animals"
+9,2,2,30,"Servei Insular de Seguretat i Salut Laboral"
+9,2,5,00,"Servei d'Atenció Ciutadani i Qualitat"
+9,2,9,00,"Fons de contingència"
+9,2,9,10,"Cooperació internacional"
+9,3,1,00,"Serveis econòmics"
+9,3,3,00,"Serveis tecnics, manteniment i edificació"
+9,4,3,00,"Plans de concertació econòmica local"
