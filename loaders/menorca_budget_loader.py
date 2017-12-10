@@ -64,12 +64,13 @@ class MenorcaBudgetLoader(SimpleBudgetLoader):
                 fc_code = self.clean(line[1]).rjust(5, '0')
 
             ec_code = self.clean(line[2])
+            ic_code = self.clean(line[0]).rjust(3, '0')
             return {
                 'is_expense': True,
                 'is_actual': is_actual,
                 'fc_code': fc_code,
                 'ec_code': ec_code[:-4],        # First three digits (everything but last four)
-                'ic_code': '000',
+                'ic_code': ic_code,
                 'item_number': ec_code[-4:],    # Last four digits
                 'description': line[3],
                 'amount': self._parse_amount(line[10 if is_actual else 7])

@@ -51,7 +51,7 @@ BUDGET_LOADER = 'MenorcaBudgetLoader'
 
 # Are institutional codes consistent along the years. Default: False.
 # Important: We need this to be True for the institutional treemap to work properly.
-# CONSISTENT_INSTITUTIONAL_CODES = True
+CONSISTENT_INSTITUTIONAL_CODES = True
 
 # Show an extra treemap in the Policy page, showing institutional breakdown. Default: False.
 # Important: insitutional codes must be consistent along the years, see CONSISTENT_INSTITUTIONAL_CODES.
