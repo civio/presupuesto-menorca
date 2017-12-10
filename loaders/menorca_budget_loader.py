@@ -18,7 +18,30 @@ class MenorcaBudgetLoader(SimpleBudgetLoader):
         # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
         programme_mapping = {
             # old programme: new programme
-            # '1340': '1350',     # Protección Civil
+            '13500': '13600',    # Servei Prevenció i Extinció d'Incendis i Salvament
+            '15200': '15100',    # Disciplina urban., litoral, habitab. i act. clas.
+            '16900': '92201',    # Servei de Cooperació i Assitència als Municipis
+            '16920': '92202',    # Servei Insular d'Acollida d'Animals
+            '17000': '15100',    # Ordenació Territorial
+            '23000': '23100',    # Aga Direc. Insular atenció a persones i promoció aut. person
+            '23010': '23101',    # AGA Dirc, Insular atenció dona, infància, joventut i immig.
+            '23110': '23111',    # Supervisió i xarxa EMIF
+            '23210': '23121',    # Política de gèner i igualtat
+            '23220': '23122',    # Atenció a les drogodependències
+            '23230': '23123',    # Servei insular de familia
+            '23240': '23124',    # PROMOCIÓ DE LA SALUT
+            '23250': '23125',    # Xrxa d'atenció a l'immigrant i nouvingut
+            '23310': '23131',    # Suport social i comunitari
+            '23320': '23132',    # Centres de dia per a persons amb discapacitat psiquiàtrica
+            '23330': '23133',    # Residència gent gran i Centre de dia d'Alzheimer
+            '23340': '23134',    # Promició i atenció gent gran, dependent, i envelliment actiu
+            '23350': '23135',    # Residències i centre de dia persones discapacitat
+            '31300': '31100',    # Promoció de la Salut
+            '32300': '32600',    # Educació
+            '34000': '92910',    # Esports
+            '92930': '92230',    # Servei mancomunat de Prevenció de Riscos Laborals
+            '41600': '41910',    # Caça
+            '94550': '94300',    # Plans Insulars de Cooperació
         }
 
         # Some dirty lines in input data
@@ -28,15 +51,19 @@ class MenorcaBudgetLoader(SimpleBudgetLoader):
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)
         if is_expense:
-            # We got 5- functional codes as input, but the leading zero is lost sometimes
-            fc_code = self.clean(line[1]).rjust(5, '0')
-            ec_code = self.clean(line[2])
-
-            # For years before 2015 we check whether we need to amend the programme code
+            # The functional codes have slightly different formats depending on the year
             year = re.search('municipio/(\d+)/', filename).group(1)
             if int(year) < 2015:
+                # We got 4- functional codes as input, but the leading zero is lost sometimes.
+                # And then make them 5- to match more recent codes.
+                fc_code = self.clean(line[1]).rjust(4, '0').ljust(5, '0')
+                # And amend the programme code if needed
                 fc_code = programme_mapping.get(fc_code, fc_code)
+            else:
+                # We got 5- functional codes as input, but the leading zero is lost sometimes
+                fc_code = self.clean(line[1]).rjust(5, '0')
 
+            ec_code = self.clean(line[2])
             return {
                 'is_expense': True,
                 'is_actual': is_actual,

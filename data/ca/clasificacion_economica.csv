@@ -528,8 +528,10 @@ I,4,7,0,D'empreses privades
 I,4,8,0,De famílies e institucions sense ànim de lucre
 I,5,1,6,D'entitats locals
 I,5,2,0,Interessos de dipòsits
+I,6,8,9,Reintegraments per operacions de capital
 I,7,7,0,D'empreses privades
 I,7,8,0,De famílies e institucions sense ànim de lucre
+G,2,5,2,Treballs realitzades per administracions públiques i altres entitats públiques
 G,2,6,0,Treballs realitzats per institucions sense fins de lucre
 G,2,6,2,Treballs realitzats per institucions sense fins de lucre
 G,2,7,0,Despeses imprevistes
@@ -546,6 +548,7 @@ G,6,1,8,Inversions de reposició d'infraestructures i béns destinats a l'ús ge
 G,6,2,0,Inversió nova associada al funcionament operatiu dels serveis
 G,6,3,0,Inversió de reposició associada al funcionament operatiu dels serveis
 G,7,4,0,A ens públics i societats mercantils de l'entitat local
+G,7,4,9,A ens públics i societats mercantils de l'entitat local
 G,7,6,0,A entitats locals
 G,7,8,0,A famílies e institucions sense ànim de lucre
 G,7,8,9,A famílies e institucions sense ànim de lucre
