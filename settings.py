@@ -105,7 +105,7 @@ DATA_SOURCE_BUDGET      = 'http://www.cime.es/Contingut.aspx?IdPub=2080'
 DATA_SOURCE_POPULATION  = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=10019&L=0'
+DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
 
 # Setup Main Entity Web Url
 MAIN_ENTITY_WEB_URL     = 'http://www.cime.es/'
