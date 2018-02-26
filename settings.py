@@ -83,11 +83,8 @@ INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = True
 
 # Supported languages. Default: ('es', 'Castellano')
 LANGUAGES = (
-  ('es', 'Castellano'),
   ('ca', 'Catal&agrave;'),
-  # ('en', 'English'),
-  # ('eu', 'Euskera'),
-  # ('gl', 'Galego'),
+  ('es', 'Castellano'),
 )
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''
