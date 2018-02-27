@@ -61,7 +61,7 @@ msgstr "Contribueixes amb un total de <strong id=\"tax-amount-paid\"></strong> a
 
 #: templates/welcome/index.html:12
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
-msgstr "D’on vénen els ingressos? En què i per a què és la despesa del Consell de Menorca?"
+msgstr "D’on venen els ingressos? En què destina la despesa el Consell de Menorca?"
 
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
