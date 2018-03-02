@@ -12,6 +12,10 @@ class MenorcaBudgetLoader(SimpleBudgetLoader):
     def clean(self, s):
         return s.split('.')[0]
 
+    # We override this to allow a different classification per year
+    def get_institutional_classification_path(self, path):
+        return os.path.join(path, 'clasificacion_organica.csv')
+
     def parse_item(self, filename, line):
         # Programme codes have changed in 2015, due to new laws. Since the application expects a code-programme
         # mapping to be constant over time, we are forced to amend budget data prior to 2015.
