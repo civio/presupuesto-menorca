@@ -1,6 +1,5 @@
 # -*- coding: UTF-8 -*-
-from django.conf.urls import patterns, url
-#from django.conf.urls.i18n import i18n_patterns
+from django.conf.urls import url
 
 
 MAIN_ENTITY_LEVEL = 'municipio'
@@ -19,15 +18,15 @@ BUDGET_LOADER = 'MenorcaBudgetLoader'
 # ----------------------
 
 # Show Payments section in menu & home options. Default: False.
-# SHOW_PAYMENTS = True
+# SHOW_PAYMENTS = True
 
-# Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
-# PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'payee', 'description']
+# Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
+# PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'payee', 'description']
 
-# Configure 'by payee' payment breakdown. Default: ['payee', 'area', 'description']
-# PAYMENTS_BREAKDOWN_BY_PAYEE = ['payee', 'area', 'description']
+# Configure 'by payee' payment breakdown. Default: ['payee', 'area', 'description']
+# PAYMENTS_BREAKDOWN_BY_PAYEE = ['payee', 'area', 'description']
 
-# Define if payments year slider is a range (True) or a single year (False). Default: True
+# Define if payments year slider is a range (True) or a single year (False). Default: True
 # PAYMENTS_YEAR_RANGE = False
 
 # Show Tax Receipt section in menu & home options. Default: False.
@@ -61,7 +60,7 @@ BUDGET_LOADER = 'MenorcaBudgetLoader'
 # SHOW_FUNDING_TAB = True
 
 # Show breadcrumbs in policies. Default: False.
-# SHOW_BREADCRUMBS = True
+# SHOW_BREADCRUMBS = True
 
 # Show an extra column with actual revenues/expenses. Default: True.
 # Warning: the execution data still gets shown in the summary chart and in downloads.
@@ -88,40 +87,40 @@ LANGUAGES = (
 )
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''
-# In order to get the ID create an app in https://developers.facebook.com/
-FACEBOOK_ID             = '136814317093844'
+# In order to get the ID create an app in https://developers.facebook.com/
+FACEBOOK_ID = '136814317093844'
 
 # Google Analytics ID. Default: ''
-# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
-ANALYTICS_ID            = 'UA-28946840-41'
+# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
+ANALYTICS_ID = 'UA-28946840-41'
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = 'http://www.cime.es/Contingut.aspx?IdPub=2080'
+DATA_SOURCE_BUDGET = 'http://www.cime.es/Contingut.aspx?IdPub=2080'
 
 # Setup Data Source Population link
-DATA_SOURCE_POPULATION  = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
+DATA_SOURCE_POPULATION = 'http://www.ine.es/dynt3/inebase/index.htm?padre=517'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
+DATA_SOURCE_INFLATION = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = 'http://www.cime.es/'
+MAIN_ENTITY_WEB_URL = 'http://www.cime.es/'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_LEGAL_URL   = 'http://www.cime.es/Contingut.aspx?IdPub=1672'
+MAIN_ENTITY_LEGAL_URL = 'http://www.cime.es/Contingut.aspx?IdPub=1672'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
 MAIN_ENTITY_PRIVACY_URL = ''
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
-COOKIES_URL             = ''
+COOKIES_URL = ''
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
 # Must be needed to uncomment 3rd line in order to import i18n_patterns
-# EXTRA_URLS = i18n_patterns('presupuesto-base.views',
-#     url(r'^visita-guiada$', 'guidedvisit', name="guidedvisit"),
-# )
+EXTRA_URLS = (
+    url(r'^visita-guiada$', 'guidedvisit', name="guidedvisit"),
+)
 
 
 # Welcome Settings
@@ -160,13 +159,13 @@ OVERVIEW_EXPENSE_NODES = ['23', '91', '45', '92', '43', '01', '41', '33', '13', 
 # OVERVIEW_NODE_PADDING = 2
 
 # Overview node minimum height to show labels. Default: 16 (Optional)
-# OVERVIEW_LABELS_MIN_SIZE = 16
+# OVERVIEW_LABELS_MIN_SIZE = 16
 
 # Overview node labels minimum font size. Default: 11 (Optional)
 # OVERVIEW_LABELS_FONT_SIZE_MIN = 11
 
 # Overview node labels maximum font size. Default: 11 (Optional)
-# OVERVIEW_LABELS_FONT_SIZE_MAX = 38
+# OVERVIEW_LABELS_FONT_SIZE_MAX = 38
 
 # Nodes ordered by amount by default. If set to True keeps the order defined in nodes array. Default: False (Optional)
 # OVERVIEW_FORCE_ORDER = False
@@ -183,7 +182,7 @@ OVERVIEW_EXPENSE_NODES = ['23', '91', '45', '92', '43', '01', '41', '33', '13', 
 # ----------------------
 
 # Treemaps minimum height or width to show labels. Default: 30 (Optional)
-# TREEMAP_LABELS_MIN_SIZE = 30
+# TREEMAP_LABELS_MIN_SIZE = 30
 
 # Treemap minimum font size. Default: 11 (Optional)
 # TREEMAP_LABELS_FONT_SIZE_MIN = 11
@@ -192,7 +191,7 @@ OVERVIEW_EXPENSE_NODES = ['23', '91', '45', '92', '43', '01', '41', '33', '13', 
 # TREEMAP_GLOBAL_MAX_VALUE = False
 
 # Allow overriding of default treemap color scheme
-# COLOR_SCALE = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf']
+# COLOR_SCALE = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf']
 
 # How many levels to show in the global institutional treemap? Default: 1.
-# INSTITUTIONAL_MAX_LEVELS = 2
+# INSTITUTIONAL_MAX_LEVELS = 2
