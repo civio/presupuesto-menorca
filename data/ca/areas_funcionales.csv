@@ -39,6 +39,7 @@
 0,1,1,00,"Amortització i interessos"
 1,3,6,00,"Servei prevenció i extinció d'incendis i salvament"
 1,5,1,00,"Ordenació territorial"
+1,7,0,00,Gestió del Departament de Medi Ambient
 1,7,2,00,"Agència Menorca Reserva de Biosfera"
 1,7,2,01,"Camí de Cavalls"
 2,3,1,00,"Gestió del Departamento de Bienestar Social i Família"
@@ -80,6 +81,7 @@
 4,3,2,00,"Promoció turística"
 4,3,9,00,"Comerç i indústria"
 4,3,9,01,"Llatzaret"
+4,3,9,02,"Projectes sostenibles"
 4,3,9,10,"Artesania"
 4,4,1,00,"Transports"
 4,5,3,00,"Carreteres"
