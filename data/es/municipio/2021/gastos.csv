@@ -1168,9 +1168,9 @@
 6.0,17200.0,2279910.0,Inventari Patrimoni immaterial RB,6.0,1.0,2.0,5000.0
 6.0,17200.0,2279920.0,Centre de Documentació de la Reserva de la Biosfera,6.0,1.0,2.0,5000.0
 6.0,17200.0,4110004.0,"Conveni IME-Obsam, Diverses activitats Reserva de Biosfera",6.0,1.0,4.0,36000.0
-6.0,17200.0,4620000.0,Pacte de Batlles pel clima i l'energia,6.0,1.0,4.0,200000.0
+6.0,17200.0,4620000.0,Pacte de Batlles pel clima i l'energia,6.0,1.0,4.0,0.0
 6.0,17200.0,4790000.0,Estudis i investigació ambiental Reserva de Biosfera,6.0,1.0,4.0,25000.0
-6.0,17200.0,4790002.0,Projecte ecoturisme Bgreen Menorca,6.0,1.0,4.0,475500.0
+6.0,17200.0,4790002.0,Projecte ecoturisme Bgreen Menorca,6.0,1.0,4.0,0.0
 6.0,17200.0,4890077.0,Conveni Aliança Mar Blava,6.0,1.0,4.0,5000.0
 6.0,17200.0,4890105.0,Conveni GOB - Diverses actuacions reserva de biosfera,6.0,1.0,4.0,20000.0
 6.0,17200.0,4890300.0,Conveni ITEB,6.0,1.0,4.0,10000.0
@@ -1180,11 +1180,13 @@
 6.0,17200.0,6500000.0,Projecte ecoturisme Bgreen Menorca,6.0,1.0,6.0,174500.0
 6.0,17200.0,6500001.0,Projecte pèrgoles fotovoltàiques a aparcaments públics,6.0,1.0,6.0,1531010.58
 6.0,17200.0,7620000.0,Finalització proj. sostenibles 2017-Cala St Esteve i Cala Ll,6.0,1.0,7.0,339023.75
+6.0,17200.0,7620001.0,Pacte de Batlles pel clima i l'energia,6.0,1.0,7.0,200000.0
 6.0,17200.0,7670000.0,Projecte repotenciació parc eòlic i fotovoltàic de Milà,6.0,1.0,7.0,231000.0
 6.0,17200.0,7670002.0,Projecte planta de biogàs,6.0,1.0,7.0,90000.0
 6.0,17200.0,7670003.0,Enllumenats fase II (Calan Blanes-Cala Galdana-Calan Porter),6.0,1.0,7.0,587478.0
 6.0,17200.0,7670004.0,Planta fotovoltaica Trepuconet,6.0,1.0,7.0,234000.0
 6.0,17200.0,7670009.0,Oficina Menorca 2030,6.0,1.0,7.0,45000.0
+6.0,17200.0,7790000.0,Projecte ecoturisme Bgreen Menorca,6.0,1.0,7.0,475500.0
 6.0,17201.0,1207001.0,Retribucions bàsiques personal funcionari interí,,1.0,1.0,32481.52
 6.0,17201.0,1210001.0,Complement destí personal funcionari interí,,1.0,1.0,12022.99
 6.0,17201.0,1210101.0,Complement específic personal funcionari interí,,1.0,1.0,25933.56
@@ -1200,13 +1202,14 @@
 6.0,17201.0,2260200.0,Difusió i campanyes de divulgació,6.0,1.0,2.0,3000.0
 6.0,17201.0,2260400.0,Despeses jurídiques,6.0,1.0,2.0,10000.0
 6.0,17201.0,2270601.0,Estudis tècnics camins,6.0,1.0,2.0,30000.0
-6.0,17201.0,2270602.0,Pla Director Camins Menorca,6.0,1.0,2.0,50000.0
+6.0,17201.0,2270602.0,Pla Director Camins Menorca,6.0,1.0,2.0,0.0
 6.0,17201.0,2279900.0,Servei de neteja de platges,6.0,1.0,2.0,1076715.3
 6.0,17201.0,2279901.0,Sanitaris químics Camí de Cavalls,6.0,1.0,2.0,118000.0
 6.0,17201.0,2279910.0,Prestació de serveis,6.0,1.0,2.0,5000.0
 6.0,17201.0,2302000.0,Indemnitzacions per raó del servei. Dietes,6.0,1.0,2.0,200.0
 6.0,17201.0,2310000.0,Indemnitzacions per raó del servei. Quilometratge,6.0,1.0,2.0,150.0
 6.0,17201.0,6090000.0,Pla d'inversions en Camí de Cavalls,6.0,1.0,6.0,177000.0
+6.0,17201.0,6270000.0,Pla Director Camins Menorca,6.0,1.0,6.0,50000.0
 6.0,17201.0,6400001.0,Pla d'actuacions de gestió i recuperació del Camí de Cavalls,6.0,1.0,6.0,80000.0
 6.0,43901.0,1010000.0,Retribucions bàsiques personal gabinet,,4.0,1.0,46193.4
 6.0,43901.0,1207000.0,Retribucions bàsiques personal funcionari de carrera,,4.0,1.0,19262.5
@@ -1329,7 +1332,7 @@
 7.0,45300.0,2260400.0,Despeses jurídiques,7.0,4.0,2.0,30000.0
 7.0,45300.0,2269902.0,Despeses diverses,7.0,4.0,2.0,500.0
 7.0,45300.0,2270101.0,Servei de vigilància i informació platges,7.0,4.0,2.0,235930.42
-7.0,45300.0,2270600.0,Estudis i treballs tècnics,7.0,4.0,2.0,363322.5
+7.0,45300.0,2270600.0,Estudis i treballs tècnics,7.0,4.0,2.0,40000.0
 7.0,45300.0,2279910.0,Prestació de serveis,7.0,4.0,2.0,400.0
 7.0,45300.0,2302000.0,Indemnitzacons per raó del Servei. Dietes,7.0,4.0,2.0,300.0
 7.0,45300.0,2310000.0,Indemnitzaciions per raó del servei. Quilometratge,7.0,4.0,2.0,2500.0
@@ -1337,6 +1340,7 @@
 7.0,45300.0,6096701.0,Pla inversió carreteres i Autoritat Portuària,7.0,4.0,6.0,500000.0
 7.0,45300.0,6096702.0,Pla inversions en xarxa carril bici interurbà,7.0,4.0,6.0,200000.0
 7.0,45300.0,6096703.0,Pla inversions en carreteres de zones turístiques,7.0,4.0,6.0,174789.64
+7.0,45300.0,6290000.0,Inversions per redacció projectes carreteres,7.0,4.0,6.0,323322.5
 7.0,45300.0,6400000.0,Pla de millora d'eficiència energètica en l'enllumenat,7.0,4.0,6.0,100000.0
 7.0,45300.0,6500001.0,Pla inversions en carreteres en zones  turístiques,7.0,4.0,6.0,255461.24
 7.0,45300.0,7620000.0,Millora vies interurbanes amb els Ajuntaments,7.0,4.0,7.0,286000.0
@@ -1388,7 +1392,7 @@
 8.0,13600.0,6230030.0,Equips de respiració assistida (ERAS),8.0,1.0,62300.0,15000.0
 8.0,13600.0,6340000.0,Asfalt zona posterior Parc Ciutadella,8.0,1.0,6.0,18000.0
 8.0,13600.0,6400000.0,Pla estratègic del servei de bombers de Menorca,8.0,1.0,6.0,18000.0
-8.0,13600.0,64800.0,Renting vehicles bombers,8.0,1.0,6.0,47000.0
+8.0,13600.0,6480000.0,Renting vehicles bombers,8.0,1.0,6.0,47000.0
 8.0,23110.0,1207000.0,Retribucions bàsiques personal funcionari de carrera,,2.0,1.0,18236.47
 8.0,23110.0,1207001.0,Retribucions bàsiques personal funcionari interí,,2.0,1.0,28264.68
 8.0,23110.0,1210000.0,Complement destí personal funcionari de carrera,,2.0,1.0,9174.47
@@ -1524,9 +1528,11 @@
 8.0,92400.0,2260200.0,Campanyes de comunicació i difusió,8.0,9.0,2.0,8000.0
 8.0,92400.0,2260600.0,"Jornades, conferències i cursos",8.0,9.0,2.0,10000.0
 8.0,92400.0,2270600.0,Processos participatius,8.0,9.0,2.0,16000.0
-8.0,92400.0,2270601.0,Concurs d'idees Local Ca L'Avi,8.0,9.0,2.0,50000.0
+8.0,92400.0,2270601.0,Concurs d'idees Local Ca L'Avi,8.0,9.0,2.0,9000.0
 8.0,92400.0,2270604.0,Contracte impuls al Pla de voluntariat,8.0,9.0,2.0,10000.0
 8.0,92400.0,2310000.0,Indemnitzacions dels organs de govern,8.0,9.0,2.0,500.0
 8.0,92400.0,4800000.0,Ajuts entitats tercer sector,8.0,9.0,4.0,15000.0
 8.0,92400.0,4800001.0,Ajuts entitats redacció Pla voluntariat,8.0,9.0,4.0,15000.0
-8.0,92400.0,4800002.0,Convocatòria subvenció participació ciutadana i agenda urban,8.0,9.0,4.0,500000.0
+8.0,92400.0,4800002.0,Convocatòria subvenció participació ciutadana i agenda urban,8.0,9.0,4.0,200000.0
+8.0,92400.0,6290000.0,Concurs d'idees Local Ca L'Avi,8.0,9.0,6.0,41000.0
+8.0,92400.0,7800000.0,Convocatòria subvenció participació ciutadana i agenda urban,8.0,9.0,7.0,300000.0
