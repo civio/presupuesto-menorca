@@ -1,75 +1,93 @@
-#Econ.,Denominación,Previsiones Iniciales
-10000.0,Impost sobre la renda IRPF,1028389.31
-17100.0,Recàrrec IAE,450000.0
-21000.0,Impost sobre el Valor afegit (IVA),1491590.59
-22000.0,Impost sobre l'alcohol i begudes derivades,15909.78
-22001.0,Impost especial sobre la cervesa,5414.02
-22003.0,Impost especial sobre el tabac,135213.57
-22004.0,Impost especial sobre el combustible,184711.75
-22006.0,Altres imposts especials,469.08
-30900.0,Taxa Incendis,14200.0
-31100.0,Taxes Discapacitats,162000.0
-31110.0,Taxes Residència de Gent Gran,780000.0
-31130.0,Taxes Centre de dia d'Alzheimer,85000.0
-32000.0,Taxes transferència caça i pesca fluvial,110000.0
-32200.0,Taxes Habitabilitat,25000.0
-32300.0,Taxes Ordenació Territorial i Urbanisme,10000.0
-32500.0,Taxes Expedició de documents,3000.0
-32900.0,Taxes Centre acollida animals,25000.0
-32901.0,Taxes ITV,1323498.85
-32920.0,Taxes Transports,38000.0
-32930.0,Taxes Ordenació Turística,80000.0
-32940.0,Taxes Agricultura i Pesca,75000.0
-32950.0,Taxa Artesania,1000.0
-34100.0,PP.Serveis especials,35000.0
-34200.0,Educació de persones adultes,32000.0
-34201.0,Matrícules Escola Art Dramàtic de Menorca,4000.0
-34310.0,Esports: Gabinet de Medicina Esportiva,3400.0
-34900.0,Productes Museu de Menorca,14000.0
-36000.0,Venda Llibres,100.0
-36001.0,Venda de productes de la granja escola,15000.0
-39190.0,Sancions,150000.0
-39211.0,Recàrrec de constrenyiment,2000.0
-39900.0,Recursos eventuals,40000.0
-39910.0,Reintegrament anuncis contractació,10000.0
-42010.0,Fons complementari de Finançament,13252229.74
-42090.0,Programa d'oci juvenil,25000.0
-42190.0,Gestió i conservació Finca Alforí de Dalt,80000.0
-42200.0,Transferències corrents de fundacions estatals- Plemar-Mareb,65113.13
-42300.0,Participació traveses,85000.0
-42390.0,Altres organismes estatals,103000.0
-45001.0,CAIB - Altres transferències incondicionades,43154551.0
-45002.0,CAIB - Convenis en matèria d'acció social,1739017.28
-45030.0,CAIB - Convenis en matèria d'educació,20000.0
-45050.0,CAIB - Convenis en matèria de formació,0.0
-45060.0,CAIB - Altres convenis subscrits amb la CAIB,1806500.0
-45080.0,Altres subvencions CAIB (Sense conveni),1684468.68
-45100.0,Conveni ATIB Organització Congrés Espanyol d'Ecoturisme 2020,18000.0
-45200.0,Transferències de fundacions autonòmiques-IGA Menorca,30000.0
-45300.0,Posam valor a l'esport,30000.0
-46200.0,Extinció i prevenció d'incendis,1020455.02
-46201.0,Ajuntaments - Biblioteques,74000.0
-46202.0,Ajuntaments - Educació d'Adults,253654.08
-46203.0,Ajuntaments - Serveis educatius educació primarenca,32173.35
-46204.0,Ajuntaments - Protecció Animal,84377.0
-46205.0,Ajuntaments - Monuments Arquelògics,53333.33
-46206.0,Ajuntaments - Servei de riscos laborals,103411.49
-46207.0,Ajuntaments - Neteja de platges,600000.0
-46208.0,Ajuntaments - Manteniment carreteres,110986.82
-46212.0,IDE Menorca,49000.0
-46213.0,Universitat Oberta Majors - Ajuntaments,8400.0
-47000.0,Conveni asseguradora incendis,391012.0
-48000.0,Herència canera,30510.72
-49000.0,Projecte Europeu Insulae,24452.09
-52000.0,Interessos,8500.0
-54900.0,Cessió d'ús parcial WIMAX,42600.0
-54901.0,Cessió d'us xarxa fibra óptica,15000.0
-55002.0,Cànon explotació Bar-Cafeteria Estació Autobusos Maó,8400.0
-60967.0,Conveni APB-CIM,0.0
-72000.0,Estat - Carreteres,6445580.0
-75060.0,Altres transferències de capital - Convenis amb CAIB,3160958.57
-75080.0,CAIB - Altres transferències de Capital de la CA,12414111.86
-75300.0,Conveni APB - CIM,500000.0
-76200.0,Pèrgoles Fotovoltaiques,510336.86
-83000.0,Reintegrament prèstecs,275000.0
-91300.0,Préstecs,13000000.0
+#Econ.,Denominación,Previsiones Iniciales,Modificaciones de previsiones,Previsiones Definitivas,Derechos reconocidos netos
+10000,Impost sobre la renda IRPF,1028389.31,0.0,1028389.31,261131.73
+17100,Recàrrec IAE,450000.0,0.0,450000.0,1541.32
+21000,Impost sobre el Valor afegit (IVA),1491590.59,0.0,1491590.59,371682.0
+22000,Impost sobre l'alcohol i begudes derivades,15909.78,0.0,15909.78,4033.44
+22001,Impost especial sobre la cervesa,5414.02,0.0,5414.02,1390.05
+22003,Impost especial sobre el tabac,135213.57,0.0,135213.57,34299.66
+22004,Impost especial sobre el combustible,184711.75,0.0,184711.75,46985.64
+22006,Altres imposts especials,469.08,0.0,469.08,119.43
+30900,Taxa Incendis,14200.0,0.0,14200.0,984.92
+31100,Taxes Discapacitats,162000.0,0.0,162000.0,39934.69
+31110,Taxes Residència de Gent Gran,780000.0,0.0,780000.0,177326.3
+31130,Taxes Centre de dia d'Alzheimer,85000.0,0.0,85000.0,8866.18
+32000,Taxes transferència caça i pesca fluvial,110000.0,0.0,110000.0,210.51
+32200,Taxes Habitabilitat,25000.0,0.0,25000.0,2305.38
+32300,Taxes Ordenació Territorial i Urbanisme,10000.0,0.0,10000.0,1673.63
+32500,Taxes Expedició de documents,3000.0,0.0,3000.0,0.0
+32900,Taxes Centre acollida animals,25000.0,0.0,25000.0,2164.84
+32901,Taxes ITV,1323498.85,0.0,1323498.85,157164.99
+32920,Taxes Transports,38000.0,0.0,38000.0,1658.82
+32930,Taxes Ordenació Turística,80000.0,0.0,80000.0,2738.48
+32940,Taxes Agricultura i Pesca,75000.0,0.0,75000.0,9637.81
+32950,Taxa Artesania,1000.0,0.0,1000.0,-51.18
+34100,PP.Serveis especials,35000.0,0.0,35000.0,1978.08
+34200,Educació de persones adultes,32000.0,0.0,32000.0,0.0
+34201,Matrícules Escola Art Dramàtic de Menorca,4000.0,0.0,4000.0,0.0
+34310,Esports: Gabinet de Medicina Esportiva,3400.0,0.0,3400.0,231.0
+34900,Productes Museu de Menorca,14000.0,0.0,14000.0,0.0
+36000,Venda Llibres,100.0,0.0,100.0,209.07
+36001,Venda de productes de la granja escola,15000.0,0.0,15000.0,1846.16
+36300,Vendes productes botiga Museu Menorca,0.0,0.0,0.0,235.16
+38901,Reintegrament d'operacions corrents d'exercicis tancats,0.0,0.0,0.0,0.0
+39190,Sancions,150000.0,0.0,150000.0,0.0
+39191,Sancions transports,0.0,0.0,0.0,34510.0
+39192,Sancions Turisme,0.0,0.0,0.0,100.0
+39193,Sancions de pesca,0.0,0.0,0.0,3710.0
+39198,Sancions de caça,0.0,0.0,0.0,36.0
+39211,Recàrrec de constrenyiment,2000.0,0.0,2000.0,1097.5
+39300,INTERESSOS DE DEMORA,0.0,0.0,0.0,321.44
+39900,Recursos eventuals,40000.0,0.0,40000.0,6300.4
+39910,Reintegrament anuncis contractació,10000.0,0.0,10000.0,0.0
+42010,Fons complementari de Finançament,13252229.74,0.0,13252229.74,3351700.77
+42090,Programa d'oci juvenil,25000.0,0.0,25000.0,25809.0
+42190,Gestió i conservació Finca Alforí de Dalt,80000.0,0.0,80000.0,14761.93
+42200,Transferències corrents de fundacions estatals- Plemar-Mareb,65113.13,0.0,65113.13,0.0
+42300,Participació traveses,85000.0,0.0,85000.0,13262.77
+42390,Altres organismes estatals,103000.0,0.0,103000.0,4998.65
+45001,CAIB - Altres transferències incondicionades,43154551.0,0.0,43154551.0,43154551.13
+45002,CAIB - Convenis en matèria d'acció social,1739017.28,80609.77,1819627.05,490903.15
+45030,CAIB - Convenis en matèria d'educació,20000.0,0.0,20000.0,-33668.07
+45050,CAIB - Convenis en matèria de formació,0.0,0.0,0.0,0.0
+45060,CAIB - Altres convenis subscrits amb la CAIB,1806500.0,1125000.0,2931500.0,562500.0
+45080,Altres subvencions CAIB (Sense conveni),1684468.68,0.0,1684468.68,1052769.41
+45100,Conveni ATIB Organització Congrés Espanyol d'Ecoturisme 2020,18000.0,0.0,18000.0,0.0
+45200,Transferències de fundacions autonòmiques-IGA Menorca,30000.0,0.0,30000.0,0.0
+45300,Posam valor a l'esport,30000.0,0.0,30000.0,0.0
+46200,Extinció i prevenció d'incendis,1020455.02,0.0,1020455.02,0.0
+46201,Ajuntaments - Biblioteques,74000.0,0.0,74000.0,0.0
+46202,Ajuntaments - Educació d'Adults,253654.08,0.0,253654.08,0.0
+46203,Ajuntaments - Serveis educatius educació primarenca,32173.35,0.0,32173.35,0.0
+46204,Ajuntaments - Protecció Animal,84377.0,0.0,84377.0,0.0
+46205,Ajuntaments - Monuments Arquelògics,53333.33,0.0,53333.33,0.0
+46206,Ajuntaments - Servei de riscos laborals,103411.49,0.0,103411.49,0.0
+46207,Ajuntaments - Neteja de platges,600000.0,0.0,600000.0,0.0
+46208,Ajuntaments - Manteniment carreteres,110986.82,0.0,110986.82,18483.02
+46210,Ajuntaments - Programa Moviments,0.0,0.0,0.0,0.0
+46211,IGA MENORCA,0.0,0.0,0.0,0.0
+46212,IDE Menorca,49000.0,0.0,49000.0,49000.0
+46213,Universitat Oberta Majors - Ajuntaments,8400.0,0.0,8400.0,0.0
+47000,Conveni asseguradora incendis,391012.0,0.0,391012.0,0.0
+48000,Herència canera,30510.72,0.0,30510.72,0.0
+49000,Projecte Europeu Insulae,24452.09,0.0,24452.09,0.0
+52000,Interessos,8500.0,0.0,8500.0,0.73
+54900,Cessió d'ús parcial WIMAX,42600.0,0.0,42600.0,0.0
+54901,Cessió d'us xarxa fibra óptica,15000.0,0.0,15000.0,0.0
+55002,Cànon explotació Bar-Cafeteria Estació Autobusos Maó,8400.0,0.0,8400.0,1119.99
+60967,Conveni APB-CIM,0.0,0.0,0.0,0.0
+68000,REINTEGRAMENT OPERACIONS D'EXERCICIS TANCATS.,0.0,0.0,0.0,27215.49
+72000,Transferències de l'Estat,6445580.0,0.0,6445580.0,1194000.0
+72390,"Transferències capital de societats, EPEs i OOPP de l'Estat",0.0,0.0,0.0,0.0
+75060,Altres transferències de capital - Convenis amb CAIB,3160958.57,0.0,3160958.57,0.0
+75080,CAIB - Altres transferències de Capital de la CA,12414111.86,0.0,12414111.86,5065300.82
+75100,D'organismes autònoms i agències de les CCAA,0.0,0.0,0.0,0.0
+75300,Conveni APB - CIM,500000.0,0.0,500000.0,1194000.0
+76200,Pèrgoles Fotovoltaiques,510336.86,0.0,510336.86,0.0
+76206,Transf. capital d'ajuntaments - Vehicle servei seg. i salut,0.0,0.0,0.0,0.0
+76700,Transferències de capital de consorcis,0.0,0.0,0.0,0.0
+82120,Reintegrament préstecs d'entitats locals,0.0,0.0,0.0,0.0
+83000,Reintegrament prèstecs,275000.0,0.0,275000.0,72349.0
+83001,Reintegrament préstec Queseria Menorquina,0.0,0.0,0.0,0.0
+87000,Romanent de tresoreria per a despses generals,0.0,0.0,0.0,0.0
+87010,Romanent de tresoreria per a despeses amb finançam. afectat,0.0,0.0,0.0,0.0
+91300,Préstecs,13000000.0,0.0,13000000.0,0.0
