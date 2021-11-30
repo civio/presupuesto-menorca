@@ -40,6 +40,7 @@
 1,7,0,00,"Gestión del Departamento de Medio Ambiente"
 1,7,2,00,"Agencia Menorca Reserva de Biosfera"
 1,7,2,01,"Camí de Cavalls"
+1,7,2,02,"Medio Ambiente"
 2,3,1,00,"Gestión del Departamento de Bienestar Social y Familia"
 2,3,1,01,"Gestión de la Dirección Insular de Atención a la Mujer, Infancia, Joventud e Immigración"
 2,3,1,10,"Coordinación y apoyo a la Red de Vivienda Social de Menorca"
@@ -67,6 +68,7 @@
 3,3,4,30,Cultura y turismo
 3,3,4,50,"Juventud"
 3,3,6,00,"Patrimonio histórico"
+3,3,6,01,"Agencia Menorca Talaiòtica"
 3,4,1,00,"Deporte"
 4,1,0,00,"Gestión de la Dirección Insular de Medio Rural y Marino"
 4,1,2,00,"Agricultura"
@@ -90,6 +92,7 @@
 9,2,0,20,"Servicio de Recursos Humanos"
 9,2,0,50,"Gestión del Departamento de Empleo, Proyección Económica, Juventud y Deporte"
 9,2,0,60,"Servicio de Secretaría y Servicios Jurídicos"
+9,2,0,61,"Servicios Jurídicos"
 9,2,0,80,"Servicio de Contratación"
 9,2,2,00,"Gestión del Departamento de Empleo, Vivienda y Cooperación Local"
 9,2,2,01,"Servicio Insular de Cooperación y Assistencia a los Municipios"
