@@ -112,9 +112,8 @@ COOKIES_URL = ''
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
-# Must be needed to uncomment 3rd line in order to import i18n_patterns
 EXTRA_URLS = (
-    url(r'^visita-guiada$', 'guidedvisit', name="guidedvisit"),
+    url(r'^visita-guiada$', 'guidedvisit'),
 )
 
 
