@@ -1,7 +1,7 @@
 #Área,Política,Grupo,Programa,Descripción
 #
 # Áreas de gasto y Políticas, definidas en la Orden HAP/419/2014 y comunes a todas las EELL.
-# Ver http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
+# Ver https://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
 0,,,,Deute públic
 0,1,,,Deute públic
 1,,,,Serveis públics bàsics
@@ -34,7 +34,7 @@
 9,4,,,Transferències a altres administracions
 #
 # Programas específicos de Menorca
-# http://www.cime.es/WebEditor/Pagines/file/Pressupost2017/Volum%20II_Pressupost%20CIM%202017.pdf
+# https://www.cime.es/WebEditor/Pagines/file/Pressupost2017/Volum%20II_Pressupost%20CIM%202017.pdf
 #
 0,1,1,00,"Amortització i interessos"
 1,3,6,00,"Servei prevenció i extinció d'incendis i salvament"
