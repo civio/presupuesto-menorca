@@ -1,75 +1,100 @@
-#Econ.,Denominación,Previsiones Iniciales
-10000.0,Impost sobre la renda IRPF,1186174.32
-17100.0,Recàrrec IAE,450000.0
-21000.0,Impost sobre el valor afegit (IVA),1817020.16
-22000.0,Impost sobre l'alcohol i begudes derivades,21274.48
-22001.0,Impost especial sobre la cervesa,6000.64
-22003.0,Impost especial sobre el tabac,105772.24
-22004.0,Impost especial sobre el combustible,181793.96
-22006.0,Altres imposts especials,675.68
-30900.0,Taxa incendis,15000.0
-31100.0,Taxes Discapacitats,175000.0
-31110.0,Taxes Residència de Gent Gran,810000.0
-31130.0,Taxes Centre de dia d'Alzheimer,57000.0
-32000.0,Taxes transferència caça i pesca fluvial,110000.0
-32200.0,Taxes Habitabilitat,45000.0
-32300.0,Taxes Ordenació Territorial i Urbanisme,8000.0
-32500.0,Taxes Expedició de documents,3000.0
-32900.0,Taxes Centre d'acollida d'animals,28000.0
-32901.0,Taxes ITV,1323498.85
-32920.0,Taxes Transports,40000.0
-32930.0,Taxes Ordenació Turística,50000.0
-32940.0,Taxes Agricultura i Pesca,75000.0
-32950.0,Taxes Artesania,1000.0
-33900.0,Taxa per ús espai Museu de Menorca,700.0
-33901.0,Taxa per servei visites Llatzeret,15000.0
-33902.0,Taxa per ús espai Llatzeret,20000.0
-34100.0,P.P. Serveis especials,10000.0
-34200.0,Educació de persones adultes,60000.0
-34201.0,Matrícules Escola Art Dramàtic de Menorca,6000.0
-34310.0,Esports: Gabinet de Medicina Esportiva,5000.0
-34400.0,Entrades Fira Arrels,20000.0
-34900.0,Productes Museu de Menorca,7500.0
-34901.0,Marca Reserva de la Biosfera,20000.0
-36000.0,Venda llibres,3100.0
-36001.0,Venda de productes de la granja escola,15000.0
-39191.0,Sancions Transports,70000.0
-39192.0,Sancions Turisme,550000.0
-39193.0,"Sancions agricultura, ramaderia, pesca i caça",8500.0
-39195.0,Sancions Medi Natural,3000.0
-39211.0,Recàrrec de constrenyiment,4000.0
-39900.0,Recursos eventuals,50000.0
-42010.0,Fons complementari de finançament,17079707.2
-42090.0,Altres transf. corrents de l'Admin. General de l'Estat,3520000.0
-42190.0,Gestió i conservació Finca Alforí de Dalt,80000.0
-42300.0,Participació travesses,85000.0
-42390.0,Altres organismes estatals,106000.0
-45001.0,CAIB - Altres transferències incondicionades,67638337.28
-45002.0,CAIB - Convenis en matèria d'acció social,1825282.17
-45030.0,CAIB - Convenis en matèria d'educació,191721.0
-45060.0,CAIB - Altres convenis subscrits amb la CAIB,1558500.0
-45080.0,CAIB - Altres subvencions (sense conveni),973115.72
-46200.0,Extinció i prevenció d'incendis,1358070.0
-46201.0,Ajuntaments - Biblioteques,78000.0
-46202.0,Ajuntaments - Educació de persones adultes,253654.08
-46203.0,Ajuntaments - Serveis atenció educativa infantil,68521.96
-46204.0,Ajuntaments - Protecció animal,208250.0
-46205.0,Ajuntaments - Monuments arqueològics,53333.33
-46206.0,Ajuntaments - Servei de riscos laborals,107551.7
-46207.0,Ajuntaments - Neteja de platges,592193.41
-46208.0,Ajuntaments - Manteniment carreteres,177592.73
-46212.0,IDE Menorca,49000.0
-46213.0,Ajuntaments - Universitat Oberta Majors,8400.0
-47000.0,Conveni Asseguradora Incendis,410000.0
-48000.0,Herència canera,30510.72
-49700.0,Altres transferències de la Unió Europea,25940.5
-49751.0,Altres transferències de la UE MRR via CCAA,115293.39
-52000.0,Interessos,300000.0
-53410.0,Dividends i participació beneficis de societats no depenents,800.0
-55002.0,Cànon explotació Bar-cafeteria estació autobusos Maó,4800.0
-72000.0,Transferències de capital de l'Administració de l'Estat,10624000.0
-75060.0,Altres transferències de capital - Convenis amb CAIB,2630000.0
-75080.0,CAIB - Altres transferències de Capital de la CA,14466117.91
-79751.0,Altres transferències de la UE MRR via CCAA,193128.07
-83000.0,Reintegrament préstecs,350000.0
-91300.0,Préstecs,30000000.0
+#Econ.,Denominación,Previsiones Iniciales,Modificaciones de previsiones,Previsiones Definitivas,Derechos reconocidos netos
+10000.0,Impost sobre la renda IRPF,1186174.32,0.0,1186174.32,329150.82
+17100.0,Recàrrec IAE,450000.0,0.0,450000.0,105351.57
+21000.0,Impost sobre el Valor afegit (IVA),1817020.16,0.0,1817020.16,457104.18
+22000.0,Impost sobre l'alcohol i begudes derivades,21274.48,0.0,21274.48,4858.41
+22001.0,Impost especial sobre la cervesa,6000.64,0.0,6000.64,1505.67
+22003.0,Impost especial sobre el tabac,105772.24,0.0,105772.24,30362.58
+22004.0,Impost especial sobre el combustible,181793.96,0.0,181793.96,48273.6
+22006.0,Altres imposts especials,675.68,0.0,675.68,161.28
+30900.0,Taxa Incendis,14202.0,0.0,14202.0,0.0
+31100.0,Taxes Discapacitats,175000.0,0.0,175000.0,46217.39
+31110.0,Taxes Residència de Gent Gran,780000.0,0.0,780000.0,189194.77
+31130.0,Taxes Centre de dia d'Alzheimer,50000.0,0.0,50000.0,15291.04
+32000.0,Taxes transferència caça i pesca fluvial,110000.0,0.0,110000.0,0.0
+32200.0,Taxes Habitabilitat,45000.0,0.0,45000.0,281.79
+32300.0,Taxes Ordenació Territorial i Urbanisme,8000.0,0.0,8000.0,0.0
+32500.0,Taxes Expedició de documents,3000.0,0.0,3000.0,0.0
+32900.0,Taxes Centre acollida animals,18000.0,0.0,18000.0,5016.82
+32901.0,Taxes ITV,1323498.85,0.0,1323498.85,157164.99
+32920.0,Taxes Transports,30000.0,0.0,30000.0,4068.52
+32930.0,Taxes Ordenació Turística,75000.0,0.0,75000.0,-734.56
+32940.0,Taxes Agricultura i Pesca,75000.0,0.0,75000.0,7522.73
+32950.0,Taxa Artesania,1000.0,0.0,1000.0,0.0
+32960.0,Taxes activitats d'espectacles públics i recreatives,0.0,0.0,0.0,0.0
+32970.0,Drets d'examen,0.0,0.0,0.0,0.0
+33900.0,Taxa per ús espai Museu de Menorca,1000.0,0.0,1000.0,0.0
+33901.0,Taxa per servei visites Llatzeret,15000.0,0.0,15000.0,0.0
+33902.0,Taxa per ús espai Llatzeret,20000.0,0.0,20000.0,65.0
+34100.0,PP.Serveis especials,35000.0,0.0,35000.0,1416.48
+34200.0,Educació de persones adultes,50000.0,0.0,50000.0,0.0
+34201.0,Matrícules Escola Art Dramàtic de Menorca,4000.0,0.0,4000.0,0.0
+34310.0,Esports: Gabinet de Medicina Esportiva,2400.0,0.0,2400.0,0.0
+34400.0,Entrades Fira Arrels,18000.0,0.0,18000.0,0.0
+34900.0,Productes Museu de Menorca,12000.0,0.0,12000.0,0.0
+34901.0,Marca Reserva de la Biosfera,10000.0,0.0,10000.0,0.0
+34902.0,Fira Arrels.,0.0,0.0,0.0,300.0
+36000.0,Venda Llibres,3100.0,0.0,3100.0,753.95
+36001.0,Venda de productes de la granja escola,15000.0,0.0,15000.0,3023.9
+36300.0,Vendes productes botiga Museu Menorca,0.0,0.0,0.0,927.74
+38901.0,Altres reintegraments d'operacions corrents,0.0,0.0,0.0,157228.52
+39190.0,Sancions,588000.0,0.0,588000.0,0.0
+39191.0,sancions transport,0.0,0.0,0.0,3002.0
+39192.0,sancions turisme,0.0,0.0,0.0,224007.2
+39193.0,"sancions agricultura, ramaderia, pesca i caça",0.0,0.0,0.0,4800.0
+39198.0,Sancions Caça,0.0,0.0,0.0,0.0
+39199.0,Sancions Litoral,0.0,0.0,0.0,30262.34
+39211.0,Recàrrec de constrenyiment,4000.0,0.0,4000.0,6141.58
+39300.0,Interessos de demora,0.0,0.0,0.0,7234.46
+39800.0,Indemnitzacions d'assegurances de no vida,0.0,0.0,0.0,0.0
+39900.0,Recursos eventuals,75000.0,0.0,75000.0,61310.18
+42010.0,Fons complementari de Finançament,15579707.2,0.0,15579707.2,3894926.22
+42090.0,Altres transf. corrents de l'Admin. General de l'Estat,708920.25,0.0,708920.25,4845.83
+42190.0,Gestió i conservació Finca Alforí de Dalt,80000.0,0.0,80000.0,36862.16
+42300.0,Participació traveses,85000.0,0.0,85000.0,4565.2
+42390.0,Altres organismes estatals,105000.0,0.0,105000.0,0.0
+45001.0,CAIB - Altres transferències incondicionades,63979637.65,0.0,63979637.65,67598337.28
+45002.0,CAIB - Convenis en matèria d'acció social,2125163.97,0.0,2125163.97,6000.0
+45030.0,CAIB - Convenis en matèria d'educació,146473.37,0.0,146473.37,0.0
+45060.0,CAIB - Altres convenis subscrits amb la CAIB,2408771.5,0.0,2408771.5,45000.0
+45080.0,CAIB - Altres subvencions (sense conveni),246538.28,0.0,246538.28,487290.88
+45300.0,Posam valor a l'esport,33044.0,0.0,33044.0,0.0
+46200.0,Ajuntaments - Extinció i prevenció d'incendis,1020455.02,0.0,1020455.02,0.0
+46201.0,Ajuntaments - Biblioteques,78000.0,0.0,78000.0,0.0
+46202.0,Ajuntaments - Educació d'Adults,253654.08,0.0,253654.08,0.0
+46203.0,Ajuntaments - Serveis educatius educació primarenca,68521.96,0.0,68521.96,0.0
+46204.0,Ajuntaments - Protecció Animal,84377.0,0.0,84377.0,0.0
+46205.0,Ajuntaments - Monuments Arquelògics,65000.0,0.0,65000.0,0.0
+46206.0,Ajuntaments - Servei de riscos laborals,113698.84,0.0,113698.84,0.0
+46207.0,Ajuntaments - Neteja de platges,600000.0,0.0,600000.0,0.0
+46208.0,Ajuntaments - Manteniment carreteres,177592.73,0.0,177592.73,54912.3
+46212.0,Ajuntaments - IDE Menorca,49000.0,0.0,49000.0,0.0
+46213.0,Ajuntaments - Universitat Oberta Majors,8400.0,0.0,8400.0,0.0
+46700.0,Transferències corrents de consorcis,0.0,0.0,0.0,0.0
+47000.0,Conveni asseguradora incendis,400000.0,0.0,400000.0,0.0
+48000.0,Herència canera,30510.72,0.0,30510.72,0.0
+49700.0,Altres transferències de la Unió Europea,183645.78,0.0,183645.78,20006.23
+49751.0,Altres transferències de la UE MRR via CCAA,125000.0,0.0,125000.0,0.0
+52000.0,Interessos,5000.0,0.0,5000.0,582114.99
+53410.0,Dividends i particip. en beneficis de societats no depenents,0.0,0.0,0.0,0.0
+54900.0,Cessió d'ús parcial WIMAX,21300.0,0.0,21300.0,0.0
+55002.0,Cànon explotació Bar-Cafeteria Estació Autobusos Maó,4800.0,0.0,4800.0,0.0
+59900.0,Altres ingressos patrimonials,0.0,0.0,0.0,0.0
+59910.0,Altres ingressos patrimonials (amb IVA),0.0,0.0,0.0,0.0
+61900.0,Alienació d'altres inversions reals,0.0,0.0,0.0,0.0
+68000.0,Reintegrament d'operacions d'exercicis tancats.,0.0,0.0,0.0,60000.0
+72000.0,Transferències de de capital de l'Administració de l'Estat,1000000.0,0.0,1000000.0,0.0
+72390.0,"Transferències capital de societats, EPEs i OOPP de l'Estat",1760869.44,0.0,1760869.44,0.0
+75002.0,CAIB - Convenis en matèria de serveis socials i igualtat,0.0,0.0,0.0,0.0
+75060.0,Altres transferències de capital - Convenis amb CAIB,3340964.52,0.0,3340964.52,2471000.0
+75080.0,CAIB - Altres transferències de Capital de la CA,8100499.24,0.0,8100499.24,7995117.91
+75100.0,D'organismes autònoms i agències de les comunitats autònomes,0.0,0.0,0.0,0.0
+75300.0,Conveni APB - CIM,723616.35,0.0,723616.35,0.0
+76200.0,Pèrgoles Fotovoltaiques,515596.25,0.0,515596.25,0.0
+77000.0,Transferències de capital d'empreses privades,23370.0,0.0,23370.0,0.0
+79751.0,Altres transferències de la UE MRR via CCAA,175000.0,0.0,175000.0,0.0
+83000.0,Reintegrament préstecs,350000.0,0.0,350000.0,72101.0
+83001.0,Reintegraments de préstecs de fora del sector públic a c/t,0.0,0.0,0.0,0.0
+87000.0,Romanent de tresoreria per a despeses generals,0.0,0.0,0.0,0.0
+87010.0,Romanent de Tresoreria Despeses amb Finançament Afectat,0.0,0.0,0.0,0.0
+91300.0,Préstecs,30470000.0,0.0,30470000.0,0.0
