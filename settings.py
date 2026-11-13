@@ -30,6 +30,9 @@ BUDGET_LOADER = 'MenorcaBudgetLoader'
 # Show Tax Receipt section in menu & home options. Default: False.
 # SHOW_TAX_RECEIPT = True
 
+# Show Guided Visit section in menu & home options. Default: False.
+SHOW_GUIDED_VISIT = True
+
 
 # Budget Settings
 # ----------------------

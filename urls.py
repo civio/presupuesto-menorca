@@ -1,11 +1,3 @@
-from django.urls import re_path
-
-# We can't import the theme module directly because it has a hyphen in its name. This works well.
-import importlib
-theme_views = importlib.import_module('presupuesto_menorca.views')
-
-# We can define additional URLs applicable only to the theme. These will get added
-# to the project URL patterns list.
-EXTRA_URLS = (
-    re_path(r'^visita-guiada$', theme_views.guidedvisit, name='guidedvisit'),
-)
+# Menorca has no URLs of its own any more. We keep this file because the servers may still
+# have an old Python 2 urls.pyc next to it, which Python would try to load without it.
+EXTRA_URLS = ()
