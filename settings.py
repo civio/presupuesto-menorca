@@ -30,12 +30,6 @@ BUDGET_LOADER = 'MenorcaBudgetLoader'
 # Show Tax Receipt section in menu & home options. Default: False.
 # SHOW_TAX_RECEIPT = True
 
-# Show Counties & Towns links in Policies section in menu & home options. Default: False.
-# SHOW_COUNTIES_AND_TOWNS = True
-
-# Search in entity names. Default: False.
-# SEARCH_ENTITIES = True
-
 
 # Budget Settings
 # ----------------------
